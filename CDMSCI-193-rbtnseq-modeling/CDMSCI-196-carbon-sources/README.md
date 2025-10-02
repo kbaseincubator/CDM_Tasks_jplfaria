@@ -135,9 +135,9 @@ experimental_growth = pd.read_csv('results/carbon_source_growth_matrix.csv', ind
 
 ## Next Steps
 
-1. ✅ Extract carbon sources (this task)
-2. → Proceed to CDMSCI-197 to map carbon sources to ModelSEED media formulations
-3. → Use in CDMSCI-199 for FBA validation
+1. Extract carbon sources (this task - Complete)
+2. Proceed to CDMSCI-197 to map carbon sources to ModelSEED media formulations
+3. Use in CDMSCI-199 for FBA validation
 
 ## Status
 

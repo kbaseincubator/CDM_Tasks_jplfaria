@@ -21,7 +21,7 @@ Experimental Data (Fitness Browser)
 
 ## Subtasks
 
-### 📁 CDMSCI-196: Compile Carbon Sources
+### CDMSCI-196: Compile Carbon Sources
 **Goal**: Extract all carbon sources tested across all 57 genomes
 
 **Outputs**:
@@ -29,11 +29,11 @@ Experimental Data (Fitness Browser)
 - Carbon source list with coverage statistics
 - Visualization heatmap
 
-**Status**: ✅ Complete - Notebook and script ready
+**Status**: Complete - Notebook and script ready
 
 ---
 
-### 📁 CDMSCI-197: Translate to Media Formulations
+### CDMSCI-197: Translate to Media Formulations
 **Goal**: Convert experimental carbon sources to computational media definitions
 
 **Outputs**:
@@ -41,11 +41,11 @@ Experimental Data (Fitness Browser)
 - Mapping table: Fitness Browser carbon source → ModelSEED compound ID
 - Basal media composition
 
-**Status**: ⏳ Pending
+**Status**: Pending
 
 ---
 
-### 📁 CDMSCI-198: Build Metabolic Models
+### CDMSCI-198: Build Metabolic Models
 **Goal**: Generate genome-scale metabolic models for all 57 organisms using RAST annotations
 
 **Outputs**:
@@ -53,11 +53,11 @@ Experimental Data (Fitness Browser)
 - Model statistics table
 - Gap-filling reports
 
-**Status**: ⏳ Pending
+**Status**: Pending
 
 ---
 
-### 📁 CDMSCI-199: FBA Simulations & Validation
+### CDMSCI-199: FBA Simulations & Validation
 **Goal**: Simulate growth and compare predictions with experimental data
 
 **Outputs**:
@@ -66,7 +66,7 @@ Experimental Data (Fitness Browser)
 - Performance metrics (precision, recall, F1-score)
 - Analysis of false positives/negatives
 
-**Status**: ⏳ Pending
+**Status**: Pending
 
 ## Confusion Matrix Definition
 
@@ -78,8 +78,8 @@ Growth      NO      FN          TN
 ```
 
 **Interpretations**:
-- **TP (True Positive)**: Grows experimentally AND grows in silico ✓
-- **TN (True Negative)**: Doesn't grow experimentally AND doesn't grow in silico ✓
+- **TP (True Positive)**: Grows experimentally AND grows in silico (correct prediction)
+- **TN (True Negative)**: Doesn't grow experimentally AND doesn't grow in silico (correct prediction)
 - **FP (False Positive)**: Doesn't grow experimentally BUT grows in silico (model over-predicts)
 - **FN (False Negative)**: Grows experimentally BUT doesn't grow in silico (model missing capabilities)
 
