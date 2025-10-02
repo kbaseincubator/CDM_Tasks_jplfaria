@@ -123,3 +123,7 @@ logs/
 !**/README.md
 !LICENSE
 !.gitignore
+
+# Claude instructions (local only)
+CLAUDE.md
+**/CLAUDE.md

@@ -1,31 +1,6 @@
 # CDM_Tasks_jplfaria
 
-**Project**: CDM Science - Data, Analysis, and Agents
-**Assignee**: José Pedro Faria
-**Organization**: KBase / DOE Systems Biology
-
 This repository contains ticket-based work for CDM (Collaborative Data Management) science projects. Each parent ticket folder contains subtasks organized as subfolders.
-
-## Repository Structure
-
-```
-CDM_Tasks_jplfaria/
-├── CDMSCI-193-rbtnseq-modeling/     # RBTnSeq growth/no-growth modeling
-│   ├── CDMSCI-196-carbon-sources/
-│   ├── CDMSCI-197-media-formulations/
-│   ├── CDMSCI-198-build-models/
-│   └── CDMSCI-199-fba-simulations/
-│
-└── CDMSCI-XXX-future-project/       # Future tickets (as assigned)
-```
-
-## Current Projects
-
-### CDMSCI-193: RBTnSeq Modeling Analysis
-
-Validate genome-scale metabolic models by comparing experimental growth data from Fitness Browser against computational predictions.
-
-See [CDMSCI-193-rbtnseq-modeling/PROJECT_README.md](CDMSCI-193-rbtnseq-modeling/PROJECT_README.md) for full details.
 
 ## How This Repository Works
 
@@ -39,7 +14,7 @@ Each ticket or task assigned gets its own folder at the root level:
 **In This Repository:**
 - Ticket folders with analysis code
 - Jupyter notebooks for data processing
-- Python scripts for automation
+- Python scripts
 - Small result files (CSV, JSON, PNG < 100MB)
 - Documentation and READMEs
 
@@ -67,8 +42,7 @@ cd CDMSCI-193-rbtnseq-modeling
 ## Contact
 
 **José Pedro Faria**
-**Email**: jplfaria@gmail.com
-**Organization**: KBase / DOE Systems Biology
+**Email**: jplfaria@anl.gov
 
 ## License
 

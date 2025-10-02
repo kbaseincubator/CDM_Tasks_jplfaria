@@ -41,7 +41,7 @@ See [`CDMSCI-193-rbtnseq-modeling/README.md`](CDMSCI-193-rbtnseq-modeling/README
 
 - Ticket folders with analysis code
 - Jupyter notebooks for data processing
-- Python scripts for automation
+- Python scripts
 - Small result files (CSV, JSON, PNG < 100MB)
 - Documentation and READMEs
 
@@ -161,7 +161,7 @@ git push origin main
 ## Contact
 
 **José Pedro Faria**
-**Email**: jplfaria@gmail.com
+**Email**: jplfaria@anl.gov
 **Organization**: KBase / DOE Systems Biology
 
 ## License
