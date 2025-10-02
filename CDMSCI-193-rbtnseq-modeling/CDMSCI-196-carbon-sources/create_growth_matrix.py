@@ -50,7 +50,6 @@ def load_organism_condition_pairs(conn, quality_filter=True):
         AND e.num > 0  -- Has fitness data
         AND e.gMed >= 50  -- Sufficient read depth
         AND (e.mad12 IS NULL OR e.mad12 <= 0.5)  -- Good gene-half consistency
-        AND (e.u IS NULL OR e.u = '')  -- No error flags
         """
 
     query += """
@@ -60,7 +59,7 @@ def load_organism_condition_pairs(conn, quality_filter=True):
 
     df = pd.read_sql_query(query, conn)
 
-    print(f"✓ Found {len(df)} organism-condition pairs")
+    print(f"Found {len(df)} organism-condition pairs")
     print(f"  Unique organisms: {df['orgId'].nunique()}")
     print(f"  Unique condition groups: {df['expGroup'].nunique()}")
     print(f"  Unique conditions: {df.groupby(['expGroup', 'condition_1']).ngroups}")
@@ -93,7 +92,7 @@ def create_binary_matrix(df, condition_col='condition_1'):
     # Convert to binary
     binary_matrix = (matrix > 0).astype(int)
 
-    print(f"✓ Matrix shape: {binary_matrix.shape[0]} organisms × {binary_matrix.shape[1]} conditions")
+    print(f"Matrix shape: {binary_matrix.shape[0]} organisms × {binary_matrix.shape[1]} conditions")
     print(f"  Total cells: {binary_matrix.size:,}")
     print(f"  Cells with data: {binary_matrix.sum().sum():,}")
     print(f"  Coverage: {100 * binary_matrix.sum().sum() / binary_matrix.size:.2f}%")
@@ -125,7 +124,7 @@ def create_hierarchical_matrix(df):
     # Convert to binary
     binary_matrix = (matrix > 0).astype(int)
 
-    print(f"✓ Matrix shape: {binary_matrix.shape[0]} organisms × {binary_matrix.shape[1]} conditions")
+    print(f"Matrix shape: {binary_matrix.shape[0]} organisms × {binary_matrix.shape[1]} conditions")
     print(f"  Total cells: {binary_matrix.size:,}")
     print(f"  Cells with data: {binary_matrix.sum().sum():,}")
     print(f"  Coverage: {100 * binary_matrix.sum().sum() / binary_matrix.size:.2f}%")
@@ -305,7 +304,7 @@ def main():
         output_path = Path(args.output)
         print(f"\nSaving matrix to: {output_path}")
         matrix.to_csv(output_path)
-        print(f"✓ Saved")
+        print(f"Saved")
 
         # Create condition-specific matrices if requested
         if args.by_group:
@@ -321,7 +320,7 @@ def main():
 
                 print(f"\nSaving {group} matrix to: {output_file}")
                 group_matrix.to_csv(output_file)
-                print(f"✓ Saved")
+                print(f"Saved")
 
         # Save statistics
         stats_file = output_path.with_suffix('.stats.txt')
@@ -334,7 +333,7 @@ def main():
                     f.write(f"{key}: {value:.2f}\n")
                 else:
                     f.write(f"{key}: {value}\n")
-        print(f"✓ Saved")
+        print(f"Saved")
 
         print("\n" + "="*70)
         print("COMPLETE")

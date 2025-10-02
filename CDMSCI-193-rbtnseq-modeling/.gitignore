@@ -1,0 +1,37 @@
+# Database files
+*.db
+*.sqlite
+feba.db
+
+# Large data files
+*.fasta
+*.faa
+*.fna
+data/raw/protein_sequences/
+data/raw/experiment_metadata/
+
+# Processed data
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Logs
+*.log
+data/raw/logs/
+*/logs/
+
+# macOS
+.DS_Store
+
+# Downloads
+downloads/downloads/
+downloads/feba_source/
+
+# Results (smaller results should be tracked, but large ones ignored)
+# Uncomment to ignore all results:
+# */results/*.csv
+# */results/*.png
