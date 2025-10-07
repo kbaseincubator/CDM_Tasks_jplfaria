@@ -1,291 +1,291 @@
 Organism_ID,Organism_Name,Carbon_Source_Supp,Carbon_Source_Our,Fitness_Browser_Call,Supplementary_Call,Type
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Glucose,D-Glucose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Fructose,D-Fructose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Fructose,D-Fructose,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Cola,"Bacteroidetes: Echinicola vietnamensis KMM 6221, DSM 17526",Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Arabinose,L-Arabinose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Arabinose,D-Arabinose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Maltose monohydrate,D-Maltose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Sorbose,L-(-)-sorbose,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
-Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Galactose,D-Galactose,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,D-Galactose,D-Galactose,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,D-Raffinose pentahydrate,D-Raffinose pentahydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Raffinose pentahydrate,D-Raffinose pentahydrate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
-Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Fucose,L-Fucose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Fucose,L-Fucose,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,a-Ketoglutaric acid disodium salt hydrate,a-Ketoglutaric acid disodium salt hydrate,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Gluconic Acid sodium salt,D-Gluconic Acid sodium salt,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Gluconic Acid sodium salt,D-Gluconic Acid sodium salt,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate sodium salt,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Marino,Gammaproteobacteria: Marinobacter adhaerens HP15,Sodium Fumarate dibasic,Sodium Fumarate dibasic,Growth,No Growth,FB_Growth_Supp_NoGrowth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Cellobiose,D-Cellobiose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,2-Deoxy-D-Ribose,2-Deoxy-D-Ribose,Growth,No Growth,FB_Growth_Supp_NoGrowth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Citric Acid,Citric Acid,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,"Sodium D,L-Lactate","Sodium D,L-Lactate",No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,"Sodium D,L-Lactate","Sodium D,L-Lactate",No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sodium pyruvate,Sodium pyruvate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sodium pyruvate,Sodium pyruvate,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Sodium propionate,Sodium propionate,Growth,No Growth,FB_Growth_Supp_NoGrowth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Xylitol,Xylitol,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Cola,"Bacteroidetes: Echinicola vietnamensis KMM 6221, DSM 17526",D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Galacturonic Acid monohydrate,D-Galacturonic Acid monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,D-Galacturonic Acid monohydrate,D-Galacturonic Acid monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Ethanol,Ethanol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,Ethanol,Ethanol,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Glycerol,Glycerol,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-Marino,Gammaproteobacteria: Marinobacter adhaerens HP15,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,L-Aspartic Acid,L-Aspartic Acid,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
-MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,L-Threonine,L-Threonine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
-Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,Glycine,Glycine,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Isoleucine,L-Isoleucine,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,L-Isoleucine,L-Isoleucine,No Data,Growth,FB_NoData_Supp_Growth
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,L-Leucine,L-Leucine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,L-Leucine,L-Leucine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,L-Tryptophan,L-Tryptophan,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Serine,D-Serine,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Gly-DL-Asp,Gly-DL-Asp,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,Gly-DL-Asp,Gly-DL-Asp,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,L-Citrulline,L-Citrulline,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,Carnitine Hydrochloride,Carnitine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Thymidine,Thymidine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Thymidine,Thymidine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
-Keio,Gammaproteobacteria: Escherichia coli BW25113,Cytidine,Cytidine,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Cytidine,Cytidine,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,D-Salicin,D-Salicin,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Salicin,D-Salicin,No Data,Growth,FB_NoData_Supp_Growth
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,Beta-Lactose,Beta-Lactose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,Beta-Lactose,Beta-Lactose,No Data,Growth,FB_NoData_Supp_Growth
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
-PS,Betaproteobacteria: Dechlorosoma suillum PS,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,D-Tagatose,D-(-)-tagatose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Glucose,D-Glucose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Fructose,D-Fructose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Fructose,D-Fructose,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Caulo,Caulobacter crescentus NA1000,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Cola,Echinicola vietnamensis KMM 6221, DSM 17526,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+psRCH2,Pseudomonas stutzeri RCH2,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Korea,Sphingomonas koreensis DSMZ 15582,Sucrose,Sucrose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Arabinose,L-Arabinose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Arabinose,D-Arabinose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Maltose monohydrate,D-Maltose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Sorbose,L-(-)-sorbose,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,D-Xylose,D-Xylose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Galactose,D-Galactose,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,D-Galactose,D-Galactose,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,D-Raffinose pentahydrate,D-Raffinose pentahydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Raffinose pentahydrate,D-Raffinose pentahydrate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Korea,Sphingomonas koreensis DSMZ 15582,L-Rhamnose monohydrate,L-Rhamnose monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,a-Cyclodextrin,a-Cyclodextrin,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,D-Ribose,D-Ribose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Fucose,L-Fucose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Fucose,L-Fucose,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,a-Ketoglutaric acid disodium salt hydrate,a-Ketoglutaric acid disodium salt hydrate,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,D-Glucuronic Acid,D-Glucuronic Acid,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Gluconic Acid sodium salt,D-Gluconic Acid sodium salt,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Gluconic Acid sodium salt,D-Gluconic Acid sodium salt,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate sodium salt,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+Dino,Dinoroseobacter shibae DFL-12,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+MR1,Shewanella oneidensis MR-1,Potassium acetate,Potassium acetate,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Marino,Marinobacter adhaerens HP15,Sodium Fumarate dibasic,Sodium Fumarate dibasic,Growth,No Growth,FB_Growth_Supp_NoGrowth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,Sodium Fumarate dibasic,Sodium Fumarate dibasic,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Cellobiose,D-Cellobiose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,2-Deoxy-D-Ribose,2-Deoxy-D-Ribose,Growth,No Growth,FB_Growth_Supp_NoGrowth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Trisodium citrate dihydrate,Trisodium citrate dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,Citric Acid,Citric Acid,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+MR1,Shewanella oneidensis MR-1,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,Sodium D-Lactate,Sodium D-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sodium L-Lactate,Sodium L-Lactate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,"Sodium D,L-Lactate","Sodium D,L-Lactate",No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,"Sodium D,L-Lactate","Sodium D,L-Lactate",No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sodium pyruvate,Sodium pyruvate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sodium pyruvate,Sodium pyruvate,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Sodium propionate,Sodium propionate,Growth,No Growth,FB_Growth_Supp_NoGrowth
+HerbieS,Herbaspirillum seropedicae SmR1,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,Sodium propionate,Sodium propionate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Xylitol,Xylitol,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Caulo,Caulobacter crescentus NA1000,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Dino,Dinoroseobacter shibae DFL-12,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Cola,Echinicola vietnamensis KMM 6221, DSM 17526,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+Korea,Sphingomonas koreensis DSMZ 15582,D-Mannitol,D-Mannitol,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
+Dino,Dinoroseobacter shibae DFL-12,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,m-Inositol,m-Inositol,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Galacturonic Acid monohydrate,D-Galacturonic Acid monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,D-Galacturonic Acid monohydrate,D-Galacturonic Acid monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Ethanol,Ethanol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,Ethanol,Ethanol,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Glycerol,Glycerol,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,D-Sorbitol,D-Sorbitol,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,"D,L-Malic Acid","D,L-Malic Acid",No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,Tween 20,Tween 20,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+Korea,Sphingomonas koreensis DSMZ 15582,D-Trehalose dihydrate,D-Trehalose dihydrate,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+Marino,Marinobacter adhaerens HP15,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,L-Arginine,L-Arginine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,L-Histidine,L-Histidine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Lysine,L-Lysine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,L-Aspartic Acid,L-Aspartic Acid,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,L-Serine,L-Serine,No Data,Growth,FB_NoData_Supp_Growth
+MR1,Shewanella oneidensis MR-1,L-Threonine,L-Threonine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,L-Asparagine,L-Asparagine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
+Caulo,Caulobacter crescentus NA1000,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,L-Glutamine,L-Glutamine,No Data,Growth,FB_NoData_Supp_Growth
+psRCH2,Pseudomonas stutzeri RCH2,Glycine,Glycine,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,L-Proline,L-Proline,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,L-Alanine,L-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
+psRCH2,Pseudomonas stutzeri RCH2,L-Valine,L-Valine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Isoleucine,L-Isoleucine,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,L-Isoleucine,L-Isoleucine,No Data,Growth,FB_NoData_Supp_Growth
+acidovorax_3H11,Acidovorax sp. GW101-3H11,L-Leucine,L-Leucine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,L-Leucine,L-Leucine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,L-Phenylalanine,L-Phenylalanine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,L-Tryptophan,L-Tryptophan,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Serine,D-Serine,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,D-Alanine,D-Alanine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Gly-DL-Asp,Gly-DL-Asp,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,Gly-DL-Asp,Gly-DL-Asp,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,Gly-Glu,Gly-Glu,No Data,Growth,FB_NoData_Supp_Growth
+psRCH2,Pseudomonas stutzeri RCH2,L-Citrulline,L-Citrulline,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,Carnitine Hydrochloride,Carnitine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+azobra,Azospirillum brasilense Sp245,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Caulo,Caulobacter crescentus NA1000,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+WCS417,Pseudomonas simiae WCS417,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Smeli,Sinorhizobium meliloti 1021,casamino acids,casamino acids,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+ANA3,Shewanella sp. ANA-3,Putrescine Dihydrochloride,Putrescine Dihydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
+HerbieS,Herbaspirillum seropedicae SmR1,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+MR1,Shewanella oneidensis MR-1,D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,Adenosine,Adenosine,No Data,Growth,FB_NoData_Supp_Growth
+Dino,Dinoroseobacter shibae DFL-12,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Uridine,Uridine,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Thymidine,Thymidine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Thymidine,Thymidine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
+PV4,Shewanella loihica PV-4,Inosine,Inosine,No Data,Growth,FB_NoData_Supp_Growth
+Keio,Escherichia coli BW25113,Cytidine,Cytidine,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Cytidine,Cytidine,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,D-Salicin,D-Salicin,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Salicin,D-Salicin,No Data,Growth,FB_NoData_Supp_Growth
+Dyella79,Dyella japonica UNC79MFTsu3.2,Beta-Lactose,Beta-Lactose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,Beta-Lactose,Beta-Lactose,No Data,Growth,FB_NoData_Supp_Growth
+Burk376,Paraburkholderia bryophila 376MFSha3.1,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
+Dino,Dinoroseobacter shibae DFL-12,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Mannose,D-Mannose,No Data,Growth,FB_NoData_Supp_Growth
+Cup4G11,Cupriavidus basilensis FW507-4G11,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
+Phaeo,Phaeobacter inhibens DSM 17395,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
+psRCH2,Pseudomonas stutzeri RCH2,Sodium octanoate,Sodium octanoate,No Data,Growth,FB_NoData_Supp_Growth
+PS,Dechlorosoma suillum PS,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
+SB2B,Shewanella amazonensis SB2B,Sodium butyrate,Sodium butyrate,No Data,Growth,FB_NoData_Supp_Growth
+Kang,Kangiella aquimarina DSM 16071,D-Tagatose,D-(-)-tagatose,No Data,Growth,FB_NoData_Supp_Growth
