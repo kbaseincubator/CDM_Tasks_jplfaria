@@ -1,58 +1,58 @@
-orgId,Full_Species_Name,NCBI_TaxID,division,genus,species,strain
-ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,94122,Gammaproteobacteria,Shewanella,sp.,ANA-3
-BFirm,Betaproteobacteria: Burkholderia phytofirmans PsJN,398527,Betaproteobacteria,Burkholderia,phytofirmans,PsJN
-Bifido,Actinobacteria: Bifidobacterium breve UCC2003,326426,Actinobacteria,Bifidobacterium,breve,UCC2003
-Brev2,Alphaproteobacteria: Brevundimonas sp. GW460-12-10-14-LB2,41275,Alphaproteobacteria,Brevundimonas,sp.,GW460-12-10-14-LB2
-Btheta,Bacteroidetes: Bacteroides thetaiotaomicron VPI-5482,226186,Bacteroidetes,Bacteroides,thetaiotaomicron,VPI-5482
-Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,1169143,Betaproteobacteria,Paraburkholderia,bryophila,376MFSha3.1
-Burkholderia_OAS925,Betaproteobacteria: Paraburkholderia graminis OAS925,32008,Betaproteobacteria,Paraburkholderia,graminis,OAS925
-Bvulgatus_CL09T03C04,Bacteroidetes: Phocaeicola vulgatus CL09T03C04,997891,Bacteroidetes,Phocaeicola,vulgatus,CL09T03C04
-CL21,Betaproteobacteria: Ralstonia sp. UNC404CL21Col,1380362,Betaproteobacteria,Ralstonia,sp.,UNC404CL21Col
-Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,565050,Alphaproteobacteria,Caulobacter,crescentus,NA1000
-Cola,"Bacteroidetes: Echinicola vietnamensis KMM 6221, DSM 17526",926556,Bacteroidetes,Echinicola,vietnamensis,"KMM 6221, DSM 17526"
-Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,68895,Betaproteobacteria,Cupriavidus,basilensis,FW507-4G11
-Dda3937,Gammaproteobacteria: Dickeya dadantii 3937,198628,Gammaproteobacteria,Dickeya,dadantii,3937
-Ddia6719,Gammaproteobacteria: Dickeya dianthicola 67-19,204039,Gammaproteobacteria,Dickeya,dianthicola,67-19
-DdiaME23,Gammaproteobacteria: Dickeya dianthicola ME23,204039,Gammaproteobacteria,Dickeya,dianthicola,ME23
-Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,398580,Alphaproteobacteria,Dinoroseobacter,shibae,DFL-12
-DvH,Deltaproteobacteria: Desulfovibrio vulgaris Hildenborough JW710,882,Deltaproteobacteria,Desulfovibrio,vulgaris,Hildenborough JW710
-Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,1380365,Gammaproteobacteria,Dyella,japonica,UNC79MFTsu3.2
-HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,757424,Betaproteobacteria,Herbaspirillum,seropedicae,SmR1
-Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,1122134,Gammaproteobacteria,Kangiella,aquimarina,DSM 16071
-Keio,Gammaproteobacteria: Escherichia coli BW25113,511145,Gammaproteobacteria,Escherichia,coli,BW25113
-Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,93064,Alphaproteobacteria,Sphingomonas,koreensis,DSMZ 15582
-Koxy,Gammaproteobacteria: Klebsiella michiganensis M5al,290337,Gammaproteobacteria,Klebsiella,michiganensis,M5al
-Lysobacter_OAE881,Gammaproteobacteria: Lysobacter sp. OAE881,68,Gammaproteobacteria,Lysobacter,sp.,OAE881
-MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,211586,Gammaproteobacteria,Shewanella,oneidensis,MR-1
-Magneto,Alphaproteobacteria: Magnetospirillum magneticum AMB-1,342108,Alphaproteobacteria,Magnetospirillum,magneticum,AMB-1
-Marino,Gammaproteobacteria: Marinobacter adhaerens HP15,225937,Gammaproteobacteria,Marinobacter,adhaerens,HP15
-Methanococcus_JJ,Euryarchaeota: Methanococcus maripaludis JJ,39152,Euryarchaeota,Methanococcus,maripaludis,JJ
-Methanococcus_S2,Euryarchaeota: Methanococcus maripaludis S2,267377,Euryarchaeota,Methanococcus,maripaludis,S2
-Miya,Deltaproteobacteria: Desulfovibrio vulgaris Miyazaki F,883,Deltaproteobacteria,Desulfovibrio,vulgaris,Miyazaki F
-PS,Betaproteobacteria: Dechlorosoma suillum PS,640081,Betaproteobacteria,Dechlorosoma,suillum,PS
-PV4,Gammaproteobacteria: Shewanella loihica PV-4,323850,Gammaproteobacteria,Shewanella,loihica,PV-4
-Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,84566,Bacteroidetes,Pedobacter,sp.,GW460-11-11-14-LB5
-Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,391619,Alphaproteobacteria,Phaeobacter,inhibens,DSM 17395
-Ponti,"Bacteroidetes: Pontibacter actiniarum KMM 6156, DSM 19842",709015,Bacteroidetes,Pontibacter,actiniarum,"KMM 6156, DSM 19842"
-Putida,Gammaproteobacteria: Pseudomonas putida KT2440,160488,Gammaproteobacteria,Pseudomonas,putida,KT2440
-RalstoniaBSBF1503,Betaproteobacteria: Ralstonia solanacearum IBSBF1503,305,Betaproteobacteria,Ralstonia,solanacearum,IBSBF1503
-RalstoniaGMI1000,Betaproteobacteria: Ralstonia solanacearum GMI1000,267608,Betaproteobacteria,Ralstonia,solanacearum,GMI1000
-RalstoniaPSI07,Betaproteobacteria: Ralstonia solanacearum PSI07,305,Betaproteobacteria,Ralstonia,solanacearum,PSI07
-RalstoniaUW163,Betaproteobacteria: Ralstonia solanacearum UW163,305,Betaproteobacteria,Ralstonia,solanacearum,UW163
-SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,326297,Gammaproteobacteria,Shewanella,amazonensis,SB2B
-Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,266834,Alphaproteobacteria,Sinorhizobium,meliloti,1021
-SynE,Cyanobacteria: Synechococcus elongatus PCC 7942,1140,Cyanobacteria,Synechococcus,elongatus,PCC 7942
-SyringaeB728a,Gammaproteobacteria: Pseudomonas syringae pv. syringae B728a,205918,Gammaproteobacteria,Pseudomonas,syringae,pv. syringae B728a
-SyringaeB728a_mexBdelta,Gammaproteobacteria: Pseudomonas syringae pv. syringae B728a &Delta;mexB,205918,Gammaproteobacteria,Pseudomonas,syringae,pv. syringae B728a &Delta;mexB
-Variovorax_OAS795,Betaproteobacteria: Variovorax sp. OAS795,34072,Betaproteobacteria,Variovorax,sp.,OAS795
-WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,321846,Gammaproteobacteria,Pseudomonas,simiae,WCS417
-Xantho,Gammaproteobacteria: Xanthomonas campestris pv. campestris strain 8004,314565,Gammaproteobacteria,Xanthomonas,campestris,pv. campestris strain 8004
-acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,12916,Betaproteobacteria,Acidovorax,sp.,GW101-3H11
-azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,1064539,Alphaproteobacteria,Azospirillum,brasilense,Sp245
-psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,644801,Gammaproteobacteria,Pseudomonas,stutzeri,RCH2
-pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,294,Gammaproteobacteria,Pseudomonas,fluorescens,GW456-L13
-pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N1B4
-pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2E3
-pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2C3
-pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2E2
-rhodanobacter_10B01,Gammaproteobacteria: Rhodanobacter denitrificans FW104-10B01,75309,Gammaproteobacteria,Rhodanobacter,denitrificans,FW104-10B01
+orgId,Full_Species_Name,NCBI_TaxID,division,genus,species,strain,Species_Name
+ANA3,Gammaproteobacteria: Shewanella sp. ANA-3,94122,Gammaproteobacteria,Shewanella,sp.,ANA-3,Shewanella sp. ANA-3
+BFirm,Betaproteobacteria: Burkholderia phytofirmans PsJN,398527,Betaproteobacteria,Burkholderia,phytofirmans,PsJN,Burkholderia phytofirmans PsJN
+Bifido,Actinobacteria: Bifidobacterium breve UCC2003,326426,Actinobacteria,Bifidobacterium,breve,UCC2003,Bifidobacterium breve UCC2003
+Brev2,Alphaproteobacteria: Brevundimonas sp. GW460-12-10-14-LB2,41275,Alphaproteobacteria,Brevundimonas,sp.,GW460-12-10-14-LB2,Brevundimonas sp. GW460-12-10-14-LB2
+Btheta,Bacteroidetes: Bacteroides thetaiotaomicron VPI-5482,226186,Bacteroidetes,Bacteroides,thetaiotaomicron,VPI-5482,Bacteroides thetaiotaomicron VPI-5482
+Burk376,Betaproteobacteria: Paraburkholderia bryophila 376MFSha3.1,1169143,Betaproteobacteria,Paraburkholderia,bryophila,376MFSha3.1,Paraburkholderia bryophila 376MFSha3.1
+Burkholderia_OAS925,Betaproteobacteria: Paraburkholderia graminis OAS925,32008,Betaproteobacteria,Paraburkholderia,graminis,OAS925,Paraburkholderia graminis OAS925
+Bvulgatus_CL09T03C04,Bacteroidetes: Phocaeicola vulgatus CL09T03C04,997891,Bacteroidetes,Phocaeicola,vulgatus,CL09T03C04,Phocaeicola vulgatus CL09T03C04
+CL21,Betaproteobacteria: Ralstonia sp. UNC404CL21Col,1380362,Betaproteobacteria,Ralstonia,sp.,UNC404CL21Col,Ralstonia sp. UNC404CL21Col
+Caulo,Alphaproteobacteria: Caulobacter crescentus NA1000,565050,Alphaproteobacteria,Caulobacter,crescentus,NA1000,Caulobacter crescentus NA1000
+Cola,"Bacteroidetes: Echinicola vietnamensis KMM 6221, DSM 17526",926556,Bacteroidetes,Echinicola,vietnamensis,"KMM 6221, DSM 17526","Echinicola vietnamensis KMM 6221, DSM 17526"
+Cup4G11,Betaproteobacteria: Cupriavidus basilensis FW507-4G11,68895,Betaproteobacteria,Cupriavidus,basilensis,FW507-4G11,Cupriavidus basilensis FW507-4G11
+Dda3937,Gammaproteobacteria: Dickeya dadantii 3937,198628,Gammaproteobacteria,Dickeya,dadantii,3937,Dickeya dadantii 3937
+Ddia6719,Gammaproteobacteria: Dickeya dianthicola 67-19,204039,Gammaproteobacteria,Dickeya,dianthicola,67-19,Dickeya dianthicola 67-19
+DdiaME23,Gammaproteobacteria: Dickeya dianthicola ME23,204039,Gammaproteobacteria,Dickeya,dianthicola,ME23,Dickeya dianthicola ME23
+Dino,Alphaproteobacteria: Dinoroseobacter shibae DFL-12,398580,Alphaproteobacteria,Dinoroseobacter,shibae,DFL-12,Dinoroseobacter shibae DFL-12
+DvH,Deltaproteobacteria: Desulfovibrio vulgaris Hildenborough JW710,882,Deltaproteobacteria,Desulfovibrio,vulgaris,Hildenborough JW710,Desulfovibrio vulgaris Hildenborough JW710
+Dyella79,Gammaproteobacteria: Dyella japonica UNC79MFTsu3.2,1380365,Gammaproteobacteria,Dyella,japonica,UNC79MFTsu3.2,Dyella japonica UNC79MFTsu3.2
+HerbieS,Betaproteobacteria: Herbaspirillum seropedicae SmR1,757424,Betaproteobacteria,Herbaspirillum,seropedicae,SmR1,Herbaspirillum seropedicae SmR1
+Kang,Gammaproteobacteria: Kangiella aquimarina DSM 16071,1122134,Gammaproteobacteria,Kangiella,aquimarina,DSM 16071,Kangiella aquimarina DSM 16071
+Keio,Gammaproteobacteria: Escherichia coli BW25113,511145,Gammaproteobacteria,Escherichia,coli,BW25113,Escherichia coli BW25113
+Korea,Alphaproteobacteria: Sphingomonas koreensis DSMZ 15582,93064,Alphaproteobacteria,Sphingomonas,koreensis,DSMZ 15582,Sphingomonas koreensis DSMZ 15582
+Koxy,Gammaproteobacteria: Klebsiella michiganensis M5al,290337,Gammaproteobacteria,Klebsiella,michiganensis,M5al,Klebsiella michiganensis M5al
+Lysobacter_OAE881,Gammaproteobacteria: Lysobacter sp. OAE881,68,Gammaproteobacteria,Lysobacter,sp.,OAE881,Lysobacter sp. OAE881
+MR1,Gammaproteobacteria: Shewanella oneidensis MR-1,211586,Gammaproteobacteria,Shewanella,oneidensis,MR-1,Shewanella oneidensis MR-1
+Magneto,Alphaproteobacteria: Magnetospirillum magneticum AMB-1,342108,Alphaproteobacteria,Magnetospirillum,magneticum,AMB-1,Magnetospirillum magneticum AMB-1
+Marino,Gammaproteobacteria: Marinobacter adhaerens HP15,225937,Gammaproteobacteria,Marinobacter,adhaerens,HP15,Marinobacter adhaerens HP15
+Methanococcus_JJ,Euryarchaeota: Methanococcus maripaludis JJ,39152,Euryarchaeota,Methanococcus,maripaludis,JJ,Methanococcus maripaludis JJ
+Methanococcus_S2,Euryarchaeota: Methanococcus maripaludis S2,267377,Euryarchaeota,Methanococcus,maripaludis,S2,Methanococcus maripaludis S2
+Miya,Deltaproteobacteria: Desulfovibrio vulgaris Miyazaki F,883,Deltaproteobacteria,Desulfovibrio,vulgaris,Miyazaki F,Desulfovibrio vulgaris Miyazaki F
+PS,Betaproteobacteria: Dechlorosoma suillum PS,640081,Betaproteobacteria,Dechlorosoma,suillum,PS,Dechlorosoma suillum PS
+PV4,Gammaproteobacteria: Shewanella loihica PV-4,323850,Gammaproteobacteria,Shewanella,loihica,PV-4,Shewanella loihica PV-4
+Pedo557,Bacteroidetes: Pedobacter sp. GW460-11-11-14-LB5,84566,Bacteroidetes,Pedobacter,sp.,GW460-11-11-14-LB5,Pedobacter sp. GW460-11-11-14-LB5
+Phaeo,Alphaproteobacteria: Phaeobacter inhibens DSM 17395,391619,Alphaproteobacteria,Phaeobacter,inhibens,DSM 17395,Phaeobacter inhibens DSM 17395
+Ponti,"Bacteroidetes: Pontibacter actiniarum KMM 6156, DSM 19842",709015,Bacteroidetes,Pontibacter,actiniarum,"KMM 6156, DSM 19842","Pontibacter actiniarum KMM 6156, DSM 19842"
+Putida,Gammaproteobacteria: Pseudomonas putida KT2440,160488,Gammaproteobacteria,Pseudomonas,putida,KT2440,Pseudomonas putida KT2440
+RalstoniaBSBF1503,Betaproteobacteria: Ralstonia solanacearum IBSBF1503,305,Betaproteobacteria,Ralstonia,solanacearum,IBSBF1503,Ralstonia solanacearum IBSBF1503
+RalstoniaGMI1000,Betaproteobacteria: Ralstonia solanacearum GMI1000,267608,Betaproteobacteria,Ralstonia,solanacearum,GMI1000,Ralstonia solanacearum GMI1000
+RalstoniaPSI07,Betaproteobacteria: Ralstonia solanacearum PSI07,305,Betaproteobacteria,Ralstonia,solanacearum,PSI07,Ralstonia solanacearum PSI07
+RalstoniaUW163,Betaproteobacteria: Ralstonia solanacearum UW163,305,Betaproteobacteria,Ralstonia,solanacearum,UW163,Ralstonia solanacearum UW163
+SB2B,Gammaproteobacteria: Shewanella amazonensis SB2B,326297,Gammaproteobacteria,Shewanella,amazonensis,SB2B,Shewanella amazonensis SB2B
+Smeli,Alphaproteobacteria: Sinorhizobium meliloti 1021,266834,Alphaproteobacteria,Sinorhizobium,meliloti,1021,Sinorhizobium meliloti 1021
+SynE,Cyanobacteria: Synechococcus elongatus PCC 7942,1140,Cyanobacteria,Synechococcus,elongatus,PCC 7942,Synechococcus elongatus PCC 7942
+SyringaeB728a,Gammaproteobacteria: Pseudomonas syringae pv. syringae B728a,205918,Gammaproteobacteria,Pseudomonas,syringae,pv. syringae B728a,Pseudomonas syringae pv. syringae B728a
+SyringaeB728a_mexBdelta,Gammaproteobacteria: Pseudomonas syringae pv. syringae B728a &Delta;mexB,205918,Gammaproteobacteria,Pseudomonas,syringae,pv. syringae B728a &Delta;mexB,Pseudomonas syringae pv. syringae B728a &Delta;mexB
+Variovorax_OAS795,Betaproteobacteria: Variovorax sp. OAS795,34072,Betaproteobacteria,Variovorax,sp.,OAS795,Variovorax sp. OAS795
+WCS417,Gammaproteobacteria: Pseudomonas simiae WCS417,321846,Gammaproteobacteria,Pseudomonas,simiae,WCS417,Pseudomonas simiae WCS417
+Xantho,Gammaproteobacteria: Xanthomonas campestris pv. campestris strain 8004,314565,Gammaproteobacteria,Xanthomonas,campestris,pv. campestris strain 8004,Xanthomonas campestris pv. campestris strain 8004
+acidovorax_3H11,Betaproteobacteria: Acidovorax sp. GW101-3H11,12916,Betaproteobacteria,Acidovorax,sp.,GW101-3H11,Acidovorax sp. GW101-3H11
+azobra,Alphaproteobacteria: Azospirillum brasilense Sp245,1064539,Alphaproteobacteria,Azospirillum,brasilense,Sp245,Azospirillum brasilense Sp245
+psRCH2,Gammaproteobacteria: Pseudomonas stutzeri RCH2,644801,Gammaproteobacteria,Pseudomonas,stutzeri,RCH2,Pseudomonas stutzeri RCH2
+pseudo13_GW456_L13,Gammaproteobacteria: Pseudomonas fluorescens GW456-L13,294,Gammaproteobacteria,Pseudomonas,fluorescens,GW456-L13,Pseudomonas fluorescens GW456-L13
+pseudo1_N1B4,Gammaproteobacteria: Pseudomonas fluorescens FW300-N1B4,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N1B4,Pseudomonas fluorescens FW300-N1B4
+pseudo3_N2E3,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E3,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2E3,Pseudomonas fluorescens FW300-N2E3
+pseudo5_N2C3_1,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2C3,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2C3,Pseudomonas fluorescens FW300-N2C3
+pseudo6_N2E2,Gammaproteobacteria: Pseudomonas fluorescens FW300-N2E2,294,Gammaproteobacteria,Pseudomonas,fluorescens,FW300-N2E2,Pseudomonas fluorescens FW300-N2E2
+rhodanobacter_10B01,Gammaproteobacteria: Rhodanobacter denitrificans FW104-10B01,75309,Gammaproteobacteria,Rhodanobacter,denitrificans,FW104-10B01,Rhodanobacter denitrificans FW104-10B01
