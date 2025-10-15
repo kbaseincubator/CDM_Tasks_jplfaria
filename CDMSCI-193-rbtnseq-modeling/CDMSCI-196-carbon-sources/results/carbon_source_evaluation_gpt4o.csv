@@ -1,0 +1,208 @@
+Carbon_Source,Suitable,Category,Recommendation,Reasoning,Suggested_Alternative
+(+)-Arabinogalactan,False,polymer,use_monomer,"(+)-Arabinogalactan is a polysaccharide, so it should be represented by its monomer units for metabolic modeling.","Arabinose, Galactose"
+"1,2-Propanediol",True,simple_metabolite,use,"1,2-Propanediol is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.",
+"1,3-Butandiol",True,simple_metabolite,use,"1,3-Butanediol is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.",
+"1,4-B-D-Galactobiose",False,polymer,use_monomer,"1,4-B-D-Galactobiose is a disaccharide and can be broken down into monomers for modeling.",D-Galactose
+"1,4-Butanediol",True,simple_metabolite,use,"1,4-Butanediol is a defined chemical compound that can be metabolized by certain bacteria and can be represented in metabolic models.",
+"1,5-Pentanediol",True,simple_metabolite,use,"1,5-Pentanediol is a defined chemical compound and can be represented as a single metabolite in metabolic models.",
+1-Pentanol,True,simple_metabolite,use,1-Pentanol is a defined chemical compound that can be represented as a single metabolite and is metabolizable by some bacteria.,
+2'-Deoxycytidine,False,simple_metabolite,exclude,"2'-Deoxycytidine is a nucleoside, not a typical carbon source for bacterial metabolism.",D-Glucose
+2'-Deoxyinosine,False,simple_metabolite,exclude,2'-Deoxyinosine is not a typical carbon source for bacterial metabolism.,D-Glucose
+2-Deoxy-D-Ribose,True,simple_metabolite,use,2-Deoxy-D-Ribose is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+2-Deoxy-D-ribonic acid lithium salt,False,simple_metabolite,manual_review,2-Deoxy-D-ribonic acid is a defined compound but not a typical carbon source for bacteria.,D-Glucose
+2-Deoxyadenosine 5-monophosphate,False,simple_metabolite,exclude,"2-Deoxyadenosine 5-monophosphate is a nucleotide, not a typical carbon source for bacteria.",D-Glucose
+2-Deoxyadenosine monohydrate,False,simple_metabolite,exclude,"2-Deoxyadenosine monohydrate is a nucleoside, not a typical carbon source for bacterial metabolism.",D-Glucose
+2-Piperidinone,False,simple_metabolite,exclude,2-Piperidinone is a defined chemical compound but not a typical carbon source for bacterial metabolism.,Glucose
+2-methyl-1-butanol,True,simple_metabolite,use,2-methyl-1-butanol is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+3-Methyl-2-Oxobutanoic Acid,True,simple_metabolite,use,3-Methyl-2-Oxobutanoic Acid is a defined chemical compound that can be represented as a single metabolite in metabolic models and is a known intermediate in amino acid metabolism.,
+3-methyl-1-butanol,True,simple_metabolite,use,3-methyl-1-butanol is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+3-methyl-2-oxopentanoic acid,True,simple_metabolite,use,3-methyl-2-oxopentanoic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+3-methyl-3-butenol,False,simple_metabolite,exclude,3-methyl-3-butenol is not a typical carbon source for bacterial metabolism.,Glucose
+4-Aminobutyric acid,True,simple_metabolite,use,4-Aminobutyric acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented in metabolic models.,
+4-Hydroxybenzoic Acid,True,simple_metabolite,use,4-Hydroxybenzoic Acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented in metabolic models.,
+4-Hydroxyvalerate,True,simple_metabolite,use,4-Hydroxyvalerate is a defined chemical compound that can be represented as a single metabolite and is a potential carbon source for bacterial metabolism.,
+4-Methyl-2-oxovaleric acid,True,simple_metabolite,use,4-Methyl-2-oxovaleric acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+5-Aminovaleric acid,True,simple_metabolite,use,5-Aminovaleric acid is a defined chemical compound that can be represented as a single metabolite and is a potential carbon source for bacteria.,
+5-Keto-D-Gluconic Acid potassium salt,True,simple_metabolite,use,5-Keto-D-Gluconic Acid potassium salt is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+6-O-Acetyl-D-glucose,True,simple_metabolite,use,6-O-Acetyl-D-glucose is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Acetylated xylan,False,polymer,use_monomer,Acetylated xylan is a polymer and should be represented by its monomeric units for metabolic modeling.,Xylose
+Actilight,False,proprietary,manual_review,"Actilight is a commercial product and likely a proprietary blend, not a single defined compound.",
+Adenine hydrochloride hydrate,False,simple_metabolite,exclude,Adenine hydrochloride hydrate is not a typical carbon source for bacterial metabolism.,Glucose
+Adenosine,True,simple_metabolite,use,Adenosine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Agro_defined_trehalose,True,simple_metabolite,use,Trehalose is a defined disaccharide that can be metabolized by bacteria and represented in metabolic models.,
+Amylose from potato,False,polymer,use_monomer,"Amylose is a polymer of glucose units and should be represented by its monomer, glucose, in metabolic models.",Glucose
+Avantafiber,False,proprietary,manual_review,"Avantafiber appears to be a proprietary name, not a defined chemical compound.",
+Azelaic acid,True,simple_metabolite,use,Azelaic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Beta-Lactose,True,simple_metabolite,use,"Beta-Lactose is a defined disaccharide composed of glucose and galactose, and can be metabolized by bacteria.",
+Bimuno-prebiotic,False,proprietary,manual_review,Bimuno-prebiotic is likely a proprietary blend and not a single defined compound.,
+Bioecolians-prebiotic,False,proprietary,manual_review,Bioecolians-prebiotic is likely a proprietary blend and not a defined chemical compound.,
+Butanol,True,simple_metabolite,use,Butanol is a defined chemical compound and can be metabolized by certain bacteria.,
+Butyl stearate,False,simple_metabolite,exclude,Butyl stearate is an ester and not a typical carbon source for bacterial metabolism.,Glucose
+Carnitine Hydrochloride,False,simple_metabolite,manual_review,Carnitine is a defined compound but not a typical carbon source for most bacteria.,
+Chondroitin sulfate A sodium salt from bovine trachea,False,polymer,use_monomer,Chondroitin sulfate A is a polymer and not a typical carbon source for bacteria; consider using its monomer units.,"Glucuronic acid, N-acetylgalactosamine"
+Citric Acid,True,simple_metabolite,use,Citric acid is a well-defined chemical compound that can be represented as a single metabolite in metabolic models and is a typical carbon source metabolized by bacteria.,
+CravingZGone-prebiotic,False,proprietary,manual_review,"The name 'CravingZGone-prebiotic' suggests it is a proprietary product, not a defined chemical compound.",
+Cytidine,True,simple_metabolite,use,Cytidine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Cytosine,False,simple_metabolite,exclude,"Cytosine is a nucleobase, not a typical carbon source for metabolism.",D-Glucose
+"D,L-Malic Acid",True,simple_metabolite,use,"D,L-Malic Acid is a defined chemical compound and can be metabolized by bacteria.",
+D-(-)-tagatose,True,simple_metabolite,use,D-(-)-Tagatose is a defined simple sugar that can be metabolized by some bacteria and can be represented as a single metabolite in metabolic models.,
+D-Alanine,True,simple_metabolite,use,D-Alanine is a defined chemical compound and a simple metabolite that can be metabolized by bacteria.,
+D-Arabinose,True,simple_metabolite,use,D-Arabinose is a defined chemical compound and a simple sugar that can be metabolized by some bacteria.,
+D-Cellobiose,True,polymer,use_monomer,"D-Cellobiose is a disaccharide composed of two glucose units and can be represented by its monomer, glucose, in metabolic models.",D-Glucose
+D-Fructose,True,simple_metabolite,use,D-Fructose is a defined chemical compound and a common carbon source for bacteria.,
+D-Galactose,True,simple_metabolite,use,D-Galactose is a defined chemical compound and a typical carbon source that can be metabolized by bacteria.,
+D-Galacturonic Acid monohydrate,True,simple_metabolite,use,D-Galacturonic Acid monohydrate is a defined chemical compound and can be metabolized by certain bacteria.,
+D-Gluconic Acid sodium salt,True,simple_metabolite,use,D-Gluconic Acid sodium salt is a defined chemical compound that can be represented as a single metabolite and is a known carbon source for bacteria.,
+D-Glucosamine Hydrochloride,True,simple_metabolite,use,D-Glucosamine Hydrochloride is a defined chemical compound and can be metabolized by some bacteria.,
+D-Glucose,True,simple_metabolite,use,D-Glucose is a well-defined simple sugar and a common carbon source in metabolic models.,
+D-Glucose-6-Phosphate sodium salt,True,simple_metabolite,use,D-Glucose-6-Phosphate sodium salt is a defined chemical compound and a common intermediate in bacterial metabolism.,
+D-Glucuronic Acid,True,simple_metabolite,use,D-Glucuronic Acid is a defined chemical compound and can be metabolized by certain bacteria.,
+D-Leucrose,False,unclear,manual_review,D-Leucrose is not a well-known or typical carbon source and requires further investigation to determine its suitability.,D-Glucose
+D-Lysine,True,simple_metabolite,use,D-Lysine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+D-Maltose monohydrate,True,simple_metabolite,use,D-Maltose monohydrate is a defined disaccharide that can be metabolized by bacteria and represented in metabolic models.,
+D-Mannitol,True,simple_metabolite,use,D-Mannitol is a defined chemical compound and a known carbon source that can be metabolized by various bacteria.,
+D-Mannose,True,simple_metabolite,use,D-Mannose is a defined monosaccharide that can be metabolized by bacteria and represented in metabolic models.,
+D-Raffinose pentahydrate,True,simple_metabolite,use,D-Raffinose pentahydrate is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+D-Ribose,True,simple_metabolite,use,D-Ribose is a defined chemical compound and a simple sugar that can be metabolized by bacteria.,
+D-Salicin,True,simple_metabolite,use,D-Salicin is a defined chemical compound that can be represented as a single metabolite in metabolic models and can be metabolized by certain bacteria.,
+D-Serine,True,simple_metabolite,use,D-Serine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+D-Sorbitol,True,simple_metabolite,use,D-Sorbitol is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+D-Tagatose,True,simple_metabolite,use,D-Tagatose is a defined simple sugar that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+D-Trehalose dihydrate,True,simple_metabolite,use,D-Trehalose dihydrate is a defined chemical compound and can be represented as a single metabolite in metabolic models. It is a typical carbon source that some bacteria can metabolize and can be mapped to biochemical databases.,
+D-Xylose,True,simple_metabolite,use,D-Xylose is a defined chemical compound and a common carbon source for bacteria.,
+Decanoic acid,True,simple_metabolite,use,Decanoic acid is a defined chemical compound and can be metabolized by certain bacteria.,
+Deoxyribonucleic acid from herring sperm,False,polymer,use_monomer,Deoxyribonucleic acid is a polymer and not a typical carbon source; consider using its monomers like deoxyribonucleotides.,Deoxyribonucleotide monomers
+Disodium Glutarate,True,simple_metabolite,use,Disodium Glutarate is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Dodecandioic acid,True,simple_metabolite,use,Dodecandioic acid is a defined chemical compound that can be represented as a single metabolite and is metabolizable by some bacteria.,
+Ethanol,True,simple_metabolite,use,Ethanol is a defined chemical compound and a common carbon source for bacterial metabolism.,
+Ferulic Acid,True,simple_metabolite,use,Ferulic acid is a defined chemical compound and can be metabolized by certain bacteria.,
+Fibersol-2-AG-fiber,False,proprietary,manual_review,"Fibersol-2-AG-fiber appears to be a proprietary product, making it difficult to evaluate as a defined chemical compound.",
+Fructooligosaccharides (FOS),False,polymer,use_monomer,"Fructooligosaccharides (FOS) are polymers of fructose and should be represented by their monomer, fructose, in metabolic models.",Fructose
+Fructooligosaccharides from chicory,False,polymer,use_monomer,Fructooligosaccharides are polymers of fructose and should be represented by their monomer units in metabolic models.,Fructose
+Fumaric acid,True,simple_metabolite,use,Fumaric acid is a defined chemical compound and can be metabolized by bacteria.,
+Gelatin,False,polymer,use_monomer,"Gelatin is a polymer derived from collagen, consisting of peptides and proteins, not a single defined compound.","Amino acids (e.g., Glycine, Proline)"
+Glucuronamide,False,unclear,manual_review,The compound 'Glucuronamide' is not commonly recognized as a typical carbon source for bacteria and lacks clear mapping to standard biochemical databases.,
+Gly-DL-Asp,True,simple_metabolite,use,"Gly-DL-Asp is a dipeptide composed of glycine and aspartic acid, which can be metabolized by bacteria.",
+Gly-Glu,True,simple_metabolite,use,"Gly-Glu is a dipeptide composed of glycine and glutamic acid, which can be represented as a single metabolite in metabolic models.",
+Glycerol,True,simple_metabolite,use,Glycerol is a defined chemical compound and a common carbon source for bacteria.,
+Glycine,True,simple_metabolite,use,Glycine is a well-defined amino acid that can be metabolized by bacteria and is represented in biochemical databases.,
+Glycolic Acid,True,simple_metabolite,use,Glycolic acid is a defined chemical compound that can be metabolized by some bacteria and can be represented in metabolic models.,
+Heparin sodium salt from porcine intestinal mucosa,False,polymer,use_monomer,"Heparin is a complex polysaccharide, not a typical carbon source for bacteria.",Glucose
+Heptanoic acid,True,simple_metabolite,use,Heptanoic acid is a defined chemical compound that can be represented as a single metabolite and is metabolizable by some bacteria.,
+Hexanoic acid,True,simple_metabolite,use,Hexanoic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+Hyaluronic acid sodium salt from Streptococcus equi,False,polymer,use_monomer,Hyaluronic acid is a polymer and not typically used as a direct carbon source; consider using its monomers.,Glucuronic acid or N-acetylglucosamine
+Hydroxy-L-Proline,True,simple_metabolite,use,Hydroxy-L-Proline is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+ISOThrive-prebiotic lot A,False,proprietary,manual_review,ISOThrive-prebiotic lot A is likely a proprietary blend and not a single defined compound.,
+ISOThrive-prebiotic lot B,False,proprietary,manual_review,"ISOThrive-prebiotic lot B is likely a proprietary blend, not a single defined compound.",
+ISOThrive-prebiotic lot C,False,proprietary,manual_review,ISOThrive-prebiotic lot C is likely a proprietary blend and not a single defined compound.,
+ISOThrive-prebiotic lot D,False,proprietary,manual_review,ISOThrive-prebiotic lot D is likely a proprietary blend and not a single defined compound.,
+Inosine,True,simple_metabolite,use,Inosine is a defined chemical compound and can be metabolized by some bacteria.,
+Inulin from chicory,False,polymer,use_monomer,"Inulin is a polymer of fructose units and should be represented by its monomer, fructose, in metabolic models.",Fructose
+Isomaltose,True,simple_metabolite,use,Isomaltose is a defined disaccharide that can be metabolized by bacteria and can be represented in metabolic models.,
+Itaconic Acid,True,simple_metabolite,use,Itaconic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+L-(-)-sorbose,True,simple_metabolite,use,L-(-)-sorbose is a defined chemical compound and can be metabolized by certain bacteria.,
+L-Alanine,True,simple_metabolite,use,L-Alanine is a defined chemical compound and a simple metabolite that can be metabolized by bacteria.,
+L-Arabinose,True,simple_metabolite,use,L-Arabinose is a defined monosaccharide that can be metabolized by bacteria and is represented in biochemical databases.,
+L-Arginine,True,simple_metabolite,use,L-Arginine is a defined amino acid that can be metabolized by bacteria and represented in metabolic models.,
+L-Asparagine,True,simple_metabolite,use,L-Asparagine is a defined amino acid that can be metabolized by bacteria as a carbon source.,
+L-Aspartic Acid,True,simple_metabolite,use,L-Aspartic Acid is a defined chemical compound and can be metabolized by bacteria.,
+L-Citrulline,False,simple_metabolite,manual_review,L-Citrulline is a defined compound but not a typical carbon source for bacteria.,D-Glucose
+L-Cysteine hydrochloride monohydrate,True,simple_metabolite,use,L-Cysteine hydrochloride monohydrate is a defined chemical compound that can be represented as a single metabolite in metabolic models and can be metabolized by bacteria.,
+L-Fucose,True,simple_metabolite,use,L-Fucose is a defined monosaccharide that can be metabolized by bacteria and is represented in biochemical databases.,
+L-Glutamic acid monopotassium salt monohydrate,True,simple_metabolite,use,L-Glutamic acid monopotassium salt monohydrate is a defined chemical compound that can be represented as a single metabolite in metabolic models and is a typical carbon source for bacteria.,
+L-Glutamine,True,simple_metabolite,use,L-Glutamine is a defined chemical compound and a common carbon and nitrogen source for bacteria.,
+L-Histidine,True,simple_metabolite,use,L-Histidine is a defined amino acid that can be metabolized by bacteria and represented as a single metabolite in metabolic models.,
+L-Isoleucine,True,simple_metabolite,use,L-Isoleucine is a defined chemical compound and can be represented as a single metabolite in metabolic models; it is also a known carbon source for some bacteria.,
+L-Leucine,True,simple_metabolite,use,L-Leucine is a defined amino acid that can be metabolized by bacteria and represented in metabolic models.,
+L-Lysine,True,simple_metabolite,use,L-Lysine is a defined amino acid that can be metabolized by some bacteria as a carbon source.,
+L-Malic acid disodium salt monohydrate,True,simple_metabolite,use,L-Malic acid disodium salt monohydrate is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+L-Methionine,True,simple_metabolite,use,L-Methionine is a defined amino acid that can be represented as a single metabolite in metabolic models and is metabolizable by bacteria.,
+L-Ornithine,True,simple_metabolite,use,L-Ornithine is a defined chemical compound and can be represented as a single metabolite in metabolic models. It is a known substrate that some bacteria can metabolize.,
+L-Phenylalanine,True,simple_metabolite,use,L-Phenylalanine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+L-Proline,True,simple_metabolite,use,L-Proline is a defined chemical compound and a known carbon source for some bacteria.,
+L-Rhamnose monohydrate,True,simple_metabolite,use,L-Rhamnose monohydrate is a defined chemical compound and a known carbon source for bacteria.,
+L-Serine,True,simple_metabolite,use,L-Serine is a defined chemical compound and a known metabolite that can be used as a carbon source in metabolic models.,
+L-Sorbose,True,simple_metabolite,use,L-Sorbose is a defined chemical compound and can be metabolized by certain bacteria.,
+L-Threonine,True,simple_metabolite,use,L-Threonine is a defined amino acid that can be metabolized by bacteria and represented in metabolic models.,
+L-Tryptophan,True,simple_metabolite,use,L-Tryptophan is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+L-Valine,True,simple_metabolite,use,L-Valine is a defined amino acid that can be metabolized by bacteria and represented in metabolic models.,
+L-tyrosine disodium salt,True,simple_metabolite,use,L-tyrosine disodium salt is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Lactitol,True,simple_metabolite,use,Lactitol is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Lacto-N-neotetraose,True,simple_metabolite,use,Lacto-N-neotetraose is a defined oligosaccharide that can be represented as a single metabolite in metabolic models and is known to be metabolized by certain bacteria.,
+Lacto-N-tetraose,True,simple_metabolite,use,Lacto-N-tetraose is a defined oligosaccharide that can be represented as a single metabolite in metabolic models and is known to be metabolized by certain bacteria.,
+Lactulose,True,simple_metabolite,use,Lactulose is a defined disaccharide that can be metabolized by certain bacteria.,
+Laminaribiose,False,polymer,use_monomer,"Laminaribiose is a disaccharide, which is a polymer of glucose units.",Glucose
+Laminarin from Laminaria digitata,False,polymer,use_monomer,"Laminarin is a polysaccharide and should be represented by its monomer, glucose, in metabolic models.",Glucose
+Lauric acid,True,simple_metabolite,use,Lauric acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Levan - from Erwinia herbicola,False,polymer,use_monomer,"Levan is a polysaccharide composed of fructose units, not a single metabolite.",Fructose
+Levulinic Acid,True,simple_metabolite,use,Levulinic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+Malonic acid,True,simple_metabolite,use,Malonic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Maltitol,True,simple_metabolite,use,Maltitol is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Maltodextrin,True,polymer,use_monomer,"Maltodextrin is a polysaccharide that can be broken down into glucose units, which are suitable for metabolic modeling.",Glucose
+Maltohexaose,False,polymer,use_monomer,"Maltohexaose is a polysaccharide composed of glucose units and should be represented by its monomer, glucose, in metabolic models.",Glucose
+Maltotetraose,True,polymer,use_monomer,"Maltotetraose is a defined oligosaccharide composed of glucose units, suitable for modeling as its monomer glucose.",Glucose
+Mannan from Saccharomyces cerevisiae,False,polymer,use_monomer,"Mannan is a polysaccharide and should be represented by its monomer, mannose, in metabolic models.",Mannose
+Melibiose,True,simple_metabolite,use,Melibiose is a defined disaccharide that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+Methyl-B-D-galactopyranoside,True,simple_metabolite,use,Methyl-B-D-galactopyranoside is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Myristic acid,True,simple_metabolite,use,Myristic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+N-Acetyl-D-Glucosamine,True,simple_metabolite,use,N-Acetyl-D-Glucosamine is a defined chemical compound and a known carbon source for bacteria.,
+Nonanoic acid,True,simple_metabolite,use,Nonanoic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Octanoic acid,True,simple_metabolite,use,Octanoic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models. It is a medium-chain fatty acid that some bacteria can metabolize.,
+Oleic acid,True,simple_metabolite,use,Oleic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models; it is a common carbon source for certain bacteria.,
+Parabanic Acid,False,simple_metabolite,exclude,Parabanic acid is not a typical carbon source for bacterial metabolism.,D-Glucose
+Pectin,False,polymer,use_monomer,Pectin is a complex polysaccharide and not a single defined compound; use its monomers like galacturonic acid for modeling.,Galacturonic acid
+Phenylacetic acid,True,simple_metabolite,use,Phenylacetic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+Pimelic acid,True,simple_metabolite,use,Pimelic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Potassium acetate,True,simple_metabolite,use,Potassium acetate is a defined chemical compound and a common carbon source for bacteria.,
+Potassium oxalate monohydrate,False,simple_metabolite,exclude,Potassium oxalate is not a typical carbon source for most bacteria.,D-Glucose
+Prebiotin-prebiotic,False,proprietary,manual_review,Prebiotin-prebiotic is likely a commercial product and not a single defined compound.,
+PreticX-prebiotic,False,proprietary,manual_review,PreticX-prebiotic is likely a proprietary blend and not a single defined compound.,
+Promitor-fiber,False,proprietary,manual_review,Promitor-fiber is likely a proprietary blend and not a defined chemical compound.,
+Protocatechuic Acid,True,simple_metabolite,use,Protocatechuic acid is a defined chemical compound and can be metabolized by certain bacteria.,
+Putrescine Dihydrochloride,True,simple_metabolite,use,Putrescine dihydrochloride is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Red Arabinan from sugar-beet,False,polymer,use_monomer,"Red Arabinan from sugar-beet is a polysaccharide, which should be represented by its monomer, arabinose, in metabolic models.",Arabinose
+Rhamnogalacturonan - from potato,False,polymer,use_monomer,"Rhamnogalacturonan is a complex polysaccharide, not a single metabolite.",Galacturonic acid
+Sebacic acid,True,simple_metabolite,use,Sebacic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Shikimic Acid,True,simple_metabolite,use,Shikimic acid is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+"Sodium D,L-Lactate",True,simple_metabolite,use,"Sodium D,L-Lactate is a defined chemical compound that can be represented as a single metabolite and is a typical carbon source for bacterial metabolism.",
+Sodium D-Lactate,True,simple_metabolite,use,Sodium D-Lactate is a defined chemical compound and a common carbon source for bacteria.,
+Sodium Formate,True,simple_metabolite,use,Sodium formate is a defined chemical compound and can be metabolized by certain bacteria as a carbon source.,
+Sodium Fumarate dibasic,True,simple_metabolite,use,Sodium fumarate dibasic is a defined chemical compound and can be represented as a single metabolite in metabolic models; it is a typical carbon source that bacteria can metabolize.,
+Sodium L-Lactate,True,simple_metabolite,use,Sodium L-Lactate is a defined chemical compound and a common carbon source for bacterial metabolism.,
+Sodium acetate,True,simple_metabolite,use,Sodium acetate is a defined chemical compound and a common carbon source for bacteria.,
+Sodium adipate,True,simple_metabolite,use,Sodium adipate is a defined chemical compound and can be represented as a single metabolite in metabolic models. It is a dicarboxylic acid salt that some bacteria can metabolize.,
+Sodium butyrate,True,simple_metabolite,use,Sodium butyrate is a defined chemical compound and a known carbon source for bacteria.,
+Sodium octanoate,True,simple_metabolite,use,Sodium octanoate is a defined chemical compound and a fatty acid salt that can be metabolized by bacteria.,
+Sodium propionate,True,simple_metabolite,use,Sodium propionate is a defined chemical compound and a known carbon source for some bacteria.,
+Sodium pyruvate,True,simple_metabolite,use,Sodium pyruvate is a defined chemical compound and a common carbon source for bacteria.,
+Sodium succinate dibasic hexahydrate,True,simple_metabolite,use,Sodium succinate dibasic hexahydrate is a defined chemical compound and a common carbon source for bacteria.,
+Stachyose - 70%,False,polymer,use_monomer,"Stachyose is an oligosaccharide, which can be broken down into simpler sugars like glucose and fructose.",Glucose
+Starch,False,polymer,use_monomer,"Starch is a polymer composed of glucose units and should be represented by its monomer, glucose, in metabolic models.",Glucose
+Suberic acid,True,simple_metabolite,use,Suberic acid is a defined chemical compound that can be represented as a single metabolite in metabolic models.,
+Succinic Acid,True,simple_metabolite,use,Succinic acid is a defined chemical compound and a common carbon source that can be metabolized by bacteria.,
+Sucrose,True,simple_metabolite,use,Sucrose is a defined chemical compound and a common carbon source for many bacteria.,
+Sunfiber-fiber,False,proprietary,manual_review,"Sunfiber-fiber is likely a proprietary or commercial product, not a defined chemical compound.",
+Supernatant; Agrobacterium rhizogenes K599 grown in Agro_defined_trehalose (~7.5 mM 3-keto-trehalose),False,complex_mixture,manual_review,"The compound name suggests it is a supernatant from a bacterial culture, which is likely a complex mixture.",Trehalose
+Thymidine,True,simple_metabolite,use,Thymidine is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Thymine,False,simple_metabolite,exclude,"Thymine is a nucleotide base, not a typical carbon source for metabolism.",D-Glucose
+Trisodium citrate dihydrate,True,simple_metabolite,use,Trisodium citrate dihydrate is a defined chemical compound and can be metabolized by bacteria as a carbon source.,
+Tween 20,False,complex_mixture,exclude,"Tween 20 is a complex mixture of polyoxyethylene sorbitan monolaurate esters, not a single defined compound.",Glycerol
+Uridine,True,simple_metabolite,use,Uridine is a defined chemical compound and can be represented as a single metabolite in metabolic models. It is a nucleoside that can be metabolized by some bacteria.,
+Valeric acid,True,simple_metabolite,use,Valeric acid is a defined chemical compound and can be metabolized by some bacteria.,
+Vanillic Acid,True,simple_metabolite,use,Vanillic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented in metabolic models.,
+Vanillin,True,simple_metabolite,use,Vanillin is a defined chemical compound and can be represented as a single metabolite in metabolic models.,
+Vitafiber-prebiotic,False,proprietary,manual_review,"Vitafiber-prebiotic is a commercial product and likely a proprietary blend, not a single defined compound.",
+Vitagos-prebiotic,False,proprietary,manual_review,Vitagos-prebiotic appears to be a commercial product and may not be a single defined compound.,
+WakoIMO-prebiotic,False,proprietary,manual_review,"WakoIMO-prebiotic appears to be a proprietary blend, not a single defined compound.",
+Xylitol,True,simple_metabolite,use,Xylitol is a defined chemical compound that can be represented as a single metabolite and is metabolizable by certain bacteria.,
+Yacontrol-prebiotic,False,proprietary,manual_review,"The compound 'Yacontrol-prebiotic' appears to be a proprietary product, and its exact chemical composition is unclear from the name alone.",
+a-Cyclodextrin,False,polymer,use_monomer,"a-Cyclodextrin is a cyclic oligosaccharide composed of glucose units, better represented by its monomer glucose in metabolic models.",D-Glucose
+a-Ketoglutaric acid disodium salt hydrate,True,simple_metabolite,use,"a-Ketoglutaric acid disodium salt hydrate is a defined chemical compound and a known intermediate in the TCA cycle, which can be metabolized by bacteria.",
+amylopectin from maize,False,polymer,use_monomer,"Amylopectin is a polysaccharide and should be represented by its monomer, glucose, in metabolic models.",D-Glucose
+benzoic acid,True,simple_metabolite,use,Benzoic acid is a defined chemical compound that can be metabolized by certain bacteria and can be represented as a single metabolite in metabolic models.,
+casamino acids,False,complex_mixture,exclude,Casamino acids are a complex mixture of amino acids and cannot be represented by a single metabolite.,Glucose
+"dextran, Mw ~200,000",False,polymer,use_monomer,"Dextran is a polysaccharide and should be represented by its monomer, glucose, in metabolic models.",D-Glucose
+m-Inositol,True,simple_metabolite,use,m-Inositol is a defined chemical compound that can be metabolized by some bacteria and can be represented in metabolic models.,
+p-Coumaric acid,True,simple_metabolite,use,p-Coumaric acid is a defined chemical compound and can be metabolized by certain bacteria.,
+palatinose hydrate,True,simple_metabolite,use,Palatinose hydrate is a defined chemical compound that can be metabolized by some bacteria.,
+polygalacturonic acid,False,polymer,use_monomer,"Polygalacturonic acid is a polymer of galacturonic acid, which should be used as the monomeric unit in metabolic models.",Galacturonic acid

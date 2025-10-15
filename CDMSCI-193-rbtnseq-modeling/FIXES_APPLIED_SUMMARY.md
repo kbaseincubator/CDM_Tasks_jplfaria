@@ -33,11 +33,11 @@ Date: 2025-10-07
 
 ### Results
 
-- ✓ No more Solr HTTP 400 errors
-- ✓ Offline mapping (no internet needed for Round 1)
-- ✓ Function definition order bug fixed
-- ✓ 158K aliases available for matching
-- ✓ Faster compound lookups
+- No more Solr HTTP 400 errors
+- Offline mapping (no internet needed for Round 1)
+- Function definition order bug fixed
+- 158K aliases available for matching
+- Faster compound lookups
 
 ## CDMSCI-198: RAST Annotation Notebook
 
@@ -64,11 +64,11 @@ Date: 2025-10-07
      ```python
      # Save genome as pickle
      output_file = save_genome(genome, organism_id)
-     log_message(f"  ✓ Saved pickle: {output_file.name}")
+     log_message(f"  Saved pickle: {output_file.name}")
 
      # Save genome as annotated FASTA
      fasta_file = save_genome_as_fasta(genome, organism_id)
-     log_message(f"  ✓ Saved FASTA: {fasta_file.name}")
+     log_message(f"  Saved FASTA: {fasta_file.name}")
      ```
 
 4. **Summary Cell**:
@@ -78,11 +78,11 @@ Date: 2025-10-07
 
 ### Results
 
-- ✓ Outputs annotated FASTA files
-- ✓ FASTA headers include functional roles from RAST
-- ✓ Portable format usable with other tools
-- ✓ Human-readable annotations
-- ✓ Both pickle and FASTA preserved
+- Outputs annotated FASTA files
+- FASTA headers include functional roles from RAST
+- Portable format usable with other tools
+- Human-readable annotations
+- Both pickle and FASTA preserved
 
 ## Data Downloaded
 

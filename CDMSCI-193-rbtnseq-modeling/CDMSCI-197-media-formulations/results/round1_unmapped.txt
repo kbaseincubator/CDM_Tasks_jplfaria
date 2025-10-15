@@ -1,0 +1,54 @@
+1,3-Butandiol
+1,4-Butanediol
+1,5-Pentanediol
+3-methyl-2-oxopentanoic acid
+4-Hydroxyvalerate
+4-Methyl-2-oxovaleric acid
+5-Keto-D-Gluconic Acid potassium salt
+6-O-Acetyl-D-glucose
+Agro_defined_trehalose
+Azelaic acid
+D,L-Malic Acid
+D-(-)-tagatose
+D-Galacturonic Acid monohydrate
+D-Gluconic Acid sodium salt
+D-Glucosamine Hydrochloride
+D-Glucose-6-Phosphate sodium salt
+D-Glucuronic Acid
+D-Maltose monohydrate
+D-Raffinose pentahydrate
+D-Trehalose dihydrate
+Disodium Glutarate
+Dodecandioic acid
+Gly-DL-Asp
+Gly-Glu
+Hydroxy-L-Proline
+L-(-)-sorbose
+L-Cysteine hydrochloride monohydrate
+L-Glutamic acid monopotassium salt monohydrate
+L-Malic acid disodium salt monohydrate
+L-Rhamnose monohydrate
+L-tyrosine disodium salt
+Lactitol
+Lacto-N-neotetraose
+Levulinic Acid
+Maltitol
+Methyl-B-D-galactopyranoside
+Potassium acetate
+Putrescine Dihydrochloride
+Sodium D,L-Lactate
+Sodium D-Lactate
+Sodium Formate
+Sodium Fumarate dibasic
+Sodium L-Lactate
+Sodium acetate
+Sodium adipate
+Sodium butyrate
+Sodium octanoate
+Sodium propionate
+Sodium pyruvate
+Sodium succinate dibasic hexahydrate
+Suberic acid
+Trisodium citrate dihydrate
+a-Ketoglutaric acid disodium salt hydrate
+palatinose hydrate

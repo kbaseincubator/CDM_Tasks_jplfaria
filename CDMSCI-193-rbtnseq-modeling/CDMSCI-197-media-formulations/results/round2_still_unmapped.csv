@@ -1,0 +1,9 @@
+Carbon_Source_Original,ModelSEED_ID,ModelSEED_Name,Formula,Mass,Charge,Mapping_Method,Confidence,AI_Explanation,Duplicate_IDs
+6-O-Acetyl-D-glucose,UNMAPPED,,,0,0,round2_llm_failed,Low,"6-O-Acetyl-D-glucose is a modified form of D-glucose with an acetyl group, and there is no direct match in the ModelSEED database for this specific compound.",
+D-Gluconic Acid sodium salt,UNMAPPED,,,0,0,round2_llm_unverified,Low,LLM suggested cpd00257 but not found in template,
+D-Glucuronic Acid,UNMAPPED,,,0,0,round2_llm_unverified,Low,LLM suggested cpd00257 but not found in template,
+Dodecandioic acid,UNMAPPED,,,0,0,round2_llm_unverified,Low,LLM suggested cpd29697 but not found in template,
+Gly-DL-Asp,UNMAPPED,,,0,0,round2_llm_failed,Low,"Gly-DL-Asp is a dipeptide composed of glycine and aspartic acid, and ModelSEED may not have a specific ID for dipeptides. The database typically includes individual amino acids or common metabolites.",
+Lacto-N-neotetraose,UNMAPPED,,,0,0,round2_llm_failed,Low,"Lacto-N-neotetraose is a specific oligosaccharide and does not have a direct match in the ModelSEED database, which primarily includes more common metabolites and simpler compounds.",
+Maltitol,UNMAPPED,,,0,0,round2_llm_failed,Low,"Maltitol is a sugar alcohol derived from maltose, and it is not a common carbon source in the ModelSEED database. It does not have a direct match or a clear base metabolite in the ModelSEED compound list.",
+Methyl-B-D-galactopyranoside,UNMAPPED,,,0,0,round2_llm_failed,Low,"Methyl-B-D-galactopyranoside is a methylated sugar derivative, and there is no direct match in the ModelSEED database for this specific compound. The database primarily includes more common metabolites and carbon sources.",

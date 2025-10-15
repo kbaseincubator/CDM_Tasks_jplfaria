@@ -173,7 +173,7 @@ From template analysis, key carbon sources map to:
 
 ## Application to CDMSCI Tasks
 
-### CDMSCI-196: Compile Carbon Sources List ✓ COMPLETE
+### CDMSCI-196: Compile Carbon Sources List - COMPLETE
 **Status**: Complete - 206 carbon sources identified, 57 organisms
 
 **Data Generated**:

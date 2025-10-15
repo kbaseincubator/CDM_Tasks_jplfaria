@@ -76,7 +76,7 @@ Replace this:
 
         # Save genome
         output_file = save_genome(genome, organism_id)
-        log_message(f"  ✓ Saved to: {output_file.name}")
+        log_message(f"  Saved to: {output_file.name}")
 ```
 
 With this:
@@ -87,11 +87,11 @@ With this:
 
         # Save genome as pickle
         output_file = save_genome(genome, organism_id)
-        log_message(f"  ✓ Saved pickle: {output_file.name}")
+        log_message(f"  Saved pickle: {output_file.name}")
 
         # Save genome as annotated FASTA
         fasta_file = save_genome_as_fasta(genome, organism_id)
-        log_message(f"  ✓ Saved FASTA: {fasta_file.name}")
+        log_message(f"  Saved FASTA: {fasta_file.name}")
 ```
 
 ### Step 4: Update Skip Check
@@ -102,7 +102,7 @@ Replace this:
 ```python
     # Check if already annotated
     if genome_already_annotated(organism_id):
-        log_message(f"  ✓ Already annotated - skipping")
+        log_message(f"  Already annotated - skipping")
         skipped += 1
         continue
 ```

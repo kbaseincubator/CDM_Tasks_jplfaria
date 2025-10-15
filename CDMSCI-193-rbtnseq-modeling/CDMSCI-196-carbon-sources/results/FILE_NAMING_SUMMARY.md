@@ -13,44 +13,44 @@
    - Organism column: `Species_Name` (simple format)
    - Example: `Escherichia coli BW25113`
    - Also includes: `orgId`, `Full_Species_Name`, `NCBI_TaxID`
-   - Status: ✅ Updated to use simple names
+   - Status: Updated to use simple names
 
 2. **supplementary_table_s2_clean.csv**
    - Column headers: Species names (simple format)
    - Example: `Escherichia coli BW25113`
    - Rows: Carbon sources
-   - Status: ✅ Updated to use simple names
+   - Status: Updated to use simple names
 
 3. **supplementary_table_s2_carbon.csv**
    - Column headers: Species names (simple format)
    - Example: `Burkholderia phytofirmans PsJN`
    - Rows: Carbon sources
-   - Status: ✅ Updated to use simple names
+   - Status: Updated to use simple names
 
 4. **combined_growth_matrix.csv**
    - Column headers: Species names (simple format)
    - Example: `Burkholderia phytofirmans PsJN`
    - Rows: Carbon sources
-   - Status: ✅ Updated to use simple names
+   - Status: Updated to use simple names
 
 5. **data_source_discrepancies.csv**
    - Organism_Name column: Species names (simple format)
    - Example: `Kangiella aquimarina DSM 16071`
    - Also includes: `Organism_ID` (orgId)
-   - Status: ✅ Updated to use simple names
+   - Status: Updated to use simple names
 
 6. **carbon_source_growth_matrix.csv**
    - Row labels: `orgId` (short identifiers)
    - Example: `Keio`, `Cola`, `Burk376`
    - Column headers: Carbon source names
-   - Status: ✅ Original format (uses orgId, not species names)
+   - Status: Original format (uses orgId, not species names)
    - Note: This file uses orgId by design for compactness
 
 7. **organism_name_mapping_supplementary_to_FIT.csv**
    - Column 1: Supplementary Table names (no division prefix)
    - Column 2: Fitness Browser orgId
    - Example: `Escherichia coli BW25113,Keio`
-   - Status: ✅ Simple names
+   - Status: Simple names
 
 ---
 

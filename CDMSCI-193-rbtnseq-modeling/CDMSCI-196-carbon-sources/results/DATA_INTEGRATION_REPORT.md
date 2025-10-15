@@ -74,8 +74,8 @@ Integrated curated growth data from BigFIT paper (Supplementary Table S2) with F
 
 ### Improved Matching
 After better name normalization:
-- **D-Tagatose** → matched to **D-(-)-tagatose** ✓
-- **L-Sorbose** → matched to **L-(-)-sorbose** ✓
+- **D-Tagatose** → matched to **D-(-)-tagatose**
+- **L-Sorbose** → matched to **L-(-)-sorbose**
 
 ### Unmatched Carbon Sources in Supplementary Table
 
