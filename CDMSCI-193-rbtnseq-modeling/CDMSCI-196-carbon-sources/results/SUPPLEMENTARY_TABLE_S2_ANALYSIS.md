@@ -45,7 +45,7 @@ He directed us to **Supplementary Table S2** which contains **curated growth/no-
 | 9 | Echinicola vietnamensis DSM 17526 | (not in our matrix) | No |
 | 10 | Escherichia coli BW25113 | Keio | Yes |
 | 11 | Herbaspirillum seropedicae SmR1 | HerbieS | Yes |
-| 12 | Klebsiella michiganensis M5a1 | Kang | Yes |
+| 12 | Klebsiella michiganensis M5a1 | Koxy | Yes |
 | 13 | Marinobacter adhaerens HP15 | Marino | Yes |
 | 14 | Pedobacter sp. GW460-11-11-14-LB5 | Pedo557 | Yes |
 | 15 | Phaeobacter inhibens BS107 | Phaeo | Yes |
@@ -86,8 +86,9 @@ Note: Echinicola vietnamensis is not in our matrix. Morgan mentioned they didn't
    - OR our assumption that "no data = no growth" is incorrect for many cases
 
 2. Supplementary table has fewer carbon sources but MORE defined growth data
-   - This is the **curated** gold standard dataset
+   - This is the **curated validation dataset** from 2018 paper
    - Should be used for validation of our metabolic models
+   - From same lab as Fitness Browser (Morgan Price's team)
 
 ## Files Created
 
@@ -102,7 +103,7 @@ Note: Echinicola vietnamensis is not in our matrix. Morgan mentioned they didn't
 - Supplementary Table S2 provides ground truth for 27 organisms × 96 carbon sources
 
 ### For CDMSCI-199 (FBA Simulations)
-- Use Supplementary Table S2 as the **gold standard test set** for model validation
+- Use Supplementary Table S2 as the **curated validation dataset** for model validation
 - Compare model predictions against these 27 organisms × 96 carbon sources
 - This gives us 2,592 confirmed growth/no-growth cases to validate against
 
@@ -121,7 +122,7 @@ Morgan mentioned they're working on a much larger curated dataset covering:
 - Most bacteria in Fitness Browser
 - Not yet ready for release (still validating)
 
-Once available, this will significantly expand our gold standard test set.
+Once available, this will significantly expand our validation dataset.
 
 ## Contact
 

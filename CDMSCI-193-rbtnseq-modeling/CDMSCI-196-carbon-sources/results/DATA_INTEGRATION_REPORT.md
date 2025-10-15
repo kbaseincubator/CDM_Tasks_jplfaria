@@ -7,7 +7,7 @@
 
 Integrated curated growth data from BigFIT paper (Supplementary Table S2) with Fitness Browser database extractions to create a comprehensive growth matrix for metabolic model validation.
 
-**Key Finding**: Our assumption that "absence of data in Fitness Browser = no growth" is **INCORRECT**. The supplementary table contains 287 confirmed growth cases that were filtered out by our quality thresholds or marked as missing in the Fitness Browser database.
+**Key Finding**: Our assumption that "absence of data in Fitness Browser = no growth" is **INCORRECT**. The supplementary table contains 168 confirmed growth cases that are not in the Fitness Browser database.
 
 ---
 
@@ -46,7 +46,7 @@ Integrated curated growth data from BigFIT paper (Supplementary Table S2) with F
 | **Echinicola vietnamensis DSM 17526** | **Cola** | **926556** |
 | Escherichia coli BW25113 | Keio | 316407 |
 | Herbaspirillum seropedicae SmR1 | HerbieS | 757424 |
-| Klebsiella michiganensis M5a1 | Kang | 1134687 |
+| Klebsiella michiganensis M5a1 | Koxy | 290337 |
 | Marinobacter adhaerens HP15 | Marino | 945713 |
 | Pedobacter sp. GW460-11-11-14-LB5 | Pedo557 | 2556921033 |
 | Phaeobacter inhibens BS107 | Phaeo | 1129364 |
@@ -102,23 +102,23 @@ Compared **28 organisms** across **86 matching carbon sources** = **2,408 total 
 
 | Discrepancy Type | Count | % of Comparisons |
 |------------------|-------|------------------|
-| FB shows "No Data" (0) but Supp shows "Growth" | **287** | **11.9%** |
+| FB shows "No Data" (0) but Supp shows "Growth" | **170** | **7.1%** |
 | FB shows "Growth" (1) but Supp shows "No Growth" | **3** | **0.1%** |
-| **Total Discrepancies** | **290** | **12.0%** |
-| **Consistency Rate** | - | **88.0%** |
+| **Total Discrepancies** | **173** | **7.2%** |
+| **Consistency Rate** | - | **92.8%** |
 
-### Type 1: FB "No Data" but Supp "Growth" (287 cases)
+### Type 1: FB "No Data" but Supp "Growth" (170 cases)
 
 **This is the major finding!**
 
 Examples:
-- Kang + D-Glucose: FB says "No Data", Supp says "Growth"
-- Burk376 + D-Fructose: FB says "No Data", Supp says "Growth"
+- Koxy + D-Glucose: FB says "No Data", Supp says "Growth"
+- BFirm + D-Fructose: FB says "No Data", Supp says "Growth"
 - acidovorax_3H11 + Sucrose: FB says "No Data", Supp says "Growth"
 
 **Interpretation**:
-- Our quality filters (gMed >= 50, mad12 <= 0.5) are too conservative
-- Many growth experiments exist but were excluded due to lower quality metrics
+- These growth experiments were conducted but not included in public database
+- All experiments in feba.db pass quality filters, so this is NOT a quality filtering issue
 - **Our assumption "absence of data = no growth" is WRONG**
 
 ### Type 2: FB "Growth" but Supp "No Growth" (3 cases)
@@ -146,19 +146,19 @@ Examples:
 2. **supplementary_table_s2_clean.csv**
    - 28 organisms × 94 carbon sources (water control removed)
    - Values: "Growth" / "No Growth"
-   - Curated gold-standard data from BigFIT paper
+   - Curated validation data from BigFIT 2018 paper (Morgan Price's team)
 
 3. **combined_growth_matrix.csv**
-   - **57 organisms** × **206 unique carbon sources**
+   - **57 organisms** × **208 unique carbon sources** = **11,856 total cells**
    - Values: "Growth" / "No Growth" / blank (no data)
    - 28 organisms use supplementary table data (priority)
    - 29 organisms use Fitness Browser data
-   - **1,341 Growth calls**
-   - **1,701 No Growth calls**
-   - **8,700 No data (blank)**
+   - **1,256 Growth calls** (10.6%)
+   - **1,331 No Growth calls** (11.2%)
+   - **9,269 No data (blank)** (78.2%)
 
 4. **data_source_discrepancies.csv**
-   - All 290 discrepancies documented
+   - All 173 discrepancies documented
    - Shows organism, carbon source, and conflicting calls
 
 ### Documentation
@@ -176,11 +176,13 @@ Examples:
 
 ### For FBA Model Validation
 
-**Gold Standard Test Set**: Use supplementary table data for 28 organisms × 86 carbon sources
+**Curated Validation Dataset**: Use supplementary table data for 28 organisms × 86 carbon sources
 
 - **2,408 definitive organism-carbon pairs** for validation
 - **931 confirmed growth cases** to test true positives
 - **1,477 confirmed no-growth cases** to test true negatives (note: conservative threshold)
+- Both sources from Morgan Price's team (equally trustworthy)
+- Key difference: Paper reports Growth AND No Growth; Database reports Growth only
 
 ### Confusion Matrix Interpretation
 
@@ -231,14 +233,14 @@ Update analysis to use three categories:
 
 Monitor for Morgan's updated curated dataset:
 - Will cover more organisms and carbon sources
-- Will provide even better gold standard for validation
+- Will provide even better validation data
 
 ---
 
 ## Conclusion
 
-The integration revealed that **our Fitness Browser extraction significantly underestimates growth** due to conservative quality filters. The supplementary table provides curated gold-standard data that should take priority for the 28 organisms it covers.
+The integration revealed that **170 growth experiments from the 2018 paper are not in the Fitness Browser database**. This is not a quality filtering issue - all experiments in feba.db pass quality thresholds. The supplementary table provides curated validation data that should take priority for the 28 organisms it covers.
 
-**12% discrepancy rate** between sources is primarily driven by growth cases we missed (287) rather than false positives (3), validating that the supplementary table is more comprehensive and reliable for model validation purposes.
+**7.2% discrepancy rate** between sources is primarily driven by growth cases not in the database (170) rather than contradictions (3). Both sources are from Morgan Price's team and are equally trustworthy - the key difference is that the paper reports both Growth and No Growth calls, while the database only reports Growth calls.
 
 For the remaining 29 organisms not in supplementary table, we should use Fitness Browser data for "Growth" calls but avoid making "No Growth" assumptions based on absence of data.

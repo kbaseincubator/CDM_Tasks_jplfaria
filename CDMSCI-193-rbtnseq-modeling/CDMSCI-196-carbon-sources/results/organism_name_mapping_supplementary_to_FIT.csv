@@ -1,15 +1,16 @@
 Supplementary_Table_Name,Fitness_Browser_OrgID
 Acidovorax sp. GW101-3H11,acidovorax_3H11
 Azospirillum brasilense sp. 245,azobra
-Burkholderia phytofirmans PsJN,Burk376
+Burkholderia phytofirmans PsJN,BFirm
 Caulobacter crescentus NA1000,Caulo
 Cupriavidus basilensis 4G11,Cup4G11
 Dechlorosoma suillum PS,PS
 Dinoroseobacter shibae DFL-12,Dino
 Dyella japonica UNC79MFTsu3.2 IMG taxon ID 2556921674,Dyella79
+Echinicola vietnamensis DSM 17526,Cola
 Escherichia coli BW25113,Keio
 Herbaspirillum seropedicae SmR1,HerbieS
-Klebsiella michiganensis M5a1,Kang
+Klebsiella michiganensis M5a1,Koxy
 Marinobacter adhaerens HP15,Marino
 Pedobacter sp. GW460-11-11-14-LB5,Pedo557
 Phaeobacter inhibens BS107,Phaeo
@@ -26,4 +27,3 @@ Shewanella oneidensis MR-1,MR1
 Shewanella sp. ANA-3,ANA3
 Sinorhizobium meliloti 1021,Smeli
 Sphingomonas koreensis DSMZ 15582,Korea
-Echinicola vietnamensis DSM 17526,Cola

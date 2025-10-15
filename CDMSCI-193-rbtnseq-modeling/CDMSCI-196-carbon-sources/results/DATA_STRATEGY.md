@@ -1,18 +1,18 @@
 # Data Strategy for Growth/No-Growth Analysis
 
 **Date**: 2025-10-03
-**Updated**: After integrating Supplementary Table S2 with feba.db
+**Updated**: 2025-10-14 - After integrating Supplementary Table S2 with feba.db
 
 ---
 
 ## Data Source Hierarchy
 
-We use a **tiered approach** based on data reliability:
+We use a **tiered approach** based on what data each source provides:
 
-### Tier 1: Supplementary Table S2 (Gold Standard)
+### Tier 1: Supplementary Table S2 (2018 Paper)
 - **Source**: BigFIT paper (Price et al. 2018) Supplementary Tables
 - **Coverage**: 28 organisms × 94 carbon sources (minus water control)
-- **Reliability**: Curated, peer-reviewed data
+- **Reliability**: Curated, peer-reviewed data from Morgan Price's team
 - **Use for**: Both "Growth" and "No Growth" calls
 - **Note**: "No Growth" threshold is conservative - alternative conditions might support growth
 
@@ -20,6 +20,8 @@ We use a **tiered approach** based on data reliability:
 - **Source**: https://fit.genomics.lbl.gov database extract
 - **Coverage**: 57 organisms × 198 carbon sources (with quality filters)
 - **Reliability**: High quality (all experiments already pass gMed >= 50, mad12 <= 0.5)
+- **From same lab**: Both sources from Morgan Price's team (equally trustworthy)
+- **Key difference**: Paper reports Growth AND No Growth; Database reports Growth only
 - **Use for**: "Growth" calls ONLY (if experiment exists → growth occurred)
 - **Important**: Do NOT assume absence of data means "No Growth"
 
@@ -33,7 +35,7 @@ We use a **tiered approach** based on data reliability:
 - 100% of 8,975 experiments pass quality filters
 
 ### Discovery 2: Supplementary Table Has Additional Data
-- 287 growth cases exist in supplementary table but NOT in feba.db
+- 170 growth cases exist in supplementary table but NOT in feba.db
 - These experiments were conducted but not included in the public database
 - Some may be from different experimental setups or pre-publication data
 
@@ -51,12 +53,15 @@ We use a **tiered approach** based on data reliability:
 1. **supplementary_table_s2_clean.csv**
    - 28 organisms × 94 carbon sources
    - Values: "Growth" / "No Growth"
-   - Use this as gold standard for validation
+   - Use this as curated validation dataset (from 2018 paper)
    - Column names: Species names (e.g., "Escherichia coli BW25113")
 
 2. **combined_growth_matrix.csv**
-   - 57 organisms × 206 carbon sources
+   - 57 organisms × 208 carbon sources = 11,856 total cells
    - Values: "Growth" / "No Growth" / blank (no data)
+   - Growth: 1,256 (10.6%)
+   - No Growth: 1,331 (11.2%)
+   - Unknown: 9,269 (78.2%)
    - Integrates both data sources with proper hierarchy
    - Column names: Species names (e.g., "Burkholderia phytofirmans PsJN")
 
@@ -68,9 +73,9 @@ We use a **tiered approach** based on data reliability:
 ### Supporting Files
 
 4. **data_source_discrepancies.csv**
-   - Documents 290 cases where sources disagree
-   - Most (287) are: feba.db has no data, supp table shows growth
-   - Very few (3) are: feba.db shows growth, supp table shows no growth
+   - Documents 173 cases where sources disagree
+   - Most (170) are: feba.db has no data, supp table shows growth
+   - Very few (3) are: feba.db shows growth, supp table shows no growth (Tier 1 takes precedence)
 
 ---
 
@@ -143,12 +148,12 @@ All data files now use consistent **simple species names**:
 ## Future Updates
 
 ### Morgan's Upcoming Dataset
-Morgan Mentioned working on larger curated dataset:
+Morgan mentioned working on larger curated dataset:
 - Will cover additional carbon sources
 - Will include most bacteria in Fitness Browser
 - Not yet ready for release (still validating)
 
-**When available**: Upgrade to use that as Tier 1 gold standard
+**When available**: Upgrade to use that as Tier 1 data source
 
 ---
 

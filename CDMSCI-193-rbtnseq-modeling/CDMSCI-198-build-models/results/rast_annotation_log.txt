@@ -1,0 +1,642 @@
+[2025-10-14 20:01:36] ================================================================================
+[2025-10-14 20:01:36] STARTING RAST ANNOTATION
+[2025-10-14 20:01:36] ================================================================================
+[2025-10-14 20:01:36] Processing 57 genomes (starting from index 0)
+[2025-10-14 20:01:36] 
+[1/57] Processing: ANA3
+[2025-10-14 20:01:36]   FASTA file: ANA3_proteins.fasta
+[2025-10-14 20:01:36]   Loading genome from FASTA...
+[2025-10-14 20:01:36]   Loaded 4360 features
+[2025-10-14 20:01:36]   Submitting to RAST for annotation...
+[2025-10-14 20:01:36]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:40]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:01:40]   Annotated features: 4071/4360
+[2025-10-14 20:01:40]   ✓ Saved pickle: ANA3_genome.pkl
+[2025-10-14 20:01:40]   ✓ Saved FASTA: ANA3_RAST.fasta
+[2025-10-14 20:01:40] 
+[2/57] Processing: BFirm
+[2025-10-14 20:01:40]   FASTA file: BFirm_proteins.fasta
+[2025-10-14 20:01:40]   Loading genome from FASTA...
+[2025-10-14 20:01:40]   Loaded 7182 features
+[2025-10-14 20:01:40]   Submitting to RAST for annotation...
+[2025-10-14 20:01:40]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:44]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:01:44]   Annotated features: 6502/7182
+[2025-10-14 20:01:44]   ✓ Saved pickle: BFirm_genome.pkl
+[2025-10-14 20:01:44]   ✓ Saved FASTA: BFirm_RAST.fasta
+[2025-10-14 20:01:44] 
+[3/57] Processing: Bifido
+[2025-10-14 20:01:44]   FASTA file: Bifido_proteins.fasta
+[2025-10-14 20:01:44]   Loading genome from FASTA...
+[2025-10-14 20:01:44]   Loaded 1960 features
+[2025-10-14 20:01:44]   Submitting to RAST for annotation...
+[2025-10-14 20:01:44]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:46]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:01:46]   Annotated features: 1818/1960
+[2025-10-14 20:01:46]   ✓ Saved pickle: Bifido_genome.pkl
+[2025-10-14 20:01:46]   ✓ Saved FASTA: Bifido_RAST.fasta
+[2025-10-14 20:01:46] 
+[4/57] Processing: Brev2
+[2025-10-14 20:01:46]   FASTA file: Brev2_proteins.fasta
+[2025-10-14 20:01:46]   Loading genome from FASTA...
+[2025-10-14 20:01:46]   Loaded 3184 features
+[2025-10-14 20:01:46]   Submitting to RAST for annotation...
+[2025-10-14 20:01:46]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:49]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:01:49]   Annotated features: 2764/3184
+[2025-10-14 20:01:49]   ✓ Saved pickle: Brev2_genome.pkl
+[2025-10-14 20:01:49]   ✓ Saved FASTA: Brev2_RAST.fasta
+[2025-10-14 20:01:49] 
+[5/57] Processing: Btheta
+[2025-10-14 20:01:49]   FASTA file: Btheta_proteins.fasta
+[2025-10-14 20:01:49]   Loading genome from FASTA...
+[2025-10-14 20:01:49]   Loaded 4816 features
+[2025-10-14 20:01:49]   Submitting to RAST for annotation...
+[2025-10-14 20:01:49]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:53]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:01:53]   Annotated features: 4760/4816
+[2025-10-14 20:01:53]   ✓ Saved pickle: Btheta_genome.pkl
+[2025-10-14 20:01:53]   ✓ Saved FASTA: Btheta_RAST.fasta
+[2025-10-14 20:01:53] 
+[6/57] Processing: Burk376
+[2025-10-14 20:01:53]   FASTA file: Burk376_proteins.fasta
+[2025-10-14 20:01:53]   Loading genome from FASTA...
+[2025-10-14 20:01:53]   Loaded 6555 features
+[2025-10-14 20:01:53]   Submitting to RAST for annotation...
+[2025-10-14 20:01:53]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:01:57]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:01:57]   Annotated features: 5877/6555
+[2025-10-14 20:01:57]   ✓ Saved pickle: Burk376_genome.pkl
+[2025-10-14 20:01:57]   ✓ Saved FASTA: Burk376_RAST.fasta
+[2025-10-14 20:01:57] 
+[7/57] Processing: Burkholderia_OAS925
+[2025-10-14 20:01:57]   FASTA file: Burkholderia_OAS925_proteins.fasta
+[2025-10-14 20:01:57]   Loading genome from FASTA...
+[2025-10-14 20:01:57]   Loaded 6501 features
+[2025-10-14 20:01:57]   Submitting to RAST for annotation...
+[2025-10-14 20:01:57]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:01]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:01]   Annotated features: 5789/6501
+[2025-10-14 20:02:01]   ✓ Saved pickle: Burkholderia_OAS925_genome.pkl
+[2025-10-14 20:02:01]   ✓ Saved FASTA: Burkholderia_OAS925_RAST.fasta
+[2025-10-14 20:02:01] 
+[8/57] Processing: Bvulgatus_CL09T03C04
+[2025-10-14 20:02:01]   FASTA file: Bvulgatus_CL09T03C04_proteins.fasta
+[2025-10-14 20:02:01]   Loading genome from FASTA...
+[2025-10-14 20:02:01]   Loaded 3806 features
+[2025-10-14 20:02:01]   Submitting to RAST for annotation...
+[2025-10-14 20:02:01]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:05]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:05]   Annotated features: 3405/3806
+[2025-10-14 20:02:05]   ✓ Saved pickle: Bvulgatus_CL09T03C04_genome.pkl
+[2025-10-14 20:02:05]   ✓ Saved FASTA: Bvulgatus_CL09T03C04_RAST.fasta
+[2025-10-14 20:02:05] 
+[9/57] Processing: CL21
+[2025-10-14 20:02:05]   FASTA file: CL21_proteins.fasta
+[2025-10-14 20:02:05]   Loading genome from FASTA...
+[2025-10-14 20:02:05]   Loaded 4638 features
+[2025-10-14 20:02:05]   Submitting to RAST for annotation...
+[2025-10-14 20:02:05]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:08]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:08]   Annotated features: 4364/4638
+[2025-10-14 20:02:08]   ✓ Saved pickle: CL21_genome.pkl
+[2025-10-14 20:02:08]   ✓ Saved FASTA: CL21_RAST.fasta
+[2025-10-14 20:02:08] 
+[10/57] Processing: Caulo
+[2025-10-14 20:02:08]   FASTA file: Caulo_proteins.fasta
+[2025-10-14 20:02:08]   Loading genome from FASTA...
+[2025-10-14 20:02:08]   Loaded 3886 features
+[2025-10-14 20:02:08]   Submitting to RAST for annotation...
+[2025-10-14 20:02:08]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:11]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:02:11]   Annotated features: 3676/3886
+[2025-10-14 20:02:11]   ✓ Saved pickle: Caulo_genome.pkl
+[2025-10-14 20:02:11]   ✓ Saved FASTA: Caulo_RAST.fasta
+[2025-10-14 20:02:11] 
+[11/57] Processing: Cola
+[2025-10-14 20:02:11]   FASTA file: Cola_proteins.fasta
+[2025-10-14 20:02:11]   Loading genome from FASTA...
+[2025-10-14 20:02:11]   Loaded 4625 features
+[2025-10-14 20:02:11]   Submitting to RAST for annotation...
+[2025-10-14 20:02:11]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:14]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:14]   Annotated features: 4408/4625
+[2025-10-14 20:02:14]   ✓ Saved pickle: Cola_genome.pkl
+[2025-10-14 20:02:14]   ✓ Saved FASTA: Cola_RAST.fasta
+[2025-10-14 20:02:14] 
+[12/57] Processing: Cup4G11
+[2025-10-14 20:02:14]   FASTA file: Cup4G11_proteins.fasta
+[2025-10-14 20:02:14]   Loading genome from FASTA...
+[2025-10-14 20:02:14]   Loaded 7358 features
+[2025-10-14 20:02:14]   Submitting to RAST for annotation...
+[2025-10-14 20:02:14]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:19]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:19]   Annotated features: 6471/7358
+[2025-10-14 20:02:19]   ✓ Saved pickle: Cup4G11_genome.pkl
+[2025-10-14 20:02:19]   ✓ Saved FASTA: Cup4G11_RAST.fasta
+[2025-10-14 20:02:19] 
+[13/57] Processing: Dda3937
+[2025-10-14 20:02:19]   FASTA file: Dda3937_proteins.fasta
+[2025-10-14 20:02:19]   Loading genome from FASTA...
+[2025-10-14 20:02:19]   Loaded 4213 features
+[2025-10-14 20:02:19]   Submitting to RAST for annotation...
+[2025-10-14 20:02:19]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:22]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:22]   Annotated features: 3945/4213
+[2025-10-14 20:02:22]   ✓ Saved pickle: Dda3937_genome.pkl
+[2025-10-14 20:02:22]   ✓ Saved FASTA: Dda3937_RAST.fasta
+[2025-10-14 20:02:22] 
+[14/57] Processing: Ddia6719
+[2025-10-14 20:02:22]   FASTA file: Ddia6719_proteins.fasta
+[2025-10-14 20:02:22]   Loading genome from FASTA...
+[2025-10-14 20:02:22]   Loaded 4110 features
+[2025-10-14 20:02:22]   Submitting to RAST for annotation...
+[2025-10-14 20:02:22]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:25]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:25]   Annotated features: 3829/4110
+[2025-10-14 20:02:25]   ✓ Saved pickle: Ddia6719_genome.pkl
+[2025-10-14 20:02:25]   ✓ Saved FASTA: Ddia6719_RAST.fasta
+[2025-10-14 20:02:25] 
+[15/57] Processing: DdiaME23
+[2025-10-14 20:02:25]   FASTA file: DdiaME23_proteins.fasta
+[2025-10-14 20:02:25]   Loading genome from FASTA...
+[2025-10-14 20:02:25]   Loaded 4182 features
+[2025-10-14 20:02:25]   Submitting to RAST for annotation...
+[2025-10-14 20:02:25]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:28]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:28]   Annotated features: 3874/4182
+[2025-10-14 20:02:28]   ✓ Saved pickle: DdiaME23_genome.pkl
+[2025-10-14 20:02:28]   ✓ Saved FASTA: DdiaME23_RAST.fasta
+[2025-10-14 20:02:28] 
+[16/57] Processing: Dino
+[2025-10-14 20:02:28]   FASTA file: Dino_proteins.fasta
+[2025-10-14 20:02:28]   Loading genome from FASTA...
+[2025-10-14 20:02:28]   Loaded 4192 features
+[2025-10-14 20:02:28]   Submitting to RAST for annotation...
+[2025-10-14 20:02:28]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:31]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:31]   Annotated features: 4159/4192
+[2025-10-14 20:02:31]   ✓ Saved pickle: Dino_genome.pkl
+[2025-10-14 20:02:31]   ✓ Saved FASTA: Dino_RAST.fasta
+[2025-10-14 20:02:31] 
+[17/57] Processing: DvH
+[2025-10-14 20:02:31]   FASTA file: DvH_proteins.fasta
+[2025-10-14 20:02:31]   Loading genome from FASTA...
+[2025-10-14 20:02:31]   Loaded 3403 features
+[2025-10-14 20:02:31]   Submitting to RAST for annotation...
+[2025-10-14 20:02:31]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:35]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:35]   Annotated features: 2990/3403
+[2025-10-14 20:02:35]   ✓ Saved pickle: DvH_genome.pkl
+[2025-10-14 20:02:35]   ✓ Saved FASTA: DvH_RAST.fasta
+[2025-10-14 20:02:35] 
+[18/57] Processing: Dyella79
+[2025-10-14 20:02:35]   FASTA file: Dyella79_proteins.fasta
+[2025-10-14 20:02:35]   Loading genome from FASTA...
+[2025-10-14 20:02:35]   Loaded 4375 features
+[2025-10-14 20:02:35]   Submitting to RAST for annotation...
+[2025-10-14 20:02:35]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:38]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:38]   Annotated features: 3542/4375
+[2025-10-14 20:02:38]   ✓ Saved pickle: Dyella79_genome.pkl
+[2025-10-14 20:02:38]   ✓ Saved FASTA: Dyella79_RAST.fasta
+[2025-10-14 20:02:38] 
+[19/57] Processing: HerbieS
+[2025-10-14 20:02:38]   FASTA file: HerbieS_proteins.fasta
+[2025-10-14 20:02:38]   Loading genome from FASTA...
+[2025-10-14 20:02:38]   Loaded 4715 features
+[2025-10-14 20:02:38]   Submitting to RAST for annotation...
+[2025-10-14 20:02:38]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:41]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:41]   Annotated features: 4579/4715
+[2025-10-14 20:02:41]   ✓ Saved pickle: HerbieS_genome.pkl
+[2025-10-14 20:02:41]   ✓ Saved FASTA: HerbieS_RAST.fasta
+[2025-10-14 20:02:41] 
+[20/57] Processing: Kang
+[2025-10-14 20:02:41]   FASTA file: Kang_proteins.fasta
+[2025-10-14 20:02:41]   Loading genome from FASTA...
+[2025-10-14 20:02:41]   Loaded 2467 features
+[2025-10-14 20:02:41]   Submitting to RAST for annotation...
+[2025-10-14 20:02:41]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:43]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:02:43]   Annotated features: 2258/2467
+[2025-10-14 20:02:43]   ✓ Saved pickle: Kang_genome.pkl
+[2025-10-14 20:02:43]   ✓ Saved FASTA: Kang_RAST.fasta
+[2025-10-14 20:02:43] 
+[21/57] Processing: Keio
+[2025-10-14 20:02:43]   FASTA file: Keio_proteins.fasta
+[2025-10-14 20:02:43]   Loading genome from FASTA...
+[2025-10-14 20:02:43]   Loaded 4146 features
+[2025-10-14 20:02:43]   Submitting to RAST for annotation...
+[2025-10-14 20:02:43]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:46]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:02:46]   Annotated features: 4093/4146
+[2025-10-14 20:02:46]   ✓ Saved pickle: Keio_genome.pkl
+[2025-10-14 20:02:46]   ✓ Saved FASTA: Keio_RAST.fasta
+[2025-10-14 20:02:46] 
+[22/57] Processing: Korea
+[2025-10-14 20:02:46]   FASTA file: Korea_proteins.fasta
+[2025-10-14 20:02:46]   Loading genome from FASTA...
+[2025-10-14 20:02:46]   Loaded 4149 features
+[2025-10-14 20:02:46]   Submitting to RAST for annotation...
+[2025-10-14 20:02:46]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:49]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:49]   Annotated features: 3260/4149
+[2025-10-14 20:02:49]   ✓ Saved pickle: Korea_genome.pkl
+[2025-10-14 20:02:49]   ✓ Saved FASTA: Korea_RAST.fasta
+[2025-10-14 20:02:49] 
+[23/57] Processing: Koxy
+[2025-10-14 20:02:49]   FASTA file: Koxy_proteins.fasta
+[2025-10-14 20:02:49]   Loading genome from FASTA...
+[2025-10-14 20:02:49]   Loaded 5309 features
+[2025-10-14 20:02:49]   Submitting to RAST for annotation...
+[2025-10-14 20:02:49]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:53]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:53]   Annotated features: 5045/5309
+[2025-10-14 20:02:53]   ✓ Saved pickle: Koxy_genome.pkl
+[2025-10-14 20:02:53]   ✓ Saved FASTA: Koxy_RAST.fasta
+[2025-10-14 20:02:53] 
+[24/57] Processing: Lysobacter_OAE881
+[2025-10-14 20:02:53]   FASTA file: Lysobacter_OAE881_proteins.fasta
+[2025-10-14 20:02:53]   Loading genome from FASTA...
+[2025-10-14 20:02:53]   Loaded 3702 features
+[2025-10-14 20:02:53]   Submitting to RAST for annotation...
+[2025-10-14 20:02:53]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:56]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:02:56]   Annotated features: 2992/3702
+[2025-10-14 20:02:56]   ✓ Saved pickle: Lysobacter_OAE881_genome.pkl
+[2025-10-14 20:02:56]   ✓ Saved FASTA: Lysobacter_OAE881_RAST.fasta
+[2025-10-14 20:02:56] 
+[25/57] Processing: MR1
+[2025-10-14 20:02:56]   FASTA file: MR1_proteins.fasta
+[2025-10-14 20:02:56]   Loading genome from FASTA...
+[2025-10-14 20:02:56]   Loaded 4467 features
+[2025-10-14 20:02:56]   Submitting to RAST for annotation...
+[2025-10-14 20:02:56]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:02:59]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:02:59]   Annotated features: 4303/4467
+[2025-10-14 20:02:59]   ✓ Saved pickle: MR1_genome.pkl
+[2025-10-14 20:02:59]   ✓ Saved FASTA: MR1_RAST.fasta
+[2025-10-14 20:02:59] 
+[26/57] Processing: Magneto
+[2025-10-14 20:02:59]   FASTA file: Magneto_proteins.fasta
+[2025-10-14 20:02:59]   Loading genome from FASTA...
+[2025-10-14 20:02:59]   Loaded 4489 features
+[2025-10-14 20:02:59]   Submitting to RAST for annotation...
+[2025-10-14 20:02:59]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:03]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:03]   Annotated features: 4106/4489
+[2025-10-14 20:03:03]   ✓ Saved pickle: Magneto_genome.pkl
+[2025-10-14 20:03:03]   ✓ Saved FASTA: Magneto_RAST.fasta
+[2025-10-14 20:03:03] 
+[27/57] Processing: Marino
+[2025-10-14 20:03:03]   FASTA file: Marino_proteins.fasta
+[2025-10-14 20:03:03]   Loading genome from FASTA...
+[2025-10-14 20:03:03]   Loaded 4410 features
+[2025-10-14 20:03:03]   Submitting to RAST for annotation...
+[2025-10-14 20:03:03]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:06]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:06]   Annotated features: 3646/4410
+[2025-10-14 20:03:06]   ✓ Saved pickle: Marino_genome.pkl
+[2025-10-14 20:03:06]   ✓ Saved FASTA: Marino_RAST.fasta
+[2025-10-14 20:03:06] 
+[28/57] Processing: Methanococcus_JJ
+[2025-10-14 20:03:06]   FASTA file: Methanococcus_JJ_proteins.fasta
+[2025-10-14 20:03:06]   Loading genome from FASTA...
+[2025-10-14 20:03:06]   Loaded 1796 features
+[2025-10-14 20:03:06]   Submitting to RAST for annotation...
+[2025-10-14 20:03:06]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:08]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:03:08]   Annotated features: 1696/1796
+[2025-10-14 20:03:08]   ✓ Saved pickle: Methanococcus_JJ_genome.pkl
+[2025-10-14 20:03:08]   ✓ Saved FASTA: Methanococcus_JJ_RAST.fasta
+[2025-10-14 20:03:08] 
+[29/57] Processing: Methanococcus_S2
+[2025-10-14 20:03:08]   FASTA file: Methanococcus_S2_proteins.fasta
+[2025-10-14 20:03:08]   Loading genome from FASTA...
+[2025-10-14 20:03:08]   Loaded 1741 features
+[2025-10-14 20:03:08]   Submitting to RAST for annotation...
+[2025-10-14 20:03:08]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:10]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:03:10]   Annotated features: 1720/1741
+[2025-10-14 20:03:10]   ✓ Saved pickle: Methanococcus_S2_genome.pkl
+[2025-10-14 20:03:10]   ✓ Saved FASTA: Methanococcus_S2_RAST.fasta
+[2025-10-14 20:03:10] 
+[30/57] Processing: Miya
+[2025-10-14 20:03:10]   FASTA file: Miya_proteins.fasta
+[2025-10-14 20:03:10]   Loading genome from FASTA...
+[2025-10-14 20:03:10]   Loaded 3180 features
+[2025-10-14 20:03:10]   Submitting to RAST for annotation...
+[2025-10-14 20:03:10]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:13]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:13]   Annotated features: 3128/3180
+[2025-10-14 20:03:13]   ✓ Saved pickle: Miya_genome.pkl
+[2025-10-14 20:03:13]   ✓ Saved FASTA: Miya_RAST.fasta
+[2025-10-14 20:03:13] 
+[31/57] Processing: PS
+[2025-10-14 20:03:13]   FASTA file: PS_proteins.fasta
+[2025-10-14 20:03:13]   Loading genome from FASTA...
+[2025-10-14 20:03:13]   Loaded 3443 features
+[2025-10-14 20:03:13]   Submitting to RAST for annotation...
+[2025-10-14 20:03:13]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:16]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:03:16]   Annotated features: 3276/3443
+[2025-10-14 20:03:16]   ✓ Saved pickle: PS_genome.pkl
+[2025-10-14 20:03:16]   ✓ Saved FASTA: PS_RAST.fasta
+[2025-10-14 20:03:16] 
+[32/57] Processing: PV4
+[2025-10-14 20:03:16]   FASTA file: PV4_proteins.fasta
+[2025-10-14 20:03:16]   Loading genome from FASTA...
+[2025-10-14 20:03:16]   Loaded 3859 features
+[2025-10-14 20:03:16]   Submitting to RAST for annotation...
+[2025-10-14 20:03:16]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:19]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:19]   Annotated features: 3497/3859
+[2025-10-14 20:03:19]   ✓ Saved pickle: PV4_genome.pkl
+[2025-10-14 20:03:19]   ✓ Saved FASTA: PV4_RAST.fasta
+[2025-10-14 20:03:19] 
+[33/57] Processing: Pedo557
+[2025-10-14 20:03:19]   FASTA file: Pedo557_proteins.fasta
+[2025-10-14 20:03:19]   Loading genome from FASTA...
+[2025-10-14 20:03:19]   Loaded 4964 features
+[2025-10-14 20:03:19]   Submitting to RAST for annotation...
+[2025-10-14 20:03:19]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:22]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:22]   Annotated features: 3755/4964
+[2025-10-14 20:03:22]   ✓ Saved pickle: Pedo557_genome.pkl
+[2025-10-14 20:03:22]   ✓ Saved FASTA: Pedo557_RAST.fasta
+[2025-10-14 20:03:22] 
+[34/57] Processing: Phaeo
+[2025-10-14 20:03:22]   FASTA file: Phaeo_proteins.fasta
+[2025-10-14 20:03:22]   Loading genome from FASTA...
+[2025-10-14 20:03:22]   Loaded 3875 features
+[2025-10-14 20:03:22]   Submitting to RAST for annotation...
+[2025-10-14 20:03:22]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:25]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:25]   Annotated features: 3679/3875
+[2025-10-14 20:03:25]   ✓ Saved pickle: Phaeo_genome.pkl
+[2025-10-14 20:03:25]   ✓ Saved FASTA: Phaeo_RAST.fasta
+[2025-10-14 20:03:25] 
+[35/57] Processing: Ponti
+[2025-10-14 20:03:25]   FASTA file: Ponti_proteins.fasta
+[2025-10-14 20:03:25]   Loading genome from FASTA...
+[2025-10-14 20:03:25]   Loaded 4220 features
+[2025-10-14 20:03:25]   Submitting to RAST for annotation...
+[2025-10-14 20:03:25]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:28]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:03:28]   Annotated features: 3025/4220
+[2025-10-14 20:03:28]   ✓ Saved pickle: Ponti_genome.pkl
+[2025-10-14 20:03:28]   ✓ Saved FASTA: Ponti_RAST.fasta
+[2025-10-14 20:03:28] 
+[36/57] Processing: Putida
+[2025-10-14 20:03:28]   FASTA file: Putida_proteins.fasta
+[2025-10-14 20:03:28]   Loading genome from FASTA...
+[2025-10-14 20:03:28]   Loaded 5563 features
+[2025-10-14 20:03:28]   Submitting to RAST for annotation...
+[2025-10-14 20:03:28]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:32]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:32]   Annotated features: 5345/5563
+[2025-10-14 20:03:32]   ✓ Saved pickle: Putida_genome.pkl
+[2025-10-14 20:03:32]   ✓ Saved FASTA: Putida_RAST.fasta
+[2025-10-14 20:03:32] 
+[37/57] Processing: RalstoniaBSBF1503
+[2025-10-14 20:03:32]   FASTA file: RalstoniaBSBF1503_proteins.fasta
+[2025-10-14 20:03:32]   Loading genome from FASTA...
+[2025-10-14 20:03:32]   Loaded 4659 features
+[2025-10-14 20:03:32]   Submitting to RAST for annotation...
+[2025-10-14 20:03:32]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:36]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:36]   Annotated features: 4341/4659
+[2025-10-14 20:03:36]   ✓ Saved pickle: RalstoniaBSBF1503_genome.pkl
+[2025-10-14 20:03:36]   ✓ Saved FASTA: RalstoniaBSBF1503_RAST.fasta
+[2025-10-14 20:03:36] 
+[38/57] Processing: RalstoniaGMI1000
+[2025-10-14 20:03:36]   FASTA file: RalstoniaGMI1000_proteins.fasta
+[2025-10-14 20:03:36]   Loading genome from FASTA...
+[2025-10-14 20:03:36]   Loaded 4956 features
+[2025-10-14 20:03:36]   Submitting to RAST for annotation...
+[2025-10-14 20:03:36]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:39]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:39]   Annotated features: 4853/4956
+[2025-10-14 20:03:39]   ✓ Saved pickle: RalstoniaGMI1000_genome.pkl
+[2025-10-14 20:03:39]   ✓ Saved FASTA: RalstoniaGMI1000_RAST.fasta
+[2025-10-14 20:03:39] 
+[39/57] Processing: RalstoniaPSI07
+[2025-10-14 20:03:39]   FASTA file: RalstoniaPSI07_proteins.fasta
+[2025-10-14 20:03:39]   Loading genome from FASTA...
+[2025-10-14 20:03:39]   Loaded 4735 features
+[2025-10-14 20:03:39]   Submitting to RAST for annotation...
+[2025-10-14 20:03:39]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:43]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:43]   Annotated features: 4419/4735
+[2025-10-14 20:03:43]   ✓ Saved pickle: RalstoniaPSI07_genome.pkl
+[2025-10-14 20:03:43]   ✓ Saved FASTA: RalstoniaPSI07_RAST.fasta
+[2025-10-14 20:03:43] 
+[40/57] Processing: RalstoniaUW163
+[2025-10-14 20:03:43]   FASTA file: RalstoniaUW163_proteins.fasta
+[2025-10-14 20:03:43]   Loading genome from FASTA...
+[2025-10-14 20:03:43]   Loaded 4758 features
+[2025-10-14 20:03:43]   Submitting to RAST for annotation...
+[2025-10-14 20:03:43]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:46]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:46]   Annotated features: 4369/4758
+[2025-10-14 20:03:46]   ✓ Saved pickle: RalstoniaUW163_genome.pkl
+[2025-10-14 20:03:46]   ✓ Saved FASTA: RalstoniaUW163_RAST.fasta
+[2025-10-14 20:03:46] 
+[41/57] Processing: SB2B
+[2025-10-14 20:03:46]   FASTA file: SB2B_proteins.fasta
+[2025-10-14 20:03:46]   Loading genome from FASTA...
+[2025-10-14 20:03:46]   Loaded 3645 features
+[2025-10-14 20:03:46]   Submitting to RAST for annotation...
+[2025-10-14 20:03:46]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:50]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:50]   Annotated features: 3546/3645
+[2025-10-14 20:03:50]   ✓ Saved pickle: SB2B_genome.pkl
+[2025-10-14 20:03:50]   ✓ Saved FASTA: SB2B_RAST.fasta
+[2025-10-14 20:03:50] 
+[42/57] Processing: Smeli
+[2025-10-14 20:03:50]   FASTA file: Smeli_proteins.fasta
+[2025-10-14 20:03:50]   Loading genome from FASTA...
+[2025-10-14 20:03:50]   Loaded 6218 features
+[2025-10-14 20:03:50]   Submitting to RAST for annotation...
+[2025-10-14 20:03:50]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:54]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:03:54]   Annotated features: 6118/6218
+[2025-10-14 20:03:54]   ✓ Saved pickle: Smeli_genome.pkl
+[2025-10-14 20:03:54]   ✓ Saved FASTA: Smeli_RAST.fasta
+[2025-10-14 20:03:54] 
+[43/57] Processing: SynE
+[2025-10-14 20:03:54]   FASTA file: SynE_proteins.fasta
+[2025-10-14 20:03:54]   Loading genome from FASTA...
+[2025-10-14 20:03:54]   Loaded 2669 features
+[2025-10-14 20:03:54]   Submitting to RAST for annotation...
+[2025-10-14 20:03:54]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:03:56]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:03:56]   Annotated features: 2530/2669
+[2025-10-14 20:03:56]   ✓ Saved pickle: SynE_genome.pkl
+[2025-10-14 20:03:56]   ✓ Saved FASTA: SynE_RAST.fasta
+[2025-10-14 20:03:56] 
+[44/57] Processing: SyringaeB728a_mexBdelta
+[2025-10-14 20:03:56]   FASTA file: SyringaeB728a_mexBdelta_proteins.fasta
+[2025-10-14 20:03:56]   Loading genome from FASTA...
+[2025-10-14 20:03:56]   Loaded 5089 features
+[2025-10-14 20:03:56]   Submitting to RAST for annotation...
+[2025-10-14 20:03:56]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:00]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:00]   Annotated features: 4752/5089
+[2025-10-14 20:04:00]   ✓ Saved pickle: SyringaeB728a_mexBdelta_genome.pkl
+[2025-10-14 20:04:00]   ✓ Saved FASTA: SyringaeB728a_mexBdelta_RAST.fasta
+[2025-10-14 20:04:00] 
+[45/57] Processing: SyringaeB728a
+[2025-10-14 20:04:00]   FASTA file: SyringaeB728a_proteins.fasta
+[2025-10-14 20:04:00]   Loading genome from FASTA...
+[2025-10-14 20:04:00]   Loaded 5089 features
+[2025-10-14 20:04:00]   Submitting to RAST for annotation...
+[2025-10-14 20:04:00]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:03]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:03]   Annotated features: 4752/5089
+[2025-10-14 20:04:03]   ✓ Saved pickle: SyringaeB728a_genome.pkl
+[2025-10-14 20:04:03]   ✓ Saved FASTA: SyringaeB728a_RAST.fasta
+[2025-10-14 20:04:03] 
+[46/57] Processing: Variovorax_OAS795
+[2025-10-14 20:04:03]   FASTA file: Variovorax_OAS795_proteins.fasta
+[2025-10-14 20:04:03]   Loading genome from FASTA...
+[2025-10-14 20:04:03]   Loaded 5732 features
+[2025-10-14 20:04:03]   Submitting to RAST for annotation...
+[2025-10-14 20:04:03]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:07]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:07]   Annotated features: 5217/5732
+[2025-10-14 20:04:07]   ✓ Saved pickle: Variovorax_OAS795_genome.pkl
+[2025-10-14 20:04:07]   ✓ Saved FASTA: Variovorax_OAS795_RAST.fasta
+[2025-10-14 20:04:07] 
+[47/57] Processing: WCS417
+[2025-10-14 20:04:07]   FASTA file: WCS417_proteins.fasta
+[2025-10-14 20:04:07]   Loading genome from FASTA...
+[2025-10-14 20:04:07]   Loaded 5506 features
+[2025-10-14 20:04:07]   Submitting to RAST for annotation...
+[2025-10-14 20:04:07]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:10]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:10]   Annotated features: 4940/5506
+[2025-10-14 20:04:10]   ✓ Saved pickle: WCS417_genome.pkl
+[2025-10-14 20:04:10]   ✓ Saved FASTA: WCS417_RAST.fasta
+[2025-10-14 20:04:10] 
+[48/57] Processing: Xantho
+[2025-10-14 20:04:10]   FASTA file: Xantho_proteins.fasta
+[2025-10-14 20:04:10]   Loading genome from FASTA...
+[2025-10-14 20:04:10]   Loaded 4617 features
+[2025-10-14 20:04:10]   Submitting to RAST for annotation...
+[2025-10-14 20:04:10]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:14]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:14]   Annotated features: 4350/4617
+[2025-10-14 20:04:14]   ✓ Saved pickle: Xantho_genome.pkl
+[2025-10-14 20:04:14]   ✓ Saved FASTA: Xantho_RAST.fasta
+[2025-10-14 20:04:14] 
+[49/57] Processing: acidovorax_3H11
+[2025-10-14 20:04:14]   FASTA file: acidovorax_3H11_proteins.fasta
+[2025-10-14 20:04:14]   Loading genome from FASTA...
+[2025-10-14 20:04:14]   Loaded 4964 features
+[2025-10-14 20:04:14]   Submitting to RAST for annotation...
+[2025-10-14 20:04:14]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:17]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:17]   Annotated features: 4239/4964
+[2025-10-14 20:04:17]   ✓ Saved pickle: acidovorax_3H11_genome.pkl
+[2025-10-14 20:04:17]   ✓ Saved FASTA: acidovorax_3H11_RAST.fasta
+[2025-10-14 20:04:17] 
+[50/57] Processing: azobra
+[2025-10-14 20:04:17]   FASTA file: azobra_proteins.fasta
+[2025-10-14 20:04:17]   Loading genome from FASTA...
+[2025-10-14 20:04:17]   Loaded 5488 features
+[2025-10-14 20:04:17]   Submitting to RAST for annotation...
+[2025-10-14 20:04:17]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:21]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:21]   Annotated features: 4506/5488
+[2025-10-14 20:04:21]   ✓ Saved pickle: azobra_genome.pkl
+[2025-10-14 20:04:21]   ✓ Saved FASTA: azobra_RAST.fasta
+[2025-10-14 20:04:21] 
+[51/57] Processing: psRCH2
+[2025-10-14 20:04:21]   FASTA file: psRCH2_proteins.fasta
+[2025-10-14 20:04:21]   Loading genome from FASTA...
+[2025-10-14 20:04:21]   Loaded 4265 features
+[2025-10-14 20:04:21]   Submitting to RAST for annotation...
+[2025-10-14 20:04:21]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:24]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:04:24]   Annotated features: 3675/4265
+[2025-10-14 20:04:24]   ✓ Saved pickle: psRCH2_genome.pkl
+[2025-10-14 20:04:24]   ✓ Saved FASTA: psRCH2_RAST.fasta
+[2025-10-14 20:04:24] 
+[52/57] Processing: pseudo13_GW456_L13
+[2025-10-14 20:04:24]   FASTA file: pseudo13_GW456_L13_proteins.fasta
+[2025-10-14 20:04:24]   Loading genome from FASTA...
+[2025-10-14 20:04:24]   Loaded 5152 features
+[2025-10-14 20:04:24]   Submitting to RAST for annotation...
+[2025-10-14 20:04:24]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:27]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:27]   Annotated features: 4679/5152
+[2025-10-14 20:04:27]   ✓ Saved pickle: pseudo13_GW456_L13_genome.pkl
+[2025-10-14 20:04:27]   ✓ Saved FASTA: pseudo13_GW456_L13_RAST.fasta
+[2025-10-14 20:04:27] 
+[53/57] Processing: pseudo1_N1B4
+[2025-10-14 20:04:27]   FASTA file: pseudo1_N1B4_proteins.fasta
+[2025-10-14 20:04:27]   Loading genome from FASTA...
+[2025-10-14 20:04:27]   Loaded 5972 features
+[2025-10-14 20:04:27]   Submitting to RAST for annotation...
+[2025-10-14 20:04:27]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:31]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:31]   Annotated features: 5180/5972
+[2025-10-14 20:04:31]   ✓ Saved pickle: pseudo1_N1B4_genome.pkl
+[2025-10-14 20:04:31]   ✓ Saved FASTA: pseudo1_N1B4_RAST.fasta
+[2025-10-14 20:04:31] 
+[54/57] Processing: pseudo3_N2E3
+[2025-10-14 20:04:31]   FASTA file: pseudo3_N2E3_proteins.fasta
+[2025-10-14 20:04:31]   Loading genome from FASTA...
+[2025-10-14 20:04:31]   Loaded 5766 features
+[2025-10-14 20:04:31]   Submitting to RAST for annotation...
+[2025-10-14 20:04:31]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:34]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:34]   Annotated features: 5064/5766
+[2025-10-14 20:04:34]   ✓ Saved pickle: pseudo3_N2E3_genome.pkl
+[2025-10-14 20:04:34]   ✓ Saved FASTA: pseudo3_N2E3_RAST.fasta
+[2025-10-14 20:04:34] 
+[55/57] Processing: pseudo5_N2C3_1
+[2025-10-14 20:04:34]   FASTA file: pseudo5_N2C3_1_proteins.fasta
+[2025-10-14 20:04:34]   Loading genome from FASTA...
+[2025-10-14 20:04:34]   Loaded 6000 features
+[2025-10-14 20:04:34]   Submitting to RAST for annotation...
+[2025-10-14 20:04:34]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:38]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:38]   Annotated features: 5458/6000
+[2025-10-14 20:04:39]   ✓ Saved pickle: pseudo5_N2C3_1_genome.pkl
+[2025-10-14 20:04:39]   ✓ Saved FASTA: pseudo5_N2C3_1_RAST.fasta
+[2025-10-14 20:04:39] 
+[56/57] Processing: pseudo6_N2E2
+[2025-10-14 20:04:39]   FASTA file: pseudo6_N2E2_proteins.fasta
+[2025-10-14 20:04:39]   Loading genome from FASTA...
+[2025-10-14 20:04:39]   Loaded 6094 features
+[2025-10-14 20:04:39]   Submitting to RAST for annotation...
+[2025-10-14 20:04:39]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:42]   ✓ Annotation complete (0.1 minutes)
+[2025-10-14 20:04:42]   Annotated features: 5374/6094
+[2025-10-14 20:04:42]   ✓ Saved pickle: pseudo6_N2E2_genome.pkl
+[2025-10-14 20:04:42]   ✓ Saved FASTA: pseudo6_N2E2_RAST.fasta
+[2025-10-14 20:04:42] 
+[57/57] Processing: rhodanobacter_10B01
+[2025-10-14 20:04:42]   FASTA file: rhodanobacter_10B01_proteins.fasta
+[2025-10-14 20:04:42]   Loading genome from FASTA...
+[2025-10-14 20:04:42]   Loaded 3526 features
+[2025-10-14 20:04:42]   Submitting to RAST for annotation...
+[2025-10-14 20:04:42]   ⏳ This will take 2-4 hours - please be patient
+[2025-10-14 20:04:45]   ✓ Annotation complete (0.0 minutes)
+[2025-10-14 20:04:45]   Annotated features: 3337/3526
+[2025-10-14 20:04:45]   ✓ Saved pickle: rhodanobacter_10B01_genome.pkl
+[2025-10-14 20:04:45]   ✓ Saved FASTA: rhodanobacter_10B01_RAST.fasta
+[2025-10-14 20:04:45] 
+================================================================================
+[2025-10-14 20:04:45] ANNOTATION SUMMARY
+[2025-10-14 20:04:45] ================================================================================
+[2025-10-14 20:04:45] Total processed: 57
+[2025-10-14 20:04:45]   Completed: 57
+[2025-10-14 20:04:45]   Skipped (already done): 0
+[2025-10-14 20:04:45]   Failed: 0
+[2025-10-14 20:04:45] 
+Output directory: results/genomes
+[2025-10-14 20:04:45] ================================================================================
