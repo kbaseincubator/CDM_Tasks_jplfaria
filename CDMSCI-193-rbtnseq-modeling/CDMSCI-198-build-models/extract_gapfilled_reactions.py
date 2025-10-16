@@ -13,6 +13,7 @@ output_file = Path('results/gapfilled_reactions_detailed.csv')
 
 results = []
 all_reactions = Counter()
+reaction_names = {}  # Store reaction ID -> name mapping
 
 # Get all organism IDs from model files
 organism_ids = set()
@@ -40,17 +41,22 @@ for org_id in sorted(organism_ids):
 
     # Get reaction IDs
     draft_rxns = set(rxn['id'] for rxn in draft_model['reactions'])
-    gapfilled_rxns = set(rxn['id'] for rxn in gapfilled_model['reactions'])
+    gapfilled_rxns_map = {rxn['id']: rxn for rxn in gapfilled_model['reactions']}
 
     # Find added reactions
-    added_rxns = gapfilled_rxns - draft_rxns
+    added_rxns = set(gapfilled_rxns_map.keys()) - draft_rxns
 
     if added_rxns:
         print(f"  {org_id}: {len(added_rxns)} reactions added")
         for rxn_id in added_rxns:
+            # Store reaction name
+            rxn_name = gapfilled_rxns_map[rxn_id].get('name', 'Unknown')
+            reaction_names[rxn_id] = rxn_name
+
             results.append({
                 'Organism_ID': org_id,
-                'Reaction_ID': rxn_id
+                'Reaction_ID': rxn_id,
+                'Reaction_Name': rxn_name
             })
             all_reactions[rxn_id] += 1
     else:
@@ -61,13 +67,22 @@ df = pd.DataFrame(results)
 df.to_csv(output_file, index=False)
 print(f"\nSaved {len(df)} gap-filled reactions to {output_file}")
 
-# Save top reactions summary
-top_reactions = all_reactions.most_common(20)
-print(f"\nTop 20 most frequently gap-filled reactions:")
-for rxn_id, count in top_reactions:
-    print(f"  {rxn_id}: {count} models ({100*count/len(organism_ids):.1f}%)")
+# Save top 40 reactions summary with names
+top_reactions = all_reactions.most_common(40)
+print(f"\nTop 40 most frequently gap-filled reactions:")
+for rxn_id, count in top_reactions[:20]:  # Print first 20
+    rxn_name = reaction_names.get(rxn_id, 'Unknown')
+    print(f"  {rxn_id}: {count} models ({100*count/len(organism_ids):.1f}%) - {rxn_name}")
 
-# Save top reactions to CSV
-top_df = pd.DataFrame(top_reactions, columns=['Reaction_ID', 'Model_Count'])
+# Save top reactions to CSV with names
+top_df = pd.DataFrame([
+    {
+        'Reaction_ID': rxn_id,
+        'Reaction_Name': reaction_names.get(rxn_id, 'Unknown'),
+        'Model_Count': count,
+        'Frequency_Percent': 100 * count / len(organism_ids)
+    }
+    for rxn_id, count in top_reactions
+])
 top_df.to_csv('results/top_gapfilled_reactions.csv', index=False)
-print(f"\nSaved top reactions to results/top_gapfilled_reactions.csv")
+print(f"\nSaved top 40 reactions to results/top_gapfilled_reactions.csv")

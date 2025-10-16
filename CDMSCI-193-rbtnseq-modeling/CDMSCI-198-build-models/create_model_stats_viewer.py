@@ -302,47 +302,58 @@ html_parts.append('<div class="plot-container">')
 html_parts.append(fig4.to_html(include_plotlyjs=False, div_id="fig4"))
 html_parts.append('</div>')
 
-# Figure 5: Top 20 Gap-filled Reactions Across All Models
+# Figure 5: Top 40 Gap-filled Reactions Across All Models
 print("\nAnalyzing gap-filled reactions across all models...")
 
 # Load the actual gap-filled reactions
 try:
     top_reactions_df = pd.read_csv('results/top_gapfilled_reactions.csv')
     print(f"Loaded {len(top_reactions_df)} reactions from top_gapfilled_reactions.csv")
-
-    # Convert to list of tuples for compatibility
-    gapfilled_reactions = list(zip(top_reactions_df['Reaction_ID'], top_reactions_df['Model_Count']))
-
-    print(f"Total unique gap-filled reactions in top 20: {min(20, len(gapfilled_reactions))}")
-    print(f"Most common reaction: {gapfilled_reactions[0][0]} ({gapfilled_reactions[0][1]} models)")
+    print(f"Most common reaction: {top_reactions_df.iloc[0]['Reaction_ID']} ({top_reactions_df.iloc[0]['Model_Count']} models)")
 except FileNotFoundError:
     print("ERROR: top_gapfilled_reactions.csv not found")
-    gapfilled_reactions = []
+    top_reactions_df = pd.DataFrame()
 
-# Get top 20 (already sorted by frequency in CSV)
-top_20_reactions = gapfilled_reactions[:20]
+# Get top 40 (already sorted by frequency in CSV)
+top_40_reactions = top_reactions_df.head(40)
 
-if top_20_reactions:
-    reaction_ids = [rxn[0] for rxn in top_20_reactions]
-    reaction_counts = [rxn[1] for rxn in top_20_reactions]
+if not top_40_reactions.empty:
+    # Create labels with both ID and name (truncate long names)
+    reaction_labels = []
+    for _, row in top_40_reactions.iterrows():
+        rxn_id = row['Reaction_ID']
+        rxn_name = row['Reaction_Name']
+        # Truncate name if too long
+        if len(rxn_name) > 40:
+            rxn_name = rxn_name[:37] + '...'
+        label = f"{rxn_id}<br><i>{rxn_name}</i>"
+        reaction_labels.append(label)
+
+    reaction_counts = top_40_reactions['Model_Count'].tolist()
 
     fig5 = go.Figure()
 
+    # Create hover text with full names
+    hover_texts = []
+    for _, row in top_40_reactions.iterrows():
+        hover_texts.append(f"<b>{row['Reaction_ID']}</b><br>{row['Reaction_Name']}<br>Added to {row['Model_Count']} models ({row['Frequency_Percent']:.1f}%)")
+
     fig5.add_trace(go.Bar(
-        y=reaction_ids[::-1],  # Reverse for better display (highest at top)
+        y=reaction_labels[::-1],  # Reverse for better display (highest at top)
         x=reaction_counts[::-1],
         orientation='h',
         marker_color='#11998e',
-        hovertemplate='<b>%{y}</b><br>Added to %{x} models<extra></extra>'
+        hovertext=hover_texts[::-1],
+        hovertemplate='%{hovertext}<extra></extra>'
     ))
 
     fig5.update_layout(
-        title="Top 20 Most Frequently Gap-filled Reactions",
+        title="Top 40 Most Frequently Gap-filled Reactions",
         xaxis_title="Number of Models",
-        yaxis_title="Reaction ID",
-        height=600,
+        yaxis_title="Reaction",
+        height=1200,  # Increased height for 40 reactions
         hovermode='closest',
-        yaxis={'tickfont': {'size': 10}}
+        yaxis={'tickfont': {'size': 9}}
     )
 
     html_parts.append('<div class="section-title">Gap-filled Reactions Analysis</div>')
@@ -351,24 +362,25 @@ if top_20_reactions:
     html_parts.append(fig5.to_html(include_plotlyjs=False, div_id="fig5"))
     html_parts.append('</div>')
 
-    # Add top 20 table
-    html_parts.append('<div class="plot-title">Top 20 Gap-filled Reactions (Detailed)</div>')
-    html_parts.append('<table style="max-width: 800px;">')
+    # Add top 40 table
+    html_parts.append('<div class="plot-title">Top 40 Gap-filled Reactions (Detailed)</div>')
+    html_parts.append('<table style="max-width: 1200px;">')
     html_parts.append('<thead><tr>')
     html_parts.append('<th>Rank</th>')
     html_parts.append('<th>Reaction ID</th>')
+    html_parts.append('<th>Reaction Name</th>')
     html_parts.append('<th>Models</th>')
     html_parts.append('<th>Frequency</th>')
     html_parts.append('</tr></thead>')
     html_parts.append('<tbody>')
 
-    for i, (rxn_id, count) in enumerate(top_20_reactions, 1):
-        freq_pct = 100 * count / len(successful)
+    for i, (_, row) in enumerate(top_40_reactions.iterrows(), 1):
         html_parts.append('<tr>')
         html_parts.append(f'<td><strong>{i}</strong></td>')
-        html_parts.append(f'<td><code>{rxn_id}</code></td>')
-        html_parts.append(f'<td>{count} / {len(successful)}</td>')
-        html_parts.append(f'<td>{freq_pct:.1f}%</td>')
+        html_parts.append(f'<td><code>{row["Reaction_ID"]}</code></td>')
+        html_parts.append(f'<td>{row["Reaction_Name"]}</td>')
+        html_parts.append(f'<td>{row["Model_Count"]} / {len(successful)}</td>')
+        html_parts.append(f'<td>{row["Frequency_Percent"]:.1f}%</td>')
         html_parts.append('</tr>')
 
     html_parts.append('</tbody></table>')

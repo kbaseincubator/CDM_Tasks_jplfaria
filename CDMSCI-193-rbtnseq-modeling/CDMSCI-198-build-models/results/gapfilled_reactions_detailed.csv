@@ -1,1635 +1,1635 @@
-Organism_ID,Reaction_ID
-ANA3,rxn08233_c0
-ANA3,EX_cpd00030_e0
-ANA3,EX_cpd00099_e0
-ANA3,rxn05481_c0
-ANA3,EX_cpd01981_e0
-ANA3,rxn05039_c0
-ANA3,rxn01265_c0
-ANA3,rxn03087_c0
-ANA3,rxn00599_c0
-ANA3,rxn00141_c0
-ANA3,rxn00467_c0
-ANA3,rxn05618_c0
-ANA3,rxn02185_c0
-ANA3,rxn00979_c0
-ANA3,rxn00333_c0
-ANA3,rxn01213_c0
-ANA3,rxn09429_c0
-BFirm,rxn01258_c0
-BFirm,rxn02056_c0
-BFirm,rxn05039_c0
-BFirm,rxn00127_c0
-BFirm,rxn02898_c0
-BFirm,rxn02774_c0
-BFirm,rxn02304_c0
-BFirm,rxn02832_c0
-BFirm,rxn02185_c0
-BFirm,rxn09310_c0
-BFirm,rxn08444_c0
-BFirm,rxn02831_c0
-BFirm,EX_cpd01981_e0
-BFirm,rxn00137_c0
-BFirm,rxn00340_c0
-BFirm,rxn05459_c0
-BFirm,rxn11702_c0
-BFirm,rxn00068_c0
-BFirm,rxn05144_c0
-BFirm,rxn11703_c0
-BFirm,rxn10094_c0
-BFirm,rxn08333_c0
-BFirm,EX_cpd15378_e0
-BFirm,rxn12376_c0
-BFirm,rxn05481_c0
-BFirm,rxn04139_c0
-BFirm,rxn03397_c0
-BFirm,rxn00599_c0
-BFirm,rxn00979_c0
-BFirm,rxn01213_c0
-Bifido,rxn00693_c0
-Bifido,rxn01258_c0
-Bifido,rxn05744_c0
-Bifido,rxn00141_c0
-Bifido,rxn06723_c0
-Bifido,rxn00953_c0
-Bifido,rxn00359_c0
-Bifido,rxn02831_c0
-Bifido,rxn02404_c0
-Bifido,rxn03841_c0
-Bifido,rxn00340_c0
-Bifido,rxn05651_c0
-Bifido,rxn12512_c0
-Bifido,rxn01117_c0
-Bifido,rxn03080_c0
-Bifido,rxn00224_c0
-Bifido,rxn03182_c0
-Bifido,rxn11703_c0
-Bifido,rxn13846_c0
-Bifido,rxn00350_c0
-Bifido,rxn00029_c0
-Bifido,rxn05333_c0
-Bifido,rxn02288_c0
-Bifido,rxn00470_c0
-Bifido,rxn02303_c0
-Bifido,rxn03393_c0
-Bifido,rxn05329_c0
-Bifido,rxn02287_c0
-Bifido,rxn00128_c0
-Bifido,rxn02405_c0
-Bifido,rxn02898_c0
-Bifido,rxn02774_c0
-Bifido,rxn03167_c0
-Bifido,rxn02185_c0
-Bifido,rxn00912_c0
-Bifido,rxn02341_c0
-Bifido,rxn05287_c0
-Bifido,rxn10336_c0
-Bifido,rxn02264_c0
-Bifido,rxn03159_c0
-Bifido,rxn00272_c0
-Bifido,rxn00300_c0
-Bifido,rxn03892_c0
-Bifido,rxn00346_c0
-Bifido,rxn09128_c0
-Bifido,rxn03394_c0
-Bifido,EX_cpd00048_e0
-Bifido,rxn09210_c0
-Bifido,rxn09202_c0
-Bifido,rxn10094_c0
-Bifido,rxn03395_c0
-Bifido,rxn09106_c0
-Bifido,rxn04139_c0
-Bifido,rxn03537_c0
-Bifido,rxn02011_c0
-Bifido,rxn01257_c0
-Bifido,rxn13850_c0
-Bifido,rxn01673_c0
-Bifido,rxn01512_c0
-Bifido,rxn05039_c0
-Bifido,rxn09997_c0
-Bifido,rxn00409_c0
-Bifido,rxn03130_c0
-Bifido,rxn00623_c0
-Bifido,rxn02832_c0
-Bifido,rxn03891_c0
-Bifido,rxn00137_c0
-Bifido,rxn08528_c0
-Bifido,rxn00966_c0
-Bifido,rxn01790_c0
-Bifido,rxn00237_c0
-Bifido,rxn03439_c0
-Bifido,rxn11946_c0
-Bifido,rxn02897_c0
-Bifido,rxn00060_c0
-Bifido,rxn01791_c0
-Bifido,rxn00068_c0
-Bifido,rxn05331_c0
-Bifido,rxn05293_c0
-Bifido,rxn04308_c0
-Bifido,EX_cpd15378_e0
-Bifido,rxn05514_c0
-Bifido,rxn03538_c0
-Bifido,rxn00738_c0
-Bifido,rxn03146_c0
-Bifido,rxn05291_c0
-Bifido,rxn03397_c0
-Bifido,rxn00650_c0
-Bifido,rxn05457_c0
-Bifido,rxn03536_c0
-Bifido,rxn02474_c0
-Bifido,rxn01213_c0
-Bifido,rxn12224_c0
-Bifido,rxn02056_c0
-Bifido,rxn05334_c0
-Bifido,rxn00127_c0
-Bifido,rxn00117_c0
-Bifido,rxn09310_c0
-Bifido,rxn09180_c0
-Bifido,rxn03150_c0
-Bifido,rxn01406_c0
-Bifido,rxn01466_c0
-Bifido,rxn03181_c0
-Bifido,rxn05040_c0
-Bifido,rxn05330_c0
-Bifido,rxn06865_c0
-Bifido,rxn02475_c0
-Bifido,rxn11702_c0
-Bifido,rxn09429_c0
-Bifido,rxn02160_c0
-Bifido,rxn05029_c0
-Bifido,rxn06729_c0
-Bifido,rxn03893_c0
-Bifido,rxn00048_c0
-Bifido,rxn12376_c0
-Bifido,rxn05465_c0
-Bifido,rxn03843_c0
-Bifido,EX_cpd00063_e0
-Bifido,rxn02331_c0
-Bifido,rxn12008_c0
-Bifido,rxn00599_c0
-Bifido,rxn00336_c0
-Bifido,rxn01539_c0
-Brev2,rxn01258_c0
-Brev2,rxn05039_c0
-Brev2,rxn02898_c0
-Brev2,rxn05149_c0
-Brev2,rxn03901_c0
-Brev2,rxn00957_c0
-Brev2,rxn02304_c0
-Brev2,rxn02832_c0
-Brev2,EX_cpd00030_e0
-Brev2,rxn02185_c0
-Brev2,rxn09310_c0
-Brev2,rxn03891_c0
-Brev2,rxn02831_c0
-Brev2,rxn05287_c0
-Brev2,EX_cpd00099_e0
-Brev2,rxn10204_c0
-Brev2,rxn02404_c0
-Brev2,rxn10336_c0
-Brev2,rxn03150_c0
-Brev2,rxn01301_c0
-Brev2,rxn01790_c0
-Brev2,rxn05459_c0
-Brev2,rxn11702_c0
-Brev2,rxn03892_c0
-Brev2,rxn12239_c0
-Brev2,rxn03394_c0
-Brev2,rxn02897_c0
-Brev2,rxn09210_c0
-Brev2,rxn09202_c0
-Brev2,rxn05144_c0
-Brev2,rxn11703_c0
-Brev2,rxn10094_c0
-Brev2,rxn08333_c0
-Brev2,rxn09106_c0
-Brev2,rxn05514_c0
-Brev2,rxn03538_c0
-Brev2,rxn08233_c0
-Brev2,EX_cpd00063_e0
-Brev2,rxn04139_c0
-Brev2,rxn12008_c0
-Brev2,rxn03087_c0
-Brev2,rxn03537_c0
-Brev2,rxn03397_c0
-Brev2,rxn03536_c0
-Brev2,rxn00979_c0
-Brev2,rxn10213_c0
-Brev2,rxn00333_c0
-Brev2,rxn01213_c0
-Btheta,rxn12224_c0
-Btheta,rxn04794_c0
-Btheta,rxn06023_c0
-Btheta,rxn01505_c0
-Btheta,rxn05039_c0
-Btheta,rxn02056_c0
-Btheta,rxn02774_c0
-Btheta,rxn00623_c0
-Btheta,rxn03436_c0
-Btheta,rxn01513_c0
-Btheta,rxn02304_c0
-Btheta,rxn02185_c0
-Btheta,rxn09310_c0
-Btheta,rxn09113_c0
-Btheta,rxn03891_c0
-Btheta,rxn05287_c0
-Btheta,rxn10204_c0
-Btheta,rxn00333_c0
-Btheta,rxn10336_c0
-Btheta,rxn03150_c0
-Btheta,rxn02186_c0
-Btheta,rxn08528_c0
-Btheta,rxn00330_c0
-Btheta,rxn01466_c0
-Btheta,rxn01972_c0
-Btheta,rxn03086_c0
-Btheta,rxn01019_c0
-Btheta,rxn03892_c0
-Btheta,rxn11946_c0
-Btheta,rxn12239_c0
-Btheta,rxn10213_c0
-Btheta,rxn03394_c0
-Btheta,rxn02897_c0
-Btheta,rxn00224_c0
-Btheta,rxn00060_c0
-Btheta,rxn00467_c0
-Btheta,rxn05293_c0
-Btheta,rxn03893_c0
-Btheta,rxn11703_c0
-Btheta,rxn00350_c0
-Btheta,rxn00029_c0
-Btheta,rxn05514_c0
-Btheta,rxn00958_c0
-Btheta,rxn03538_c0
-Btheta,rxn03395_c0
-Btheta,rxn02288_c0
-Btheta,rxn00470_c0
-Btheta,rxn03030_c0
-Btheta,rxn02303_c0
-Btheta,rxn03393_c0
-Btheta,rxn03435_c0
-Btheta,EX_cpd00063_e0
-Btheta,rxn00293_c0
-Btheta,rxn00615_c0
-Btheta,rxn04139_c0
-Btheta,rxn12008_c0
-Btheta,rxn03537_c0
-Btheta,rxn00599_c0
-Btheta,rxn03536_c0
-Btheta,rxn00979_c0
-Btheta,rxn02287_c0
-Btheta,rxn01331_c0
-Btheta,rxn05229_c0
-Btheta,rxn01213_c0
-Burk376,rxn01258_c0
-Burk376,rxn02056_c0
-Burk376,rxn05039_c0
-Burk376,rxn00127_c0
-Burk376,rxn02898_c0
-Burk376,rxn02774_c0
-Burk376,rxn02304_c0
-Burk376,rxn02832_c0
-Burk376,rxn02185_c0
-Burk376,rxn09310_c0
-Burk376,rxn02831_c0
-Burk376,rxn10204_c0
-Burk376,EX_cpd01981_e0
-Burk376,rxn00137_c0
-Burk376,rxn00340_c0
-Burk376,rxn11702_c0
-Burk376,rxn00068_c0
-Burk376,rxn05144_c0
-Burk376,rxn11703_c0
-Burk376,rxn10094_c0
-Burk376,rxn08333_c0
-Burk376,EX_cpd15378_e0
-Burk376,rxn12376_c0
-Burk376,rxn05481_c0
-Burk376,rxn04139_c0
-Burk376,rxn03397_c0
-Burk376,rxn00599_c0
-Burk376,rxn00979_c0
-Burk376,rxn10213_c0
-Burk376,rxn01213_c0
-Burk376,rxn09427_c0
-Burkholderia_OAS925,rxn01258_c0
-Burkholderia_OAS925,rxn02056_c0
-Burkholderia_OAS925,rxn05039_c0
-Burkholderia_OAS925,rxn00127_c0
-Burkholderia_OAS925,rxn02898_c0
-Burkholderia_OAS925,rxn02774_c0
-Burkholderia_OAS925,rxn02304_c0
-Burkholderia_OAS925,rxn02832_c0
-Burkholderia_OAS925,rxn02185_c0
-Burkholderia_OAS925,rxn09310_c0
-Burkholderia_OAS925,rxn02831_c0
-Burkholderia_OAS925,rxn10204_c0
-Burkholderia_OAS925,EX_cpd01981_e0
-Burkholderia_OAS925,rxn00137_c0
-Burkholderia_OAS925,rxn00340_c0
-Burkholderia_OAS925,rxn05459_c0
-Burkholderia_OAS925,rxn11702_c0
-Burkholderia_OAS925,rxn00068_c0
-Burkholderia_OAS925,rxn05144_c0
-Burkholderia_OAS925,rxn11703_c0
-Burkholderia_OAS925,rxn10094_c0
-Burkholderia_OAS925,rxn08333_c0
-Burkholderia_OAS925,EX_cpd15378_e0
-Burkholderia_OAS925,rxn03538_c0
-Burkholderia_OAS925,rxn12376_c0
-Burkholderia_OAS925,rxn05481_c0
-Burkholderia_OAS925,rxn04139_c0
-Burkholderia_OAS925,rxn03397_c0
-Burkholderia_OAS925,rxn00599_c0
-Burkholderia_OAS925,rxn00979_c0
-Burkholderia_OAS925,rxn01213_c0
-Bvulgatus_CL09T03C04,rxn12224_c0
-Bvulgatus_CL09T03C04,rxn06023_c0
-Bvulgatus_CL09T03C04,rxn01505_c0
-Bvulgatus_CL09T03C04,rxn05039_c0
-Bvulgatus_CL09T03C04,rxn02056_c0
-Bvulgatus_CL09T03C04,rxn02774_c0
-Bvulgatus_CL09T03C04,rxn00141_c0
-Bvulgatus_CL09T03C04,rxn00623_c0
-Bvulgatus_CL09T03C04,rxn03436_c0
-Bvulgatus_CL09T03C04,rxn00957_c0
-Bvulgatus_CL09T03C04,rxn01513_c0
-Bvulgatus_CL09T03C04,rxn02304_c0
-Bvulgatus_CL09T03C04,rxn02185_c0
-Bvulgatus_CL09T03C04,rxn09310_c0
-Bvulgatus_CL09T03C04,rxn09113_c0
-Bvulgatus_CL09T03C04,rxn03891_c0
-Bvulgatus_CL09T03C04,rxn05287_c0
-Bvulgatus_CL09T03C04,rxn00778_c0
-Bvulgatus_CL09T03C04,rxn10204_c0
-Bvulgatus_CL09T03C04,rxn10336_c0
-Bvulgatus_CL09T03C04,rxn02186_c0
-Bvulgatus_CL09T03C04,rxn08528_c0
-Bvulgatus_CL09T03C04,rxn01466_c0
-Bvulgatus_CL09T03C04,rxn01972_c0
-Bvulgatus_CL09T03C04,rxn00272_c0
-Bvulgatus_CL09T03C04,rxn03086_c0
-Bvulgatus_CL09T03C04,rxn05902_c0
-Bvulgatus_CL09T03C04,rxn01019_c0
-Bvulgatus_CL09T03C04,rxn03892_c0
-Bvulgatus_CL09T03C04,rxn11946_c0
-Bvulgatus_CL09T03C04,rxn12239_c0
-Bvulgatus_CL09T03C04,rxn10213_c0
-Bvulgatus_CL09T03C04,rxn03394_c0
-Bvulgatus_CL09T03C04,rxn00224_c0
-Bvulgatus_CL09T03C04,rxn00060_c0
-Bvulgatus_CL09T03C04,rxn05144_c0
-Bvulgatus_CL09T03C04,rxn05293_c0
-Bvulgatus_CL09T03C04,rxn03893_c0
-Bvulgatus_CL09T03C04,rxn11703_c0
-Bvulgatus_CL09T03C04,rxn00350_c0
-Bvulgatus_CL09T03C04,rxn02401_c0
-Bvulgatus_CL09T03C04,rxn05514_c0
-Bvulgatus_CL09T03C04,rxn00029_c0
-Bvulgatus_CL09T03C04,rxn09106_c0
-Bvulgatus_CL09T03C04,rxn03395_c0
-Bvulgatus_CL09T03C04,rxn02288_c0
-Bvulgatus_CL09T03C04,rxn00470_c0
-Bvulgatus_CL09T03C04,rxn10199_c0
-Bvulgatus_CL09T03C04,rxn03030_c0
-Bvulgatus_CL09T03C04,rxn02303_c0
-Bvulgatus_CL09T03C04,rxn03393_c0
-Bvulgatus_CL09T03C04,rxn03435_c0
-Bvulgatus_CL09T03C04,EX_cpd00063_e0
-Bvulgatus_CL09T03C04,rxn00293_c0
-Bvulgatus_CL09T03C04,rxn04139_c0
-Bvulgatus_CL09T03C04,rxn12008_c0
-Bvulgatus_CL09T03C04,rxn00599_c0
-Bvulgatus_CL09T03C04,rxn02287_c0
-Bvulgatus_CL09T03C04,rxn00333_c0
-Bvulgatus_CL09T03C04,rxn05229_c0
-Bvulgatus_CL09T03C04,rxn01213_c0
-CL21,rxn01258_c0
-CL21,rxn02056_c0
-CL21,rxn05039_c0
-CL21,rxn02898_c0
-CL21,rxn02774_c0
-CL21,rxn02304_c0
-CL21,rxn02832_c0
-CL21,rxn02185_c0
-CL21,rxn09310_c0
-CL21,rxn02831_c0
-CL21,EX_cpd01981_e0
-CL21,rxn00137_c0
-CL21,rxn00340_c0
-CL21,rxn05459_c0
-CL21,rxn11702_c0
-CL21,rxn05144_c0
-CL21,rxn11703_c0
-CL21,rxn10094_c0
-CL21,rxn08333_c0
-CL21,EX_cpd15378_e0
-CL21,rxn12376_c0
-CL21,rxn05481_c0
-CL21,rxn04139_c0
-CL21,rxn00134_c0
-CL21,rxn03397_c0
-CL21,rxn00599_c0
-CL21,rxn00979_c0
-CL21,rxn10213_c0
-CL21,rxn01213_c0
-Caulo,rxn12224_c0
-Caulo,rxn04413_c0
-Caulo,rxn01258_c0
-Caulo,rxn05039_c0
-Caulo,rxn02898_c0
-Caulo,rxn00127_c0
-Caulo,rxn05618_c0
-Caulo,rxn00957_c0
-Caulo,rxn02304_c0
-Caulo,rxn02832_c0
-Caulo,rxn02185_c0
-Caulo,EX_cpd00030_e0
-Caulo,rxn09310_c0
-Caulo,rxn03891_c0
-Caulo,rxn02831_c0
-Caulo,rxn02404_c0
-Caulo,EX_cpd01981_e0
-Caulo,rxn02939_c0
-Caulo,rxn10336_c0
-Caulo,rxn03150_c0
-Caulo,rxn01406_c0
-Caulo,rxn00340_c0
-Caulo,rxn00333_c0
-Caulo,rxn05459_c0
-Caulo,EX_cpd00034_e0
-Caulo,rxn11702_c0
-Caulo,rxn12239_c0
-Caulo,rxn03394_c0
-Caulo,rxn13477_c0
-Caulo,rxn09210_c0
-Caulo,rxn09202_c0
-Caulo,rxn11703_c0
-Caulo,rxn10094_c0
-Caulo,rxn08333_c0
-Caulo,rxn09106_c0
-Caulo,rxn05514_c0
-Caulo,rxn03538_c0
-Caulo,rxn05481_c0
-Caulo,EX_cpd00063_e0
-Caulo,rxn12008_c0
-Caulo,rxn01265_c0
-Caulo,rxn03087_c0
-Caulo,rxn05150_c0
-Caulo,rxn03537_c0
-Caulo,rxn03397_c0
-Caulo,rxn00979_c0
-Caulo,rxn10213_c0
-Caulo,rxn01331_c0
-Caulo,rxn01213_c0
-Cola,rxn12224_c0
-Cola,rxn06023_c0
-Cola,rxn01505_c0
-Cola,rxn05039_c0
-Cola,rxn09997_c0
-Cola,rxn00127_c0
-Cola,rxn00957_c0
-Cola,rxn01513_c0
-Cola,rxn02304_c0
-Cola,rxn02185_c0
-Cola,rxn09310_c0
-Cola,rxn09113_c0
-Cola,rxn03891_c0
-Cola,rxn05287_c0
-Cola,rxn02939_c0
-Cola,rxn10336_c0
-Cola,rxn03841_c0
-Cola,rxn01406_c0
-Cola,rxn08528_c0
-Cola,rxn01466_c0
-Cola,rxn01790_c0
-Cola,rxn05459_c0
-Cola,rxn01019_c0
-Cola,rxn03892_c0
-Cola,rxn11946_c0
-Cola,rxn12239_c0
-Cola,rxn10213_c0
-Cola,rxn03394_c0
-Cola,rxn03893_c0
-Cola,rxn11703_c0
-Cola,rxn03395_c0
-Cola,rxn09106_c0
-Cola,rxn00470_c0
-Cola,rxn03393_c0
-Cola,rxn00293_c0
-Cola,rxn04139_c0
-Cola,rxn12008_c0
-Cola,rxn00738_c0
-Cola,rxn03087_c0
-Cola,rxn00599_c0
-Cola,rxn01539_c0
-Cola,rxn00128_c0
-Cola,rxn01331_c0
-Cola,rxn01213_c0
-Cup4G11,rxn01258_c0
-Cup4G11,rxn02056_c0
-Cup4G11,rxn05039_c0
-Cup4G11,rxn02898_c0
-Cup4G11,rxn02774_c0
-Cup4G11,rxn02304_c0
-Cup4G11,rxn02832_c0
-Cup4G11,rxn02185_c0
-Cup4G11,rxn09310_c0
-Cup4G11,rxn08444_c0
-Cup4G11,rxn02831_c0
-Cup4G11,rxn02404_c0
-Cup4G11,EX_cpd01981_e0
-Cup4G11,rxn00137_c0
-Cup4G11,rxn00340_c0
-Cup4G11,rxn05459_c0
-Cup4G11,rxn11702_c0
-Cup4G11,rxn05144_c0
-Cup4G11,rxn11703_c0
-Cup4G11,rxn10094_c0
-Cup4G11,rxn08333_c0
-Cup4G11,EX_cpd15378_e0
-Cup4G11,rxn12376_c0
-Cup4G11,rxn05481_c0
-Cup4G11,rxn04139_c0
-Cup4G11,rxn03397_c0
-Cup4G11,rxn00599_c0
-Cup4G11,rxn00979_c0
-Cup4G11,rxn01213_c0
-Dda3937,rxn03393_c0
-Dda3937,rxn03150_c0
-Dda3937,rxn00340_c0
-Dda3937,rxn03537_c0
-Dda3937,rxn02897_c0
-Dda3937,rxn00599_c0
-Dda3937,rxn00141_c0
-Dda3937,rxn05459_c0
-Dda3937,rxn00979_c0
-Dda3937,rxn03538_c0
-Dda3937,rxn00333_c0
-Dda3937,rxn02185_c0
-Ddia6719,rxn08233_c0
-Ddia6719,EX_cpd00099_e0
-Ddia6719,rxn03150_c0
-Ddia6719,rxn03537_c0
-Ddia6719,rxn02897_c0
-Ddia6719,rxn00599_c0
-Ddia6719,rxn00141_c0
-Ddia6719,rxn05459_c0
-Ddia6719,rxn00979_c0
-Ddia6719,rxn03538_c0
-Ddia6719,rxn00333_c0
-Ddia6719,rxn02185_c0
-DdiaME23,rxn08233_c0
-DdiaME23,EX_cpd00099_e0
-DdiaME23,rxn03150_c0
-DdiaME23,rxn09128_c0
-DdiaME23,rxn03537_c0
-DdiaME23,rxn02897_c0
-DdiaME23,rxn00599_c0
-DdiaME23,rxn00141_c0
-DdiaME23,rxn05459_c0
-DdiaME23,rxn00979_c0
-DdiaME23,rxn03538_c0
-DdiaME23,rxn00333_c0
-DdiaME23,rxn02185_c0
-Dino,rxn00693_c0
-Dino,rxn01258_c0
-Dino,rxn05039_c0
-Dino,EX_cpd00254_e0
-Dino,rxn00338_c0
-Dino,rxn00127_c0
-Dino,rxn02898_c0
-Dino,rxn05166_c0
-Dino,rxn02988_c0
-Dino,rxn02304_c0
-Dino,rxn02832_c0
-Dino,rxn02185_c0
-Dino,rxn09310_c0
-Dino,rxn03891_c0
-Dino,rxn02831_c0
-Dino,rxn05287_c0
-Dino,EX_cpd00099_e0
-Dino,rxn10204_c0
-Dino,rxn02404_c0
-Dino,rxn02939_c0
-Dino,rxn03841_c0
-Dino,rxn01406_c0
-Dino,rxn03150_c0
-Dino,rxn00340_c0
-Dino,rxn05459_c0
-Dino,rxn11702_c0
-Dino,rxn03892_c0
-Dino,rxn02402_c0
-Dino,rxn12239_c0
-Dino,rxn10213_c0
-Dino,rxn03394_c0
-Dino,rxn00068_c0
-Dino,rxn05235_c0
-Dino,rxn11703_c0
-Dino,rxn10094_c0
-Dino,rxn08333_c0
-Dino,rxn05514_c0
-Dino,rxn00958_c0
-Dino,rxn08233_c0
-Dino,rxn03393_c0
-Dino,EX_cpd00063_e0
-Dino,rxn12008_c0
-Dino,rxn00738_c0
-Dino,rxn00128_c0
-Dino,rxn05616_c0
-Dino,rxn03397_c0
-Dino,EX_cpd00149_e0
-Dino,rxn01539_c0
-Dino,rxn00979_c0
-Dino,rxn01257_c0
-Dino,rxn01331_c0
-Dino,rxn01213_c0
-Dino,rxn01508_c0
-Dyella79,rxn00420_c0
-Dyella79,rxn06023_c0
-Dyella79,rxn01258_c0
-Dyella79,rxn05039_c0
-Dyella79,rxn02898_c0
-Dyella79,rxn02304_c0
-Dyella79,rxn05108_c0
-Dyella79,rxn02832_c0
-Dyella79,rxn02185_c0
-Dyella79,rxn09310_c0
-Dyella79,rxn02831_c0
-Dyella79,rxn05459_c0
-Dyella79,EX_cpd00034_e0
-Dyella79,rxn11702_c0
-Dyella79,rxn12239_c0
-Dyella79,rxn00193_c0
-Dyella79,rxn05144_c0
-Dyella79,rxn11703_c0
-Dyella79,rxn10094_c0
-Dyella79,rxn08333_c0
-Dyella79,rxn05514_c0
-Dyella79,rxn00958_c0
-Dyella79,rxn00422_c0
-Dyella79,rxn03393_c0
-Dyella79,rxn04139_c0
-Dyella79,rxn00134_c0
-Dyella79,EX_cpd00063_e0
-Dyella79,rxn05150_c0
-Dyella79,rxn03087_c0
-Dyella79,rxn03397_c0
-Dyella79,rxn00599_c0
-Dyella79,rxn00979_c0
-Dyella79,rxn10213_c0
-Dyella79,rxn00333_c0
-Dyella79,rxn01213_c0
-HerbieS,rxn01258_c0
-HerbieS,rxn02056_c0
-HerbieS,rxn05039_c0
-HerbieS,rxn00127_c0
-HerbieS,rxn02898_c0
-HerbieS,rxn02774_c0
-HerbieS,rxn02304_c0
-HerbieS,rxn02832_c0
-HerbieS,rxn02185_c0
-HerbieS,rxn09310_c0
-HerbieS,rxn02831_c0
-HerbieS,EX_cpd01981_e0
-HerbieS,rxn00137_c0
-HerbieS,rxn05459_c0
-HerbieS,rxn11702_c0
-HerbieS,rxn05144_c0
-HerbieS,rxn11703_c0
-HerbieS,rxn10094_c0
-HerbieS,rxn08333_c0
-HerbieS,EX_cpd15378_e0
-HerbieS,rxn05514_c0
-HerbieS,rxn12376_c0
-HerbieS,rxn05481_c0
-HerbieS,rxn04139_c0
-HerbieS,EX_cpd00063_e0
-HerbieS,rxn03397_c0
-HerbieS,rxn00599_c0
-HerbieS,rxn00979_c0
-HerbieS,rxn10213_c0
-HerbieS,rxn01213_c0
-Keio,EX_cpd01981_e0
-Keio,rxn05481_c0
-Keio,rxn00599_c0
-Keio,rxn05459_c0
-Keio,rxn02185_c0
-Korea,rxn01258_c0
-Korea,rxn02405_c0
-Korea,rxn05039_c0
-Korea,EX_cpd00254_e0
-Korea,rxn02898_c0
-Korea,rxn03130_c0
-Korea,rxn05166_c0
-Korea,rxn05149_c0
-Korea,rxn06723_c0
-Korea,rxn00957_c0
-Korea,rxn02304_c0
-Korea,rxn02832_c0
-Korea,rxn02185_c0
-Korea,EX_cpd00030_e0
-Korea,rxn09310_c0
-Korea,rxn03891_c0
-Korea,rxn02831_c0
-Korea,EX_cpd00099_e0
-Korea,rxn10204_c0
-Korea,rxn02404_c0
-Korea,rxn03841_c0
-Korea,rxn05153_c0
-Korea,rxn03159_c0
-Korea,rxn03181_c0
-Korea,rxn01790_c0
-Korea,rxn06865_c0
-Korea,rxn05459_c0
-Korea,EX_cpd00034_e0
-Korea,rxn11702_c0
-Korea,rxn03439_c0
-Korea,rxn01117_c0
-Korea,rxn12239_c0
-Korea,rxn03394_c0
-Korea,rxn06729_c0
-Korea,rxn13477_c0
-Korea,EX_cpd00048_e0
-Korea,rxn03182_c0
-Korea,rxn05144_c0
-Korea,rxn11703_c0
-Korea,rxn10094_c0
-Korea,rxn08333_c0
-Korea,rxn09106_c0
-Korea,rxn05514_c0
-Korea,rxn08233_c0
-Korea,rxn03393_c0
-Korea,EX_cpd00063_e0
-Korea,rxn00134_c0
-Korea,rxn02331_c0
-Korea,rxn01265_c0
-Korea,rxn12008_c0
-Korea,rxn03087_c0
-Korea,rxn05150_c0
-Korea,rxn03146_c0
-Korea,rxn05616_c0
-Korea,rxn03397_c0
-Korea,EX_cpd00149_e0
-Korea,rxn00979_c0
-Korea,rxn10213_c0
-Korea,rxn00656_c0
-Korea,rxn01213_c0
-Koxy,rxn00333_c0
-Koxy,rxn00599_c0
-Koxy,rxn05459_c0
-Koxy,rxn01520_c0
-Koxy,rxn02185_c0
-Lysobacter_OAE881,rxn03958_c0
-Lysobacter_OAE881,rxn01258_c0
-Lysobacter_OAE881,rxn06023_c0
-Lysobacter_OAE881,rxn05039_c0
-Lysobacter_OAE881,rxn02898_c0
-Lysobacter_OAE881,rxn05618_c0
-Lysobacter_OAE881,rxn01739_c0
-Lysobacter_OAE881,rxn00957_c0
-Lysobacter_OAE881,rxn02304_c0
-Lysobacter_OAE881,rxn02832_c0
-Lysobacter_OAE881,rxn02341_c0
-Lysobacter_OAE881,rxn02185_c0
-Lysobacter_OAE881,EX_cpd00030_e0
-Lysobacter_OAE881,rxn09310_c0
-Lysobacter_OAE881,rxn02831_c0
-Lysobacter_OAE881,EX_cpd00099_e0
-Lysobacter_OAE881,rxn02264_c0
-Lysobacter_OAE881,rxn09177_c0
-Lysobacter_OAE881,rxn02929_c0
-Lysobacter_OAE881,rxn05459_c0
-Lysobacter_OAE881,EX_cpd00034_e0
-Lysobacter_OAE881,rxn11702_c0
-Lysobacter_OAE881,rxn12239_c0
-Lysobacter_OAE881,rxn00193_c0
-Lysobacter_OAE881,rxn05144_c0
-Lysobacter_OAE881,rxn11703_c0
-Lysobacter_OAE881,rxn10094_c0
-Lysobacter_OAE881,rxn08333_c0
-Lysobacter_OAE881,rxn09106_c0
-Lysobacter_OAE881,rxn08233_c0
-Lysobacter_OAE881,rxn03393_c0
-Lysobacter_OAE881,rxn04139_c0
-Lysobacter_OAE881,rxn00134_c0
-Lysobacter_OAE881,rxn01265_c0
-Lysobacter_OAE881,rxn03087_c0
-Lysobacter_OAE881,rxn05150_c0
-Lysobacter_OAE881,rxn03397_c0
-Lysobacter_OAE881,rxn01022_c0
-Lysobacter_OAE881,rxn00599_c0
-Lysobacter_OAE881,rxn03909_c0
-Lysobacter_OAE881,rxn00979_c0
-Lysobacter_OAE881,rxn10213_c0
-Lysobacter_OAE881,rxn01213_c0
-MR1,rxn08233_c0
-MR1,EX_cpd00030_e0
-MR1,EX_cpd00099_e0
-MR1,rxn05481_c0
-MR1,EX_cpd01981_e0
-MR1,rxn10336_c0
-MR1,rxn01265_c0
-MR1,rxn05039_c0
-MR1,rxn03087_c0
-MR1,rxn00599_c0
-MR1,rxn00141_c0
-MR1,rxn00467_c0
-MR1,rxn05618_c0
-MR1,rxn02185_c0
-MR1,rxn00979_c0
-MR1,rxn00333_c0
-MR1,rxn01213_c0
-MR1,rxn09427_c0
-Magneto,rxn12224_c0
-Magneto,rxn01258_c0
-Magneto,rxn05039_c0
-Magneto,rxn02056_c0
-Magneto,rxn02898_c0
-Magneto,rxn00127_c0
-Magneto,rxn02774_c0
-Magneto,rxn00616_c0
-Magneto,rxn05618_c0
-Magneto,rxn00957_c0
-Magneto,rxn02304_c0
-Magneto,rxn05104_c0
-Magneto,rxn02832_c0
-Magneto,rxn02185_c0
-Magneto,EX_cpd00030_e0
-Magneto,rxn09310_c0
-Magneto,rxn03891_c0
-Magneto,rxn02831_c0
-Magneto,rxn08444_c0
-Magneto,EX_cpd00099_e0
-Magneto,rxn02404_c0
-Magneto,rxn10336_c0
-Magneto,rxn03841_c0
-Magneto,rxn01406_c0
-Magneto,rxn00438_c0
-Magneto,rxn05459_c0
-Magneto,rxn08348_c0
-Magneto,rxn11702_c0
-Magneto,rxn12239_c0
-Magneto,rxn10213_c0
-Magneto,rxn03394_c0
-Magneto,rxn13477_c0
-Magneto,rxn05231_c0
-Magneto,rxn05144_c0
-Magneto,rxn05235_c0
-Magneto,rxn05293_c0
-Magneto,rxn11703_c0
-Magneto,rxn10094_c0
-Magneto,rxn08333_c0
-Magneto,rxn00048_c0
-Magneto,rxn05514_c0
-Magneto,rxn00742_c0
-Magneto,rxn08233_c0
-Magneto,EX_cpd00063_e0
-Magneto,rxn00134_c0
-Magneto,rxn00615_c0
-Magneto,rxn01265_c0
-Magneto,rxn12008_c0
-Magneto,rxn03397_c0
-Magneto,rxn00979_c0
-Magneto,rxn01257_c0
-Magneto,rxn00737_c0
-Magneto,rxn00333_c0
-Magneto,rxn06075_c0
-Magneto,rxn01213_c0
-Marino,rxn06023_c0
-Marino,rxn01258_c0
-Marino,rxn05039_c0
-Marino,EX_cpd00254_e0
-Marino,rxn02898_c0
-Marino,rxn05166_c0
-Marino,rxn05618_c0
-Marino,rxn02304_c0
-Marino,rxn05108_c0
-Marino,rxn02832_c0
-Marino,EX_cpd00030_e0
-Marino,rxn02185_c0
-Marino,rxn09310_c0
-Marino,rxn03891_c0
-Marino,rxn02831_c0
-Marino,EX_cpd00099_e0
-Marino,rxn03150_c0
-Marino,rxn05459_c0
-Marino,rxn11702_c0
-Marino,rxn02160_c0
-Marino,rxn00346_c0
-Marino,rxn02897_c0
-Marino,rxn13477_c0
-Marino,rxn00068_c0
-Marino,rxn00467_c0
-Marino,rxn11703_c0
-Marino,rxn10094_c0
-Marino,rxn08333_c0
-Marino,EX_cpd15378_e0
-Marino,rxn03538_c0
-Marino,rxn12376_c0
-Marino,rxn08233_c0
-Marino,rxn00134_c0
-Marino,rxn01265_c0
-Marino,rxn12008_c0
-Marino,rxn03537_c0
-Marino,rxn05616_c0
-Marino,rxn03397_c0
-Marino,rxn01022_c0
-Marino,EX_cpd00149_e0
-Marino,rxn00599_c0
-Marino,rxn03536_c0
-Marino,rxn00979_c0
-Marino,rxn01213_c0
-Miya,rxn12224_c0
-Miya,rxn00420_c0
-Miya,rxn01258_c0
-Miya,rxn05039_c0
-Miya,rxn02898_c0
-Miya,rxn01300_c0
-Miya,rxn00952_c0
-Miya,rxn03167_c0
-Miya,rxn02185_c0
-Miya,rxn02832_c0
-Miya,rxn09310_c0
-Miya,rxn00256_c0
-Miya,rxn03891_c0
-Miya,rxn02831_c0
-Miya,rxn10204_c0
-Miya,rxn09180_c0
-Miya,rxn10336_c0
-Miya,rxn03150_c0
-Miya,rxn00340_c0
-Miya,rxn01972_c0
-Miya,rxn00272_c0
-Miya,rxn03086_c0
-Miya,rxn01790_c0
-Miya,rxn02504_c0
-Miya,rxn11702_c0
-Miya,rxn02212_c0
-Miya,rxn11946_c0
-Miya,rxn00346_c0
-Miya,rxn01303_c0
-Miya,rxn12239_c0
-Miya,rxn03394_c0
-Miya,rxn00224_c0
-Miya,rxn13477_c0
-Miya,rxn00611_c0
-Miya,rxn05144_c0
-Miya,rxn05293_c0
-Miya,rxn03893_c0
-Miya,rxn11703_c0
-Miya,rxn08333_c0
-Miya,rxn03395_c0
-Miya,rxn05514_c0
-Miya,rxn00958_c0
-Miya,rxn02288_c0
-Miya,rxn02914_c0
-Miya,rxn03030_c0
-Miya,rxn02303_c0
-Miya,rxn03393_c0
-Miya,rxn01332_c0
-Miya,EX_cpd00063_e0
-Miya,rxn00134_c0
-Miya,rxn04139_c0
-Miya,rxn02834_c0
-Miya,rxn01265_c0
-Miya,rxn12008_c0
-Miya,rxn00599_c0
-Miya,rxn00979_c0
-Miya,rxn00686_c0
-Miya,rxn10213_c0
-Miya,rxn00737_c0
-Miya,rxn05229_c0
-Miya,rxn01213_c0
-PS,rxn05039_c0
-PS,rxn02056_c0
-PS,rxn00127_c0
-PS,rxn02774_c0
-PS,rxn03130_c0
-PS,rxn05618_c0
-PS,rxn02304_c0
-PS,rxn02185_c0
-PS,EX_cpd00030_e0
-PS,rxn09310_c0
-PS,EX_cpd00099_e0
-PS,rxn10204_c0
-PS,rxn00137_c0
-PS,rxn02939_c0
-PS,rxn00209_c0
-PS,rxn00340_c0
-PS,rxn00272_c0
-PS,rxn01790_c0
-PS,rxn05459_c0
-PS,rxn10213_c0
-PS,rxn01101_c0
-PS,rxn11703_c0
-PS,rxn10094_c0
-PS,EX_cpd15378_e0
-PS,rxn05514_c0
-PS,rxn12376_c0
-PS,rxn08233_c0
-PS,rxn03168_c0
-PS,EX_cpd00063_e0
-PS,rxn00134_c0
-PS,rxn04139_c0
-PS,rxn01265_c0
-PS,rxn00738_c0
-PS,rxn03397_c0
-PS,rxn00599_c0
-PS,rxn00979_c0
-PS,rxn00128_c0
-PS,rxn01213_c0
-PV4,rxn08233_c0
-PV4,EX_cpd00030_e0
-PV4,EX_cpd00099_e0
-PV4,rxn05481_c0
-PV4,EX_cpd01981_e0
-PV4,rxn05039_c0
-PV4,rxn01265_c0
-PV4,rxn03087_c0
-PV4,rxn05149_c0
-PV4,rxn00599_c0
-PV4,rxn00141_c0
-PV4,rxn00467_c0
-PV4,rxn02185_c0
-PV4,rxn00979_c0
-PV4,rxn00333_c0
-PV4,rxn01213_c0
-PV4,rxn09429_c0
-Pedo557,rxn12224_c0
-Pedo557,rxn00420_c0
-Pedo557,rxn01258_c0
-Pedo557,rxn01505_c0
-Pedo557,rxn06023_c0
-Pedo557,rxn05039_c0
-Pedo557,rxn10954_c0
-Pedo557,rxn02898_c0
-Pedo557,rxn01513_c0
-Pedo557,rxn02304_c0
-Pedo557,rxn02185_c0
-Pedo557,rxn02832_c0
-Pedo557,rxn09310_c0
-Pedo557,rxn09113_c0
-Pedo557,rxn03891_c0
-Pedo557,rxn02831_c0
-Pedo557,rxn05287_c0
-Pedo557,EX_cpd00099_e0
-Pedo557,rxn05563_c0
-Pedo557,rxn00541_c0
-Pedo557,rxn10336_c0
-Pedo557,rxn03150_c0
-Pedo557,rxn08528_c0
-Pedo557,EX_cpd00079_e0
-Pedo557,rxn01466_c0
-Pedo557,rxn00272_c0
-Pedo557,rxn00966_c0
-Pedo557,rxn08088_c0
-Pedo557,rxn01019_c0
-Pedo557,rxn11702_c0
-Pedo557,rxn03892_c0
-Pedo557,rxn11946_c0
-Pedo557,rxn08551_c0
-Pedo557,rxn03394_c0
-Pedo557,rxn02897_c0
-Pedo557,rxn05144_c0
-Pedo557,rxn00467_c0
-Pedo557,rxn03893_c0
-Pedo557,rxn11703_c0
-Pedo557,rxn03395_c0
-Pedo557,rxn08333_c0
-Pedo557,EX_cpd15378_e0
-Pedo557,rxn05514_c0
-Pedo557,rxn03538_c0
-Pedo557,rxn12376_c0
-Pedo557,rxn00422_c0
-Pedo557,rxn00470_c0
-Pedo557,rxn08233_c0
-Pedo557,rxn03393_c0
-Pedo557,rxn00293_c0
-Pedo557,rxn01973_c0
-Pedo557,EX_cpd00063_e0
-Pedo557,rxn04139_c0
-Pedo557,rxn01265_c0
-Pedo557,rxn12008_c0
-Pedo557,rxn00738_c0
-Pedo557,rxn03087_c0
-Pedo557,rxn03537_c0
-Pedo557,rxn00599_c0
-Pedo557,rxn03536_c0
-Pedo557,rxn00979_c0
-Pedo557,rxn00128_c0
-Pedo557,rxn00333_c0
-Pedo557,rxn01213_c0
-Phaeo,rxn00693_c0
-Phaeo,rxn01258_c0
-Phaeo,rxn05733_c0
-Phaeo,rxn02056_c0
-Phaeo,rxn05039_c0
-Phaeo,EX_cpd00254_e0
-Phaeo,rxn02898_c0
-Phaeo,rxn02774_c0
-Phaeo,rxn05166_c0
-Phaeo,rxn02304_c0
-Phaeo,rxn02832_c0
-Phaeo,rxn02185_c0
-Phaeo,rxn09310_c0
-Phaeo,rxn03891_c0
-Phaeo,rxn02831_c0
-Phaeo,EX_cpd00099_e0
-Phaeo,rxn02404_c0
-Phaeo,rxn10336_c0
-Phaeo,rxn03150_c0
-Phaeo,rxn00340_c0
-Phaeo,rxn01790_c0
-Phaeo,rxn05459_c0
-Phaeo,rxn11702_c0
-Phaeo,rxn12239_c0
-Phaeo,rxn03394_c0
-Phaeo,rxn13477_c0
-Phaeo,rxn00068_c0
-Phaeo,rxn05144_c0
-Phaeo,rxn05235_c0
-Phaeo,rxn11703_c0
-Phaeo,rxn10094_c0
-Phaeo,rxn08333_c0
-Phaeo,rxn05514_c0
-Phaeo,rxn00958_c0
-Phaeo,rxn08233_c0
-Phaeo,rxn03393_c0
-Phaeo,EX_cpd00063_e0
-Phaeo,rxn12008_c0
-Phaeo,rxn00738_c0
-Phaeo,rxn00128_c0
-Phaeo,rxn05616_c0
-Phaeo,rxn03397_c0
-Phaeo,EX_cpd00149_e0
-Phaeo,rxn01539_c0
-Phaeo,rxn00979_c0
-Phaeo,rxn10213_c0
-Phaeo,rxn01213_c0
-Phaeo,rxn01508_c0
-Putida,rxn01258_c0
-Putida,rxn05039_c0
-Putida,rxn02898_c0
-Putida,rxn05618_c0
-Putida,rxn01513_c0
-Putida,rxn02304_c0
-Putida,rxn03167_c0
-Putida,rxn02832_c0
-Putida,EX_cpd00030_e0
-Putida,rxn02185_c0
-Putida,rxn09310_c0
-Putida,rxn03891_c0
-Putida,rxn02831_c0
-Putida,EX_cpd00099_e0
-Putida,rxn11702_c0
-Putida,rxn13477_c0
-Putida,rxn00068_c0
-Putida,rxn11703_c0
-Putida,rxn10094_c0
-Putida,rxn08333_c0
-Putida,EX_cpd15378_e0
-Putida,rxn05514_c0
-Putida,rxn12376_c0
-Putida,rxn08233_c0
-Putida,rxn04139_c0
-Putida,EX_cpd00063_e0
-Putida,rxn12008_c0
-Putida,rxn03397_c0
-Putida,rxn00599_c0
-Putida,rxn00979_c0
-Putida,rxn10213_c0
-Putida,rxn01213_c0
-Putida,rxn09427_c0
-SB2B,rxn08233_c0
-SB2B,EX_cpd00030_e0
-SB2B,EX_cpd00099_e0
-SB2B,rxn05481_c0
-SB2B,EX_cpd01981_e0
-SB2B,rxn05039_c0
-SB2B,rxn01265_c0
-SB2B,rxn03087_c0
-SB2B,rxn00599_c0
-SB2B,rxn00141_c0
-SB2B,rxn00467_c0
-SB2B,rxn05618_c0
-SB2B,rxn02185_c0
-SB2B,rxn00979_c0
-SB2B,rxn00333_c0
-SB2B,rxn01213_c0
-SB2B,rxn09429_c0
-Smeli,rxn01258_c0
-Smeli,rxn05039_c0
-Smeli,rxn02898_c0
-Smeli,rxn02304_c0
-Smeli,rxn02832_c0
-Smeli,rxn02185_c0
-Smeli,rxn09310_c0
-Smeli,rxn03891_c0
-Smeli,rxn02831_c0
-Smeli,EX_cpd00099_e0
-Smeli,rxn02404_c0
-Smeli,rxn03150_c0
-Smeli,rxn01790_c0
-Smeli,rxn05459_c0
-Smeli,rxn11702_c0
-Smeli,rxn12239_c0
-Smeli,rxn09128_c0
-Smeli,rxn03394_c0
-Smeli,rxn13477_c0
-Smeli,rxn00068_c0
-Smeli,rxn05144_c0
-Smeli,rxn11703_c0
-Smeli,rxn10094_c0
-Smeli,rxn08333_c0
-Smeli,rxn09106_c0
-Smeli,rxn00958_c0
-Smeli,rxn08233_c0
-Smeli,rxn12008_c0
-Smeli,rxn03087_c0
-Smeli,rxn03397_c0
-Smeli,rxn01539_c0
-Smeli,rxn00979_c0
-Smeli,rxn05235_c0
-Smeli,rxn01213_c0
-Smeli,rxn01508_c0
-Variovorax_OAS795,rxn12224_c0
-Variovorax_OAS795,rxn01258_c0
-Variovorax_OAS795,rxn02056_c0
-Variovorax_OAS795,rxn05039_c0
-Variovorax_OAS795,rxn00800_c0
-Variovorax_OAS795,rxn02898_c0
-Variovorax_OAS795,rxn02774_c0
-Variovorax_OAS795,rxn00957_c0
-Variovorax_OAS795,rxn02304_c0
-Variovorax_OAS795,rxn02832_c0
-Variovorax_OAS795,rxn02185_c0
-Variovorax_OAS795,rxn09310_c0
-Variovorax_OAS795,rxn02831_c0
-Variovorax_OAS795,EX_cpd01981_e0
-Variovorax_OAS795,rxn02939_c0
-Variovorax_OAS795,rxn00137_c0
-Variovorax_OAS795,rxn03841_c0
-Variovorax_OAS795,rxn00340_c0
-Variovorax_OAS795,rxn05459_c0
-Variovorax_OAS795,rxn11702_c0
-Variovorax_OAS795,rxn03439_c0
-Variovorax_OAS795,rxn11946_c0
-Variovorax_OAS795,rxn12239_c0
-Variovorax_OAS795,rxn03394_c0
-Variovorax_OAS795,rxn03182_c0
-Variovorax_OAS795,rxn11703_c0
-Variovorax_OAS795,rxn03395_c0
-Variovorax_OAS795,rxn10094_c0
-Variovorax_OAS795,rxn08333_c0
-Variovorax_OAS795,rxn05514_c0
-Variovorax_OAS795,rxn03136_c0
-Variovorax_OAS795,rxn03393_c0
-Variovorax_OAS795,rxn05481_c0
-Variovorax_OAS795,EX_cpd00063_e0
-Variovorax_OAS795,rxn00134_c0
-Variovorax_OAS795,rxn03397_c0
-Variovorax_OAS795,rxn00599_c0
-Variovorax_OAS795,rxn00979_c0
-Variovorax_OAS795,rxn01331_c0
-Variovorax_OAS795,rxn01213_c0
-WCS417,rxn05039_c0
-WCS417,rxn02898_c0
-WCS417,rxn02304_c0
-WCS417,rxn02832_c0
-WCS417,rxn02185_c0
-WCS417,rxn09310_c0
-WCS417,rxn03891_c0
-WCS417,rxn02831_c0
-WCS417,rxn11702_c0
-WCS417,rxn09149_c0
-WCS417,rxn13477_c0
-WCS417,rxn11703_c0
-WCS417,rxn10094_c0
-WCS417,rxn08333_c0
-WCS417,EX_cpd15378_e0
-WCS417,rxn09106_c0
-WCS417,rxn12376_c0
-WCS417,rxn04139_c0
-WCS417,rxn12008_c0
-WCS417,rxn03397_c0
-WCS417,rxn00599_c0
-WCS417,rxn00979_c0
-WCS417,rxn00333_c0
-WCS417,rxn01213_c0
-WCS417,rxn09427_c0
-acidovorax_3H11,rxn12224_c0
-acidovorax_3H11,rxn01258_c0
-acidovorax_3H11,rxn02056_c0
-acidovorax_3H11,rxn05039_c0
-acidovorax_3H11,rxn02898_c0
-acidovorax_3H11,rxn02774_c0
-acidovorax_3H11,rxn05618_c0
-acidovorax_3H11,rxn00957_c0
-acidovorax_3H11,rxn02304_c0
-acidovorax_3H11,rxn02832_c0
-acidovorax_3H11,EX_cpd00030_e0
-acidovorax_3H11,rxn02185_c0
-acidovorax_3H11,rxn09310_c0
-acidovorax_3H11,rxn02831_c0
-acidovorax_3H11,EX_cpd00099_e0
-acidovorax_3H11,rxn10204_c0
-acidovorax_3H11,EX_cpd01981_e0
-acidovorax_3H11,rxn00137_c0
-acidovorax_3H11,rxn05459_c0
-acidovorax_3H11,rxn11702_c0
-acidovorax_3H11,rxn12239_c0
-acidovorax_3H11,rxn03394_c0
-acidovorax_3H11,rxn05144_c0
-acidovorax_3H11,rxn11703_c0
-acidovorax_3H11,rxn10094_c0
-acidovorax_3H11,rxn08333_c0
-acidovorax_3H11,rxn05514_c0
-acidovorax_3H11,rxn08233_c0
-acidovorax_3H11,rxn05481_c0
-acidovorax_3H11,EX_cpd00063_e0
-acidovorax_3H11,rxn00134_c0
-acidovorax_3H11,rxn03397_c0
-acidovorax_3H11,rxn00599_c0
-acidovorax_3H11,rxn00979_c0
-acidovorax_3H11,rxn10213_c0
-acidovorax_3H11,rxn01213_c0
-azobra,rxn00693_c0
-azobra,rxn01258_c0
-azobra,rxn05039_c0
-azobra,rxn02898_c0
-azobra,rxn00863_c0
-azobra,rxn03901_c0
-azobra,rxn04113_c0
-azobra,rxn01739_c0
-azobra,rxn08352_c0
-azobra,rxn04786_c0
-azobra,rxn02304_c0
-azobra,rxn03408_c0
-azobra,rxn02832_c0
-azobra,rxn03167_c0
-azobra,rxn02185_c0
-azobra,rxn09113_c0
-azobra,rxn03891_c0
-azobra,rxn02831_c0
-azobra,rxn09310_c0
-azobra,EX_cpd00099_e0
-azobra,rxn10204_c0
-azobra,rxn02404_c0
-azobra,rxn10336_c0
-azobra,rxn00272_c0
-azobra,rxn05459_c0
-azobra,rxn11702_c0
-azobra,rxn12510_c0
-azobra,rxn02402_c0
-azobra,rxn12239_c0
-azobra,rxn03394_c0
-azobra,rxn00224_c0
-azobra,rxn13477_c0
-azobra,rxn09210_c0
-azobra,rxn05144_c0
-azobra,rxn11703_c0
-azobra,rxn10094_c0
-azobra,rxn08333_c0
-azobra,rxn09106_c0
-azobra,rxn05514_c0
-azobra,rxn00958_c0
-azobra,rxn00742_c0
-azobra,rxn02914_c0
-azobra,rxn08233_c0
-azobra,rxn04139_c0
-azobra,rxn02159_c0
-azobra,rxn12008_c0
-azobra,rxn00134_c0
-azobra,EX_cpd00063_e0
-azobra,rxn07465_c0
-azobra,rxn03146_c0
-azobra,rxn03397_c0
-azobra,rxn00979_c0
-azobra,rxn10213_c0
-azobra,rxn00737_c0
-azobra,rxn01213_c0
-psRCH2,rxn01258_c0
-psRCH2,rxn01637_c0
-psRCH2,rxn05039_c0
-psRCH2,rxn02898_c0
-psRCH2,rxn05618_c0
-psRCH2,rxn02304_c0
-psRCH2,rxn02832_c0
-psRCH2,EX_cpd00030_e0
-psRCH2,rxn02185_c0
-psRCH2,rxn09310_c0
-psRCH2,rxn03891_c0
-psRCH2,rxn02831_c0
-psRCH2,EX_cpd00099_e0
-psRCH2,rxn05459_c0
-psRCH2,rxn11702_c0
-psRCH2,rxn09149_c0
-psRCH2,rxn13477_c0
-psRCH2,rxn00068_c0
-psRCH2,rxn11703_c0
-psRCH2,rxn10094_c0
-psRCH2,rxn08333_c0
-psRCH2,EX_cpd15378_e0
-psRCH2,rxn12376_c0
-psRCH2,rxn08233_c0
-psRCH2,rxn04139_c0
-psRCH2,rxn12008_c0
-psRCH2,rxn03397_c0
-psRCH2,rxn00599_c0
-psRCH2,rxn00979_c0
-psRCH2,rxn01213_c0
-pseudo13_GW456_L13,rxn01258_c0
-pseudo13_GW456_L13,rxn05039_c0
-pseudo13_GW456_L13,rxn02898_c0
-pseudo13_GW456_L13,rxn05149_c0
-pseudo13_GW456_L13,rxn02304_c0
-pseudo13_GW456_L13,rxn02832_c0
-pseudo13_GW456_L13,EX_cpd00030_e0
-pseudo13_GW456_L13,rxn02185_c0
-pseudo13_GW456_L13,rxn09310_c0
-pseudo13_GW456_L13,rxn03891_c0
-pseudo13_GW456_L13,rxn02831_c0
-pseudo13_GW456_L13,EX_cpd00099_e0
-pseudo13_GW456_L13,rxn05459_c0
-pseudo13_GW456_L13,rxn11702_c0
-pseudo13_GW456_L13,rxn09149_c0
-pseudo13_GW456_L13,rxn13477_c0
-pseudo13_GW456_L13,rxn00068_c0
-pseudo13_GW456_L13,rxn11703_c0
-pseudo13_GW456_L13,rxn10094_c0
-pseudo13_GW456_L13,rxn08333_c0
-pseudo13_GW456_L13,EX_cpd15378_e0
-pseudo13_GW456_L13,rxn05514_c0
-pseudo13_GW456_L13,rxn12376_c0
-pseudo13_GW456_L13,rxn08233_c0
-pseudo13_GW456_L13,rxn04139_c0
-pseudo13_GW456_L13,EX_cpd00063_e0
-pseudo13_GW456_L13,rxn12008_c0
-pseudo13_GW456_L13,rxn03397_c0
-pseudo13_GW456_L13,rxn01022_c0
-pseudo13_GW456_L13,rxn00599_c0
-pseudo13_GW456_L13,rxn00333_c0
-pseudo13_GW456_L13,rxn01213_c0
-pseudo1_N1B4,rxn01258_c0
-pseudo1_N1B4,rxn05039_c0
-pseudo1_N1B4,rxn02898_c0
-pseudo1_N1B4,rxn05618_c0
-pseudo1_N1B4,rxn00952_c0
-pseudo1_N1B4,rxn02304_c0
-pseudo1_N1B4,rxn02832_c0
-pseudo1_N1B4,EX_cpd00030_e0
-pseudo1_N1B4,rxn02185_c0
-pseudo1_N1B4,rxn00774_c0
-pseudo1_N1B4,rxn03891_c0
-pseudo1_N1B4,rxn02831_c0
-pseudo1_N1B4,rxn09310_c0
-pseudo1_N1B4,EX_cpd00099_e0
-pseudo1_N1B4,rxn00770_c0
-pseudo1_N1B4,rxn05459_c0
-pseudo1_N1B4,rxn11702_c0
-pseudo1_N1B4,rxn12510_c0
-pseudo1_N1B4,rxn13477_c0
-pseudo1_N1B4,rxn00068_c0
-pseudo1_N1B4,rxn11703_c0
-pseudo1_N1B4,rxn10094_c0
-pseudo1_N1B4,rxn08333_c0
-pseudo1_N1B4,EX_cpd15378_e0
-pseudo1_N1B4,rxn05514_c0
-pseudo1_N1B4,rxn12376_c0
-pseudo1_N1B4,rxn08233_c0
-pseudo1_N1B4,rxn04139_c0
-pseudo1_N1B4,rxn00134_c0
-pseudo1_N1B4,rxn12008_c0
-pseudo1_N1B4,EX_cpd00063_e0
-pseudo1_N1B4,rxn03397_c0
-pseudo1_N1B4,rxn00599_c0
-pseudo1_N1B4,rxn10213_c0
-pseudo1_N1B4,rxn01213_c0
-pseudo3_N2E3,rxn05039_c0
-pseudo3_N2E3,rxn02898_c0
-pseudo3_N2E3,rxn02304_c0
-pseudo3_N2E3,rxn02832_c0
-pseudo3_N2E3,rxn02185_c0
-pseudo3_N2E3,rxn09310_c0
-pseudo3_N2E3,rxn03891_c0
-pseudo3_N2E3,rxn02831_c0
-pseudo3_N2E3,EX_cpd00099_e0
-pseudo3_N2E3,rxn00340_c0
-pseudo3_N2E3,rxn05459_c0
-pseudo3_N2E3,rxn11702_c0
-pseudo3_N2E3,rxn13477_c0
-pseudo3_N2E3,rxn11703_c0
-pseudo3_N2E3,rxn10094_c0
-pseudo3_N2E3,rxn08333_c0
-pseudo3_N2E3,EX_cpd15378_e0
-pseudo3_N2E3,rxn05514_c0
-pseudo3_N2E3,rxn12376_c0
-pseudo3_N2E3,rxn08233_c0
-pseudo3_N2E3,rxn04139_c0
-pseudo3_N2E3,EX_cpd00063_e0
-pseudo3_N2E3,rxn12008_c0
-pseudo3_N2E3,rxn03397_c0
-pseudo3_N2E3,rxn01022_c0
-pseudo3_N2E3,rxn00599_c0
-pseudo3_N2E3,rxn00979_c0
-pseudo3_N2E3,rxn10213_c0
-pseudo3_N2E3,rxn01213_c0
-pseudo5_N2C3_1,rxn01258_c0
-pseudo5_N2C3_1,rxn05039_c0
-pseudo5_N2C3_1,rxn02898_c0
-pseudo5_N2C3_1,rxn05618_c0
-pseudo5_N2C3_1,rxn02304_c0
-pseudo5_N2C3_1,rxn02832_c0
-pseudo5_N2C3_1,EX_cpd00030_e0
-pseudo5_N2C3_1,rxn02185_c0
-pseudo5_N2C3_1,rxn09310_c0
-pseudo5_N2C3_1,rxn03891_c0
-pseudo5_N2C3_1,rxn02831_c0
-pseudo5_N2C3_1,EX_cpd00099_e0
-pseudo5_N2C3_1,rxn02264_c0
-pseudo5_N2C3_1,rxn05459_c0
-pseudo5_N2C3_1,rxn11702_c0
-pseudo5_N2C3_1,rxn09128_c0
-pseudo5_N2C3_1,rxn13477_c0
-pseudo5_N2C3_1,rxn00068_c0
-pseudo5_N2C3_1,rxn11703_c0
-pseudo5_N2C3_1,rxn10094_c0
-pseudo5_N2C3_1,rxn08333_c0
-pseudo5_N2C3_1,EX_cpd15378_e0
-pseudo5_N2C3_1,rxn12376_c0
-pseudo5_N2C3_1,rxn08233_c0
-pseudo5_N2C3_1,rxn04139_c0
-pseudo5_N2C3_1,rxn12008_c0
-pseudo5_N2C3_1,rxn03397_c0
-pseudo5_N2C3_1,rxn00599_c0
-pseudo5_N2C3_1,rxn01213_c0
-pseudo6_N2E2,rxn01258_c0
-pseudo6_N2E2,rxn05039_c0
-pseudo6_N2E2,rxn02898_c0
-pseudo6_N2E2,rxn05618_c0
-pseudo6_N2E2,rxn02304_c0
-pseudo6_N2E2,rxn02832_c0
-pseudo6_N2E2,EX_cpd00030_e0
-pseudo6_N2E2,rxn02185_c0
-pseudo6_N2E2,rxn09310_c0
-pseudo6_N2E2,rxn03891_c0
-pseudo6_N2E2,rxn02831_c0
-pseudo6_N2E2,EX_cpd00099_e0
-pseudo6_N2E2,rxn02264_c0
-pseudo6_N2E2,rxn05459_c0
-pseudo6_N2E2,rxn11702_c0
-pseudo6_N2E2,rxn09128_c0
-pseudo6_N2E2,rxn13477_c0
-pseudo6_N2E2,rxn00068_c0
-pseudo6_N2E2,rxn11703_c0
-pseudo6_N2E2,rxn10094_c0
-pseudo6_N2E2,rxn08333_c0
-pseudo6_N2E2,EX_cpd15378_e0
-pseudo6_N2E2,rxn12376_c0
-pseudo6_N2E2,rxn08233_c0
-pseudo6_N2E2,rxn04139_c0
-pseudo6_N2E2,rxn12008_c0
-pseudo6_N2E2,rxn03397_c0
-pseudo6_N2E2,rxn00599_c0
-pseudo6_N2E2,rxn01213_c0
-rhodanobacter_10B01,rxn00420_c0
-rhodanobacter_10B01,rxn06023_c0
-rhodanobacter_10B01,rxn01258_c0
-rhodanobacter_10B01,rxn05039_c0
-rhodanobacter_10B01,rxn02898_c0
-rhodanobacter_10B01,rxn00957_c0
-rhodanobacter_10B01,rxn05108_c0
-rhodanobacter_10B01,rxn02832_c0
-rhodanobacter_10B01,rxn03108_c0
-rhodanobacter_10B01,rxn02185_c0
-rhodanobacter_10B01,rxn09310_c0
-rhodanobacter_10B01,rxn02831_c0
-rhodanobacter_10B01,rxn03150_c0
-rhodanobacter_10B01,rxn05153_c0
-rhodanobacter_10B01,EX_cpd00034_e0
-rhodanobacter_10B01,rxn11702_c0
-rhodanobacter_10B01,rxn09429_c0
-rhodanobacter_10B01,rxn12239_c0
-rhodanobacter_10B01,rxn00193_c0
-rhodanobacter_10B01,rxn02897_c0
-rhodanobacter_10B01,EX_cpd00048_e0
-rhodanobacter_10B01,rxn05144_c0
-rhodanobacter_10B01,rxn08131_c0
-rhodanobacter_10B01,rxn11703_c0
-rhodanobacter_10B01,rxn10094_c0
-rhodanobacter_10B01,rxn08333_c0
-rhodanobacter_10B01,rxn05514_c0
-rhodanobacter_10B01,rxn03538_c0
-rhodanobacter_10B01,rxn03393_c0
-rhodanobacter_10B01,rxn04139_c0
-rhodanobacter_10B01,EX_cpd00063_e0
-rhodanobacter_10B01,rxn05150_c0
-rhodanobacter_10B01,rxn03087_c0
-rhodanobacter_10B01,rxn03537_c0
-rhodanobacter_10B01,rxn03397_c0
-rhodanobacter_10B01,rxn00599_c0
-rhodanobacter_10B01,rxn03536_c0
-rhodanobacter_10B01,rxn00979_c0
-rhodanobacter_10B01,rxn00333_c0
-rhodanobacter_10B01,rxn01213_c0
+Organism_ID,Reaction_ID,Reaction_Name
+ANA3,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+ANA3,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+ANA3,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+ANA3,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+ANA3,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+ANA3,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+ANA3,rxn05618_c0,manganese transport in via proton symport [c0]
+ANA3,rxn05039_c0,R07280 [c0]
+ANA3,EX_cpd00099_e0,Exchange for Cl- [e0]
+ANA3,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+ANA3,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+ANA3,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+ANA3,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+ANA3,rxn08233_c0,Chloride/proton antiport [c0]
+ANA3,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+ANA3,rxn01213_c0,GPPSYN-RXN [c0]
+ANA3,rxn09429_c0,fatty acid synthase (n-C18:0) [c0]
+BFirm,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+BFirm,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+BFirm,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+BFirm,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+BFirm,rxn01258_c0,chorismate hydroxymutase [c0]
+BFirm,rxn05039_c0,R07280 [c0]
+BFirm,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+BFirm,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+BFirm,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+BFirm,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+BFirm,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+BFirm,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+BFirm,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+BFirm,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+BFirm,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+BFirm,rxn09310_c0,thiazole phosphate synthesis [c0]
+BFirm,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+BFirm,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+BFirm,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+BFirm,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+BFirm,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+BFirm,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+BFirm,rxn01213_c0,GPPSYN-RXN [c0]
+BFirm,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+BFirm,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+BFirm,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+BFirm,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+BFirm,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+BFirm,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+BFirm,rxn08444_c0,Stearoyl-CoA hydrolase [c0]
+Bifido,rxn05744_c0,b-ketoacyl synthetase (n-C14:0) [c0]
+Bifido,rxn03536_c0,R05221 [c0]
+Bifido,rxn04308_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 8 isopentenyl units) [c0]"
+Bifido,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+Bifido,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Bifido,rxn00912_c0,"5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase [c0]"
+Bifido,rxn05039_c0,R07280 [c0]
+Bifido,rxn09210_c0,Phosphatidylserine syntase (n-C18:0) [c0]
+Bifido,rxn02341_c0,N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase [c0]
+Bifido,rxn03182_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Bifido,rxn00060_c0,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing) [c0]
+Bifido,rxn01539_c0,thiamin monophosphate phosphohydrolase [c0]
+Bifido,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Bifido,rxn02331_c0,"phosphoenolpyruvate:D-arabinose-5-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming) [c0]"
+Bifido,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Bifido,rxn00029_c0,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming) [c0]
+Bifido,rxn03439_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Bifido,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Bifido,rxn01791_c0,(R)-Pantoate:beta-alanine ligase (AMP-forming) [c0]
+Bifido,rxn05040_c0,"D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming) [c0]"
+Bifido,rxn09180_c0,protoporphyrinogen oxidase (anaerobic) [c0]
+Bifido,rxn00336_c0,isocitrate glyoxylate-lyase (succinate-forming) [c0]
+Bifido,rxn05029_c0,ATP:cobinamide Cobeta-adenosyltransferase [c0]
+Bifido,rxn02264_c0,Hydroxymethylbilane hydro-lyase(cyclizing) [c0]
+Bifido,rxn01213_c0,GPPSYN-RXN [c0]
+Bifido,rxn09429_c0,fatty acid synthase (n-C18:0) [c0]
+Bifido,rxn05329_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn00953_c0,L-Serine hydro-lyase (adding homocysteine) [c0]
+Bifido,rxn02288_c0,Uroporphyrinogen-III carboxy-lyase [c0]
+Bifido,rxn00359_c0,3'-phosphoadenylyl-sulfate sulfohydrolase [c0]
+Bifido,rxn05457_c0,[Acyl-carrier-protein] acetyltransferase [c0]
+Bifido,rxn02474_c0,5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase [c0]
+Bifido,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Bifido,rxn03159_c0,"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase [c0]"
+Bifido,rxn01258_c0,chorismate hydroxymutase [c0]
+Bifido,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Bifido,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bifido,rxn06729_c0,(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase [c0]
+Bifido,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Bifido,rxn11946_c0,R05614 [c0]
+Bifido,rxn12008_c0,R05611 [c0]
+Bifido,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Bifido,rxn09310_c0,thiazole phosphate synthesis [c0]
+Bifido,rxn00300_c0,"GTP 7,8-8,9-dihydrolase (diphosphate-forming) [c0]"
+Bifido,rxn00350_c0,glutathione gamma-glutamylaminopeptidase [c0]
+Bifido,rxn03892_c0,R05613 [c0]
+Bifido,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Bifido,rxn00346_c0,L-aspartate 1-carboxy-lyase (beta-alanine-forming) [c0]
+Bifido,rxn03538_c0,R05223 [c0]
+Bifido,rxn05330_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn00224_c0,protoheme ferro-lyase (protoporphyrin-forming) [c0]
+Bifido,rxn02303_c0,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating) [c0]
+Bifido,rxn09997_c0,4-amino-5-hydroxymethyl-2-methylpyrimidine synthetase [c0]
+Bifido,rxn00966_c0,chorismate pyruvate-lyase (4-hydroxybenzoate-forming) [c0]
+Bifido,rxn01673_c0,ATP:dCDP phosphotransferase [c0]
+Bifido,rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase [c0]"
+Bifido,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Bifido,rxn05333_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn03394_c0,R04987 [c0]
+Bifido,rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c0]
+Bifido,rxn03130_c0,"UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase [c0]"
+Bifido,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Bifido,rxn05465_c0,Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase [c0]
+Bifido,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Bifido,rxn02287_c0,S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bifido,rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c0]
+Bifido,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Bifido,rxn05331_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Bifido,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+Bifido,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+Bifido,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Bifido,rxn03146_c0,UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase [c0]
+Bifido,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Bifido,rxn00693_c0,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase [c0]
+Bifido,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Bifido,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Bifido,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Bifido,rxn06723_c0,(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase [c0]
+Bifido,rxn12512_c0,(R)-4'-Phosphopantothenate:L-cysteine ligase [c0]
+Bifido,rxn13846_c0,(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn00409_c0,ATP:CDP phosphotransferase [c0]
+Bifido,rxn03080_c0,5-amino-6-(D-ribitylamino)uracil butanedionetransferase [c0]
+Bifido,rxn02011_c0,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming) [c0]"
+Bifido,rxn01117_c0,D-arabinose-5-phosphate aldose-ketose-isomerase [c0]
+Bifido,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Bifido,rxn09202_c0,Phosphatidylserine decarboxylase (n-C18:0) [c0]
+Bifido,rxn00650_c0,L-cysteinylglycine dipeptidase [c0]
+Bifido,rxn00623_c0,hydrogen-sulfide:NADP+ oxidoreductase [c0]
+Bifido,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+Bifido,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Bifido,rxn05291_c0,"b-ketoacyl synthetase (palmitate, n-C16:0) [c0]"
+Bifido,rxn03537_c0,R05222 [c0]
+Bifido,rxn03167_c0,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum) [c0]"
+Bifido,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Bifido,rxn00048_c0,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase [c0]"
+Bifido,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bifido,rxn00237_c0,ATP:GDP phosphotransferase [c0]
+Bifido,rxn03181_c0,"ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase [c0]"
+Bifido,rxn02405_c0,CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase [c0]
+Bifido,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Bifido,rxn01512_c0,ATP:dTDP phosphotransferase [c0]
+Bifido,rxn02160_c0,L-Histidinol-phosphate phosphohydrolase [c0]
+Bifido,rxn08528_c0,fumarate reductase [c0]
+Bifido,rxn02475_c0,"2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase [c0]"
+Bifido,rxn05651_c0,sulfate transport in via proton symport [c0]
+Bifido,rxn09128_c0,"Phospholipase A1 (phosphatidate, n-C18:0) (periplasm) [c0]"
+Bifido,rxn06865_c0,R05146 [c0]
+Bifido,rxn03843_c0,Farnesyl diphosphate:Isopentenyl diphosphate farnesyl cistransferase [c0]
+Bifido,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Bifido,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+Bifido,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Bifido,rxn03150_c0,R04594 [c0]
+Bifido,rxn01257_c0,chorismate:L-glutamine aminotransferase [c0]
+Bifido,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Bifido,rxn00470_c0,L-ornithine carboxy-lyase (putrescine-forming) [c0]
+Bifido,rxn13850_c0,Myristoyl-[acyl-carrier protein] synthase [c0]
+Bifido,EX_cpd00048_e0,Exchange for Sulfate [e0]
+Bifido,rxn03891_c0,R05612 [c0]
+Bifido,rxn05334_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase [c0]
+Bifido,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Bifido,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Bifido,rxn00117_c0,ATP:UDP phosphotransferase [c0]
+Brev2,rxn03536_c0,R05221 [c0]
+Brev2,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Brev2,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Brev2,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Brev2,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Brev2,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Brev2,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Brev2,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Brev2,rxn01258_c0,chorismate hydroxymutase [c0]
+Brev2,rxn05039_c0,R07280 [c0]
+Brev2,rxn09210_c0,Phosphatidylserine syntase (n-C18:0) [c0]
+Brev2,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Brev2,rxn01301_c0,L-Homoserine:NAD+ oxidoreductase [c0]
+Brev2,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Brev2,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Brev2,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Brev2,rxn12008_c0,R05611 [c0]
+Brev2,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Brev2,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Brev2,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Brev2,rxn08233_c0,Chloride/proton antiport [c0]
+Brev2,rxn03892_c0,R05613 [c0]
+Brev2,rxn09310_c0,thiazole phosphate synthesis [c0]
+Brev2,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Brev2,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Brev2,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Brev2,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Brev2,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Brev2,rxn03538_c0,R05223 [c0]
+Brev2,rxn05149_c0,ABC-type manganese permease complex [c0]
+Brev2,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Brev2,EX_cpd00099_e0,Exchange for Cl- [e0]
+Brev2,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Brev2,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Brev2,rxn03150_c0,R04594 [c0]
+Brev2,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Brev2,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Brev2,rxn01213_c0,GPPSYN-RXN [c0]
+Brev2,rxn09202_c0,Phosphatidylserine decarboxylase (n-C18:0) [c0]
+Brev2,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Brev2,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Brev2,rxn03901_c0,undecaprenyl-diphosphate phosphohydrolase [c0]
+Brev2,rxn03891_c0,R05612 [c0]
+Brev2,rxn03394_c0,R04987 [c0]
+Brev2,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Brev2,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Brev2,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Brev2,rxn03537_c0,R05222 [c0]
+Btheta,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+Btheta,rxn03536_c0,R05221 [c0]
+Btheta,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Btheta,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Btheta,rxn03086_c0,R04467 [c0]
+Btheta,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Btheta,rxn02287_c0,S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Btheta,rxn01513_c0,ATP:dTMP phosphotransferase [c0]
+Btheta,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Btheta,rxn01972_c0,"N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase [c0]"
+Btheta,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Btheta,rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c0]
+Btheta,rxn05039_c0,R07280 [c0]
+Btheta,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Btheta,rxn00060_c0,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing) [c0]
+Btheta,rxn03435_c0,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing) [c0]"
+Btheta,rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0) [c0]
+Btheta,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Btheta,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Btheta,rxn11946_c0,R05614 [c0]
+Btheta,rxn00029_c0,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming) [c0]
+Btheta,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Btheta,rxn12008_c0,R05611 [c0]
+Btheta,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Btheta,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Btheta,rxn00350_c0,glutathione gamma-glutamylaminopeptidase [c0]
+Btheta,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Btheta,rxn03892_c0,R05613 [c0]
+Btheta,rxn09310_c0,thiazole phosphate synthesis [c0]
+Btheta,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Btheta,rxn05229_c0,NCAIR synthetase and NCAIR mutase [c0]
+Btheta,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Btheta,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Btheta,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Btheta,rxn08528_c0,fumarate reductase [c0]
+Btheta,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Btheta,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Btheta,rxn03538_c0,R05223 [c0]
+Btheta,rxn03436_c0,(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing) [c0]
+Btheta,rxn00330_c0,"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming) [c0]"
+Btheta,rxn00224_c0,protoheme ferro-lyase (protoporphyrin-forming) [c0]
+Btheta,rxn02186_c0,"2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing) [c0]"
+Btheta,rxn02303_c0,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating) [c0]
+Btheta,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Btheta,rxn03150_c0,R04594 [c0]
+Btheta,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Btheta,rxn01505_c0,"N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase [c0]"
+Btheta,rxn01213_c0,GPPSYN-RXN [c0]
+Btheta,rxn00470_c0,L-ornithine carboxy-lyase (putrescine-forming) [c0]
+Btheta,rxn00623_c0,hydrogen-sulfide:NADP+ oxidoreductase [c0]
+Btheta,rxn01019_c0,Carbamoyl-phosphate:L-ornithine carbamoyltransferase [c0]
+Btheta,rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase [c0]"
+Btheta,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Btheta,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Btheta,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Btheta,rxn01331_c0,D-erythrose 4-phosphate:NAD+ oxidoreductase [c0]
+Btheta,rxn00293_c0,UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase [c0]
+Btheta,rxn03394_c0,R04987 [c0]
+Btheta,rxn00615_c0,ATP:glycerol 3-phosphotransferase [c0]
+Btheta,rxn03891_c0,R05612 [c0]
+Btheta,rxn04794_c0,propanoyl-CoA:formate C-propanoyltransferase [c0]
+Btheta,rxn03537_c0,R05222 [c0]
+Btheta,rxn02288_c0,Uroporphyrinogen-III carboxy-lyase [c0]
+Btheta,rxn03030_c0,"Acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase [c0]"
+Burk376,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Burk376,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Burk376,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Burk376,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Burk376,rxn01258_c0,chorismate hydroxymutase [c0]
+Burk376,rxn05039_c0,R07280 [c0]
+Burk376,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Burk376,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Burk376,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Burk376,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Burk376,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Burk376,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Burk376,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Burk376,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Burk376,rxn09310_c0,thiazole phosphate synthesis [c0]
+Burk376,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Burk376,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Burk376,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Burk376,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Burk376,rxn09427_c0,fatty-acyl-CoA synthase (n-C18:0CoA) [c0]
+Burk376,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Burk376,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+Burk376,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Burk376,rxn01213_c0,GPPSYN-RXN [c0]
+Burk376,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Burk376,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Burk376,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Burk376,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Burk376,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Burk376,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Burk376,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Burkholderia_OAS925,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Burkholderia_OAS925,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Burkholderia_OAS925,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Burkholderia_OAS925,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Burkholderia_OAS925,rxn01258_c0,chorismate hydroxymutase [c0]
+Burkholderia_OAS925,rxn05039_c0,R07280 [c0]
+Burkholderia_OAS925,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Burkholderia_OAS925,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Burkholderia_OAS925,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Burkholderia_OAS925,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Burkholderia_OAS925,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Burkholderia_OAS925,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Burkholderia_OAS925,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Burkholderia_OAS925,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Burkholderia_OAS925,rxn09310_c0,thiazole phosphate synthesis [c0]
+Burkholderia_OAS925,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Burkholderia_OAS925,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Burkholderia_OAS925,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Burkholderia_OAS925,rxn03538_c0,R05223 [c0]
+Burkholderia_OAS925,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Burkholderia_OAS925,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Burkholderia_OAS925,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+Burkholderia_OAS925,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Burkholderia_OAS925,rxn01213_c0,GPPSYN-RXN [c0]
+Burkholderia_OAS925,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Burkholderia_OAS925,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Burkholderia_OAS925,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Burkholderia_OAS925,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Burkholderia_OAS925,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Burkholderia_OAS925,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Burkholderia_OAS925,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Bvulgatus_CL09T03C04,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Bvulgatus_CL09T03C04,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Bvulgatus_CL09T03C04,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Bvulgatus_CL09T03C04,rxn03086_c0,R04467 [c0]
+Bvulgatus_CL09T03C04,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Bvulgatus_CL09T03C04,rxn02287_c0,S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn01513_c0,ATP:dTMP phosphotransferase [c0]
+Bvulgatus_CL09T03C04,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+Bvulgatus_CL09T03C04,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Bvulgatus_CL09T03C04,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c0]
+Bvulgatus_CL09T03C04,rxn01972_c0,"N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase [c0]"
+Bvulgatus_CL09T03C04,rxn05039_c0,R07280 [c0]
+Bvulgatus_CL09T03C04,rxn00778_c0,"D-Ribose 1,5-phosphomutase [c0]"
+Bvulgatus_CL09T03C04,rxn00060_c0,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing) [c0]
+Bvulgatus_CL09T03C04,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn03435_c0,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing) [c0]"
+Bvulgatus_CL09T03C04,rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0) [c0]
+Bvulgatus_CL09T03C04,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Bvulgatus_CL09T03C04,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Bvulgatus_CL09T03C04,rxn11946_c0,R05614 [c0]
+Bvulgatus_CL09T03C04,rxn00029_c0,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming) [c0]
+Bvulgatus_CL09T03C04,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+Bvulgatus_CL09T03C04,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Bvulgatus_CL09T03C04,rxn12008_c0,R05611 [c0]
+Bvulgatus_CL09T03C04,rxn10199_c0,Peptidoglycan subunit synthesis [c0]
+Bvulgatus_CL09T03C04,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Bvulgatus_CL09T03C04,rxn00350_c0,glutathione gamma-glutamylaminopeptidase [c0]
+Bvulgatus_CL09T03C04,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Bvulgatus_CL09T03C04,rxn03892_c0,R05613 [c0]
+Bvulgatus_CL09T03C04,rxn09310_c0,thiazole phosphate synthesis [c0]
+Bvulgatus_CL09T03C04,rxn05229_c0,NCAIR synthetase and NCAIR mutase [c0]
+Bvulgatus_CL09T03C04,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Bvulgatus_CL09T03C04,rxn02401_c0,ATP:beta-D-ribosylnicotinate 5-phosphotransferase [c0]
+Bvulgatus_CL09T03C04,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Bvulgatus_CL09T03C04,rxn08528_c0,fumarate reductase [c0]
+Bvulgatus_CL09T03C04,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Bvulgatus_CL09T03C04,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn03436_c0,(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing) [c0]
+Bvulgatus_CL09T03C04,rxn00224_c0,protoheme ferro-lyase (protoporphyrin-forming) [c0]
+Bvulgatus_CL09T03C04,rxn02186_c0,"2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing) [c0]"
+Bvulgatus_CL09T03C04,rxn05902_c0,sulphite reductase [c0]
+Bvulgatus_CL09T03C04,rxn02303_c0,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating) [c0]
+Bvulgatus_CL09T03C04,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Bvulgatus_CL09T03C04,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Bvulgatus_CL09T03C04,rxn01505_c0,"N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase [c0]"
+Bvulgatus_CL09T03C04,rxn01213_c0,GPPSYN-RXN [c0]
+Bvulgatus_CL09T03C04,rxn00470_c0,L-ornithine carboxy-lyase (putrescine-forming) [c0]
+Bvulgatus_CL09T03C04,rxn00623_c0,hydrogen-sulfide:NADP+ oxidoreductase [c0]
+Bvulgatus_CL09T03C04,rxn01019_c0,Carbamoyl-phosphate:L-ornithine carbamoyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase [c0]"
+Bvulgatus_CL09T03C04,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Bvulgatus_CL09T03C04,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Bvulgatus_CL09T03C04,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Bvulgatus_CL09T03C04,rxn00293_c0,UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase [c0]
+Bvulgatus_CL09T03C04,rxn03891_c0,R05612 [c0]
+Bvulgatus_CL09T03C04,rxn03394_c0,R04987 [c0]
+Bvulgatus_CL09T03C04,rxn02288_c0,Uroporphyrinogen-III carboxy-lyase [c0]
+Bvulgatus_CL09T03C04,rxn03030_c0,"Acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase [c0]"
+CL21,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+CL21,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+CL21,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+CL21,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+CL21,rxn01258_c0,chorismate hydroxymutase [c0]
+CL21,rxn05039_c0,R07280 [c0]
+CL21,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+CL21,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+CL21,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+CL21,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+CL21,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+CL21,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+CL21,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+CL21,rxn09310_c0,thiazole phosphate synthesis [c0]
+CL21,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+CL21,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+CL21,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+CL21,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+CL21,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+CL21,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+CL21,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+CL21,rxn01213_c0,GPPSYN-RXN [c0]
+CL21,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+CL21,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+CL21,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+CL21,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+CL21,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+CL21,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+CL21,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Caulo,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Caulo,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Caulo,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Caulo,EX_cpd00034_e0,Exchange for Zn2+ [e0]
+Caulo,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Caulo,rxn02939_c0,4-phospho-D-erythronate:NAD+ 2-oxidoreductase [c0]
+Caulo,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Caulo,rxn01258_c0,chorismate hydroxymutase [c0]
+Caulo,rxn05039_c0,R07280 [c0]
+Caulo,rxn09210_c0,Phosphatidylserine syntase (n-C18:0) [c0]
+Caulo,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Caulo,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Caulo,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Caulo,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Caulo,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Caulo,rxn12008_c0,R05611 [c0]
+Caulo,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Caulo,rxn09310_c0,thiazole phosphate synthesis [c0]
+Caulo,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Caulo,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Caulo,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Caulo,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Caulo,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Caulo,rxn05618_c0,manganese transport in via proton symport [c0]
+Caulo,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Caulo,rxn03538_c0,R05223 [c0]
+Caulo,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Caulo,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Caulo,rxn03150_c0,R04594 [c0]
+Caulo,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Caulo,rxn05150_c0,zinc transport via ABC system [c0]
+Caulo,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Caulo,rxn01213_c0,GPPSYN-RXN [c0]
+Caulo,rxn09202_c0,Phosphatidylserine decarboxylase (n-C18:0) [c0]
+Caulo,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Caulo,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Caulo,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Caulo,rxn04413_c0,R06558 [c0]
+Caulo,rxn01331_c0,D-erythrose 4-phosphate:NAD+ oxidoreductase [c0]
+Caulo,rxn03891_c0,R05612 [c0]
+Caulo,rxn03394_c0,R04987 [c0]
+Caulo,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Caulo,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Caulo,rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c0]
+Caulo,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Caulo,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Caulo,rxn03537_c0,R05222 [c0]
+Caulo,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Caulo,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Cola,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Cola,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Cola,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Cola,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Cola,rxn02939_c0,4-phospho-D-erythronate:NAD+ 2-oxidoreductase [c0]
+Cola,rxn01513_c0,ATP:dTMP phosphotransferase [c0]
+Cola,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Cola,rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c0]
+Cola,rxn05039_c0,R07280 [c0]
+Cola,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Cola,rxn01539_c0,thiamin monophosphate phosphohydrolase [c0]
+Cola,rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0) [c0]
+Cola,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Cola,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Cola,rxn11946_c0,R05614 [c0]
+Cola,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+Cola,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Cola,rxn12008_c0,R05611 [c0]
+Cola,rxn09310_c0,thiazole phosphate synthesis [c0]
+Cola,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Cola,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Cola,rxn03892_c0,R05613 [c0]
+Cola,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Cola,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Cola,rxn08528_c0,fumarate reductase [c0]
+Cola,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Cola,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Cola,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Cola,rxn01505_c0,"N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase [c0]"
+Cola,rxn01213_c0,GPPSYN-RXN [c0]
+Cola,rxn09997_c0,4-amino-5-hydroxymethyl-2-methylpyrimidine synthetase [c0]
+Cola,rxn00470_c0,L-ornithine carboxy-lyase (putrescine-forming) [c0]
+Cola,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+Cola,rxn01019_c0,Carbamoyl-phosphate:L-ornithine carbamoyltransferase [c0]
+Cola,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Cola,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Cola,rxn01331_c0,D-erythrose 4-phosphate:NAD+ oxidoreductase [c0]
+Cola,rxn00293_c0,UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase [c0]
+Cola,rxn03394_c0,R04987 [c0]
+Cola,rxn03891_c0,R05612 [c0]
+Cola,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Cola,rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c0]
+Cola,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Cola,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Cup4G11,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Cup4G11,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Cup4G11,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Cup4G11,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Cup4G11,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Cup4G11,rxn01258_c0,chorismate hydroxymutase [c0]
+Cup4G11,rxn05039_c0,R07280 [c0]
+Cup4G11,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Cup4G11,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Cup4G11,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Cup4G11,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Cup4G11,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Cup4G11,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Cup4G11,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Cup4G11,rxn09310_c0,thiazole phosphate synthesis [c0]
+Cup4G11,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Cup4G11,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Cup4G11,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Cup4G11,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Cup4G11,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+Cup4G11,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Cup4G11,rxn01213_c0,GPPSYN-RXN [c0]
+Cup4G11,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Cup4G11,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Cup4G11,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Cup4G11,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Cup4G11,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Cup4G11,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Cup4G11,rxn08444_c0,Stearoyl-CoA hydrolase [c0]
+Dda3937,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Dda3937,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Dda3937,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Dda3937,rxn03538_c0,R05223 [c0]
+Dda3937,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Dda3937,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Dda3937,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+Dda3937,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Dda3937,rxn03150_c0,R04594 [c0]
+Dda3937,rxn03537_c0,R05222 [c0]
+Dda3937,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Dda3937,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Ddia6719,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Ddia6719,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Ddia6719,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Ddia6719,rxn03538_c0,R05223 [c0]
+Ddia6719,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Ddia6719,EX_cpd00099_e0,Exchange for Cl- [e0]
+Ddia6719,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+Ddia6719,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Ddia6719,rxn03150_c0,R04594 [c0]
+Ddia6719,rxn03537_c0,R05222 [c0]
+Ddia6719,rxn08233_c0,Chloride/proton antiport [c0]
+Ddia6719,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+DdiaME23,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+DdiaME23,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+DdiaME23,rxn09128_c0,"Phospholipase A1 (phosphatidate, n-C18:0) (periplasm) [c0]"
+DdiaME23,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+DdiaME23,rxn03538_c0,R05223 [c0]
+DdiaME23,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+DdiaME23,EX_cpd00099_e0,Exchange for Cl- [e0]
+DdiaME23,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+DdiaME23,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+DdiaME23,rxn03150_c0,R04594 [c0]
+DdiaME23,rxn03537_c0,R05222 [c0]
+DdiaME23,rxn08233_c0,Chloride/proton antiport [c0]
+DdiaME23,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Dino,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Dino,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Dino,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Dino,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Dino,rxn02939_c0,4-phospho-D-erythronate:NAD+ 2-oxidoreductase [c0]
+Dino,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Dino,EX_cpd00149_e0,Exchange for Co2+ [e0]
+Dino,rxn01258_c0,chorismate hydroxymutase [c0]
+Dino,rxn05235_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase [c0]
+Dino,rxn05166_c0,RXNBWI-115367.ce [c0]
+Dino,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Dino,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Dino,rxn05039_c0,R07280 [c0]
+Dino,rxn01539_c0,thiamin monophosphate phosphohydrolase [c0]
+Dino,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Dino,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Dino,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+Dino,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Dino,rxn12008_c0,R05611 [c0]
+Dino,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Dino,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Dino,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Dino,rxn00338_c0,L-aspartate:oxygen oxidoreductase [c0]
+Dino,rxn09310_c0,thiazole phosphate synthesis [c0]
+Dino,rxn08233_c0,Chloride/proton antiport [c0]
+Dino,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Dino,rxn03892_c0,R05613 [c0]
+Dino,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Dino,rxn00693_c0,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase [c0]
+Dino,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Dino,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Dino,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Dino,EX_cpd00099_e0,Exchange for Cl- [e0]
+Dino,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Dino,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Dino,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Dino,rxn03150_c0,R04594 [c0]
+Dino,rxn01257_c0,chorismate:L-glutamine aminotransferase [c0]
+Dino,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Dino,rxn02988_c0,glycerone phosphate:iminosuccinate alkyltransferase (cyclizing) [c0]
+Dino,rxn01213_c0,GPPSYN-RXN [c0]
+Dino,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+Dino,EX_cpd00254_e0,Exchange for Mg [e0]
+Dino,rxn01508_c0,ATP:deoxyadenosine 5'-phosphotransferase [c0]
+Dino,rxn01331_c0,D-erythrose 4-phosphate:NAD+ oxidoreductase [c0]
+Dino,rxn03891_c0,R05612 [c0]
+Dino,rxn03394_c0,R04987 [c0]
+Dino,rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c0]
+Dino,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Dino,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Dino,rxn02402_c0,Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating) [c0]
+Dino,rxn05616_c0,TRANS-RXN-141.ce [c0]
+Dino,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Dyella79,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Dyella79,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Dyella79,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Dyella79,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Dyella79,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Dyella79,rxn01258_c0,chorismate hydroxymutase [c0]
+Dyella79,rxn05039_c0,R07280 [c0]
+Dyella79,rxn00420_c0,O-phospho-L-serine phosphohydrolase [c0]
+Dyella79,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Dyella79,rxn00422_c0,L-Serine:pyruvate aminotransferase [c0]
+Dyella79,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Dyella79,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Dyella79,rxn09310_c0,thiazole phosphate synthesis [c0]
+Dyella79,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Dyella79,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Dyella79,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Dyella79,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Dyella79,rxn00193_c0,glutamate racemase [c0]
+Dyella79,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Dyella79,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Dyella79,rxn05108_c0,R07396 [c0]
+Dyella79,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Dyella79,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Dyella79,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Dyella79,rxn05150_c0,zinc transport via ABC system [c0]
+Dyella79,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Dyella79,rxn01213_c0,GPPSYN-RXN [c0]
+Dyella79,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Dyella79,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Dyella79,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Dyella79,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Dyella79,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Dyella79,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Dyella79,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Dyella79,EX_cpd00034_e0,Exchange for Zn2+ [e0]
+HerbieS,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+HerbieS,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+HerbieS,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+HerbieS,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+HerbieS,rxn01258_c0,chorismate hydroxymutase [c0]
+HerbieS,rxn05039_c0,R07280 [c0]
+HerbieS,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+HerbieS,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+HerbieS,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+HerbieS,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+HerbieS,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+HerbieS,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+HerbieS,rxn09310_c0,thiazole phosphate synthesis [c0]
+HerbieS,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+HerbieS,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+HerbieS,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+HerbieS,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+HerbieS,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+HerbieS,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+HerbieS,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+HerbieS,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+HerbieS,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+HerbieS,rxn01213_c0,GPPSYN-RXN [c0]
+HerbieS,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+HerbieS,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+HerbieS,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+HerbieS,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+HerbieS,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+HerbieS,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+HerbieS,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Keio,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Keio,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Keio,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Keio,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Keio,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Korea,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Korea,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Korea,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Korea,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Korea,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Korea,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Korea,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Korea,rxn03159_c0,"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase [c0]"
+Korea,EX_cpd00149_e0,Exchange for Co2+ [e0]
+Korea,rxn01258_c0,chorismate hydroxymutase [c0]
+Korea,rxn05039_c0,R07280 [c0]
+Korea,rxn05166_c0,RXNBWI-115367.ce [c0]
+Korea,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Korea,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Korea,rxn03182_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Korea,rxn05616_c0,TRANS-RXN-141.ce [c0]
+Korea,rxn02331_c0,"phosphoenolpyruvate:D-arabinose-5-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming) [c0]"
+Korea,rxn06729_c0,(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase [c0]
+Korea,rxn03181_c0,"ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase [c0]"
+Korea,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Korea,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Korea,rxn02405_c0,CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase [c0]
+Korea,rxn03439_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Korea,rxn12008_c0,R05611 [c0]
+Korea,rxn03146_c0,UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase [c0]
+Korea,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Korea,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Korea,rxn09310_c0,thiazole phosphate synthesis [c0]
+Korea,rxn08233_c0,Chloride/proton antiport [c0]
+Korea,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Korea,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Korea,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Korea,rxn06723_c0,(3R)-3-hydroxymyristoyl-[acyl-carrier protein]:UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine N-acetyltransferase [c0]
+Korea,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Korea,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Korea,rxn06865_c0,R05146 [c0]
+Korea,rxn05149_c0,ABC-type manganese permease complex [c0]
+Korea,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Korea,EX_cpd00099_e0,Exchange for Cl- [e0]
+Korea,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Korea,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Korea,rxn05150_c0,zinc transport via ABC system [c0]
+Korea,rxn01117_c0,D-arabinose-5-phosphate aldose-ketose-isomerase [c0]
+Korea,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Korea,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Korea,rxn01213_c0,GPPSYN-RXN [c0]
+Korea,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Korea,EX_cpd00254_e0,Exchange for Mg [e0]
+Korea,rxn00656_c0,L-Alanine:3-oxopropanoate aminotransferase [c0]
+Korea,EX_cpd00048_e0,Exchange for Sulfate [e0]
+Korea,rxn03891_c0,R05612 [c0]
+Korea,rxn03394_c0,R04987 [c0]
+Korea,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Korea,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Korea,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Korea,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Korea,EX_cpd00034_e0,Exchange for Zn2+ [e0]
+Korea,rxn03130_c0,"UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase [c0]"
+Korea,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Korea,rxn05153_c0,sulfate-transporting ATPase [c0]
+Koxy,rxn01520_c0,"5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase [c0]"
+Koxy,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Koxy,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Koxy,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Koxy,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Lysobacter_OAE881,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Lysobacter_OAE881,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Lysobacter_OAE881,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Lysobacter_OAE881,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Lysobacter_OAE881,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Lysobacter_OAE881,rxn01258_c0,chorismate hydroxymutase [c0]
+Lysobacter_OAE881,rxn05039_c0,R07280 [c0]
+Lysobacter_OAE881,rxn02341_c0,N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase [c0]
+Lysobacter_OAE881,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Lysobacter_OAE881,rxn03958_c0,1-Deoxy-D-xylulose-5-phosphate isomeroreductase [c0]
+Lysobacter_OAE881,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Lysobacter_OAE881,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Lysobacter_OAE881,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Lysobacter_OAE881,rxn09310_c0,thiazole phosphate synthesis [c0]
+Lysobacter_OAE881,rxn08233_c0,Chloride/proton antiport [c0]
+Lysobacter_OAE881,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Lysobacter_OAE881,rxn01739_c0,ATP:shikimate 3-phosphotransferase [c0]
+Lysobacter_OAE881,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Lysobacter_OAE881,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Lysobacter_OAE881,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Lysobacter_OAE881,rxn00193_c0,glutamate racemase [c0]
+Lysobacter_OAE881,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Lysobacter_OAE881,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Lysobacter_OAE881,rxn09177_c0,(R)-4'-Phosphopantothenate:L-cysteine ligase [c0]
+Lysobacter_OAE881,rxn02264_c0,Hydroxymethylbilane hydro-lyase(cyclizing) [c0]
+Lysobacter_OAE881,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Lysobacter_OAE881,rxn05618_c0,manganese transport in via proton symport [c0]
+Lysobacter_OAE881,EX_cpd00099_e0,Exchange for Cl- [e0]
+Lysobacter_OAE881,rxn02929_c0,"2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase [c0]"
+Lysobacter_OAE881,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Lysobacter_OAE881,rxn01022_c0,S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase [c0]
+Lysobacter_OAE881,rxn05150_c0,zinc transport via ABC system [c0]
+Lysobacter_OAE881,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Lysobacter_OAE881,rxn01213_c0,GPPSYN-RXN [c0]
+Lysobacter_OAE881,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Lysobacter_OAE881,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Lysobacter_OAE881,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Lysobacter_OAE881,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Lysobacter_OAE881,rxn03909_c0,1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating) [c0]
+Lysobacter_OAE881,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Lysobacter_OAE881,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Lysobacter_OAE881,EX_cpd00034_e0,Exchange for Zn2+ [e0]
+Lysobacter_OAE881,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+MR1,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+MR1,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+MR1,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+MR1,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+MR1,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+MR1,rxn09427_c0,fatty-acyl-CoA synthase (n-C18:0CoA) [c0]
+MR1,rxn05039_c0,R07280 [c0]
+MR1,EX_cpd00099_e0,Exchange for Cl- [e0]
+MR1,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+MR1,rxn05618_c0,manganese transport in via proton symport [c0]
+MR1,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+MR1,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+MR1,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+MR1,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+MR1,rxn08233_c0,Chloride/proton antiport [c0]
+MR1,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+MR1,rxn01213_c0,GPPSYN-RXN [c0]
+MR1,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Magneto,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Magneto,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Magneto,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Magneto,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Magneto,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Magneto,rxn05104_c0,S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase [c0]
+Magneto,rxn00048_c0,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase [c0]"
+Magneto,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Magneto,rxn00742_c0,L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming) [c0]
+Magneto,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Magneto,rxn01258_c0,chorismate hydroxymutase [c0]
+Magneto,rxn05235_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase [c0]
+Magneto,rxn05039_c0,R07280 [c0]
+Magneto,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Magneto,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Magneto,rxn08444_c0,Stearoyl-CoA hydrolase [c0]
+Magneto,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Magneto,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Magneto,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Magneto,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Magneto,rxn12008_c0,R05611 [c0]
+Magneto,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+Magneto,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Magneto,rxn09310_c0,thiazole phosphate synthesis [c0]
+Magneto,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Magneto,rxn08233_c0,Chloride/proton antiport [c0]
+Magneto,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Magneto,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Magneto,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Magneto,rxn05618_c0,manganese transport in via proton symport [c0]
+Magneto,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Magneto,rxn00438_c0,ATP:thiamin-phosphate phosphotransferase [c0]
+Magneto,EX_cpd00099_e0,Exchange for Cl- [e0]
+Magneto,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Magneto,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Magneto,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Magneto,rxn01257_c0,chorismate:L-glutamine aminotransferase [c0]
+Magneto,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Magneto,rxn01213_c0,GPPSYN-RXN [c0]
+Magneto,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Magneto,rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase [c0]"
+Magneto,rxn08348_c0,"2,3-diketo-5-methylthio-1-phosphopentane degradation reaction [c0]"
+Magneto,rxn05231_c0,2'-Deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c0]
+Magneto,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Magneto,rxn03891_c0,R05612 [c0]
+Magneto,rxn00615_c0,ATP:glycerol 3-phosphotransferase [c0]
+Magneto,rxn03394_c0,R04987 [c0]
+Magneto,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Magneto,rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase [c0]
+Magneto,rxn00616_c0,sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase [c0]
+Magneto,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Magneto,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Magneto,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Magneto,rxn00737_c0,L-threonine ammonia-lyase (2-oxobutanoate-forming) [c0]
+Magneto,rxn06075_c0,2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase [c0]
+Marino,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+Marino,rxn03536_c0,R05221 [c0]
+Marino,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Marino,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Marino,EX_cpd00149_e0,Exchange for Co2+ [e0]
+Marino,rxn01258_c0,chorismate hydroxymutase [c0]
+Marino,rxn05166_c0,RXNBWI-115367.ce [c0]
+Marino,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Marino,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Marino,rxn05039_c0,R07280 [c0]
+Marino,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Marino,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Marino,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Marino,rxn12008_c0,R05611 [c0]
+Marino,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Marino,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Marino,rxn09310_c0,thiazole phosphate synthesis [c0]
+Marino,rxn08233_c0,Chloride/proton antiport [c0]
+Marino,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Marino,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Marino,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Marino,rxn02160_c0,L-Histidinol-phosphate phosphohydrolase [c0]
+Marino,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Marino,rxn00346_c0,L-aspartate 1-carboxy-lyase (beta-alanine-forming) [c0]
+Marino,rxn03538_c0,R05223 [c0]
+Marino,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Marino,EX_cpd00099_e0,Exchange for Cl- [e0]
+Marino,rxn05108_c0,R07396 [c0]
+Marino,rxn05618_c0,manganese transport in via proton symport [c0]
+Marino,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Marino,rxn01022_c0,S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase [c0]
+Marino,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Marino,rxn03150_c0,R04594 [c0]
+Marino,rxn01213_c0,GPPSYN-RXN [c0]
+Marino,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Marino,EX_cpd00254_e0,Exchange for Mg [e0]
+Marino,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Marino,rxn03891_c0,R05612 [c0]
+Marino,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Marino,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Marino,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Marino,rxn03537_c0,R05222 [c0]
+Marino,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Marino,rxn05616_c0,TRANS-RXN-141.ce [c0]
+Miya,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Miya,rxn02914_c0,3-Phosphoserine:2-oxoglutarate aminotransferase [c0]
+Miya,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Miya,rxn03086_c0,R04467 [c0]
+Miya,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Miya,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Miya,rxn00256_c0,acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing) [c0]
+Miya,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Miya,rxn01972_c0,"N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase [c0]"
+Miya,rxn00611_c0,sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase [c0]
+Miya,rxn02834_c0,Phosphoribosyl-ATP pyrophosphohydrolase [c0]
+Miya,rxn02212_c0,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing) [c0]
+Miya,rxn01258_c0,chorismate hydroxymutase [c0]
+Miya,rxn05039_c0,R07280 [c0]
+Miya,rxn00420_c0,O-phospho-L-serine phosphohydrolase [c0]
+Miya,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Miya,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Miya,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Miya,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Miya,rxn02504_c0,"2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine glycolaldehyde-lyase [c0]"
+Miya,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Miya,rxn11946_c0,R05614 [c0]
+Miya,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+Miya,rxn12008_c0,R05611 [c0]
+Miya,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Miya,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+Miya,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Miya,rxn09310_c0,thiazole phosphate synthesis [c0]
+Miya,rxn05229_c0,NCAIR synthetase and NCAIR mutase [c0]
+Miya,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Miya,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Miya,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Miya,rxn09180_c0,protoporphyrinogen oxidase (anaerobic) [c0]
+Miya,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Miya,rxn00346_c0,L-aspartate 1-carboxy-lyase (beta-alanine-forming) [c0]
+Miya,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Miya,rxn01300_c0,ATP:L-homoserine O-phosphotransferase [c0]
+Miya,rxn00224_c0,protoheme ferro-lyase (protoporphyrin-forming) [c0]
+Miya,rxn01332_c0,"Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming) [c0]"
+Miya,rxn02303_c0,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating) [c0]
+Miya,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Miya,rxn03150_c0,R04594 [c0]
+Miya,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Miya,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Miya,rxn00952_c0,O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase [c0]
+Miya,rxn01213_c0,GPPSYN-RXN [c0]
+Miya,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Miya,rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase [c0]"
+Miya,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Miya,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Miya,rxn03891_c0,R05612 [c0]
+Miya,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Miya,rxn03394_c0,R04987 [c0]
+Miya,rxn00686_c0,"5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase [c0]"
+Miya,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Miya,rxn03167_c0,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum) [c0]"
+Miya,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Miya,rxn02288_c0,Uroporphyrinogen-III carboxy-lyase [c0]
+Miya,rxn03030_c0,"Acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase [c0]"
+Miya,rxn00737_c0,L-threonine ammonia-lyase (2-oxobutanoate-forming) [c0]
+Miya,rxn01303_c0,Acetyl-CoA:L-homoserine O-acetyltransferase [c0]
+PS,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+PS,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+PS,rxn02939_c0,4-phospho-D-erythronate:NAD+ 2-oxidoreductase [c0]
+PS,rxn01101_c0,3-Phospho-D-glycerate:NAD+ 2-oxidoreductase [c0]
+PS,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+PS,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+PS,rxn05039_c0,R07280 [c0]
+PS,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+PS,rxn03168_c0,R04621 [c0]
+PS,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+PS,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+PS,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+PS,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+PS,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+PS,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+PS,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+PS,rxn09310_c0,thiazole phosphate synthesis [c0]
+PS,rxn08233_c0,Chloride/proton antiport [c0]
+PS,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+PS,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+PS,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+PS,rxn05618_c0,manganese transport in via proton symport [c0]
+PS,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+PS,EX_cpd00099_e0,Exchange for Cl- [e0]
+PS,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+PS,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+PS,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+PS,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+PS,rxn01213_c0,GPPSYN-RXN [c0]
+PS,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+PS,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+PS,rxn00209_c0,Pyridoxine 5-phosphate:oxygen oxidoreductase [c0]
+PS,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+PS,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+PS,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+PS,rxn03130_c0,"UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase [c0]"
+PS,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+PS,rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming] [c0]
+PV4,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+PV4,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+PV4,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+PV4,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+PV4,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+PV4,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+PV4,rxn05149_c0,ABC-type manganese permease complex [c0]
+PV4,EX_cpd00099_e0,Exchange for Cl- [e0]
+PV4,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+PV4,rxn05039_c0,R07280 [c0]
+PV4,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+PV4,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+PV4,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+PV4,rxn08233_c0,Chloride/proton antiport [c0]
+PV4,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+PV4,rxn01213_c0,GPPSYN-RXN [c0]
+PV4,rxn09429_c0,fatty acid synthase (n-C18:0) [c0]
+Pedo557,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+Pedo557,rxn03536_c0,R05221 [c0]
+Pedo557,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Pedo557,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Pedo557,rxn01513_c0,ATP:dTMP phosphotransferase [c0]
+Pedo557,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Pedo557,rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase [c0]
+Pedo557,rxn01258_c0,chorismate hydroxymutase [c0]
+Pedo557,rxn05039_c0,R07280 [c0]
+Pedo557,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Pedo557,rxn00420_c0,O-phospho-L-serine phosphohydrolase [c0]
+Pedo557,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Pedo557,rxn00422_c0,L-Serine:pyruvate aminotransferase [c0]
+Pedo557,rxn00541_c0,L-threonine acetaldehyde-lyase (glycine-forming) [c0]
+Pedo557,rxn01973_c0,"N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase [c0]"
+Pedo557,rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0) [c0]
+Pedo557,rxn10954_c0,Fatty acid biosynthesis (n-C18:0) [c0]
+Pedo557,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Pedo557,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Pedo557,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Pedo557,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Pedo557,EX_cpd00079_e0,Exchange for D-glucose-6-phosphate [e0]
+Pedo557,rxn11946_c0,R05614 [c0]
+Pedo557,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+Pedo557,rxn05563_c0,Glucose-6-phosphate transport via phosphate antiport [c0]
+Pedo557,rxn12008_c0,R05611 [c0]
+Pedo557,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+Pedo557,rxn05287_c0,geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase [c0]
+Pedo557,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Pedo557,rxn09310_c0,thiazole phosphate synthesis [c0]
+Pedo557,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Pedo557,rxn08233_c0,Chloride/proton antiport [c0]
+Pedo557,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+Pedo557,rxn03892_c0,R05613 [c0]
+Pedo557,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+Pedo557,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Pedo557,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Pedo557,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Pedo557,rxn08551_c0,glycerol-3-phosphate acyltransferase (C18:0) [c0]
+Pedo557,rxn08528_c0,fumarate reductase [c0]
+Pedo557,rxn08088_c0,1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0) [c0]
+Pedo557,rxn03538_c0,R05223 [c0]
+Pedo557,EX_cpd00099_e0,Exchange for Cl- [e0]
+Pedo557,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Pedo557,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Pedo557,rxn03150_c0,R04594 [c0]
+Pedo557,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Pedo557,rxn01505_c0,"N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase [c0]"
+Pedo557,rxn01213_c0,GPPSYN-RXN [c0]
+Pedo557,rxn00966_c0,chorismate pyruvate-lyase (4-hydroxybenzoate-forming) [c0]
+Pedo557,rxn00470_c0,L-ornithine carboxy-lyase (putrescine-forming) [c0]
+Pedo557,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+Pedo557,rxn01019_c0,Carbamoyl-phosphate:L-ornithine carbamoyltransferase [c0]
+Pedo557,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Pedo557,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Pedo557,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+Pedo557,rxn00293_c0,UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase [c0]
+Pedo557,rxn03891_c0,R05612 [c0]
+Pedo557,rxn03394_c0,R04987 [c0]
+Pedo557,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Pedo557,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Pedo557,rxn03537_c0,R05222 [c0]
+Pedo557,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+Pedo557,rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase [c0]
+Phaeo,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Phaeo,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Phaeo,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Phaeo,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Phaeo,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Phaeo,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Phaeo,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Phaeo,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Phaeo,rxn01258_c0,chorismate hydroxymutase [c0]
+Phaeo,EX_cpd00149_e0,Exchange for Co2+ [e0]
+Phaeo,rxn05235_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase [c0]
+Phaeo,rxn05166_c0,RXNBWI-115367.ce [c0]
+Phaeo,rxn05039_c0,R07280 [c0]
+Phaeo,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Phaeo,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Phaeo,rxn01539_c0,thiamin monophosphate phosphohydrolase [c0]
+Phaeo,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Phaeo,rxn05733_c0,"O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming) [c0]"
+Phaeo,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Phaeo,rxn00128_c0,S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming) [c0]
+Phaeo,rxn12008_c0,R05611 [c0]
+Phaeo,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Phaeo,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Phaeo,rxn09310_c0,thiazole phosphate synthesis [c0]
+Phaeo,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+Phaeo,rxn08233_c0,Chloride/proton antiport [c0]
+Phaeo,rxn00693_c0,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase [c0]
+Phaeo,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Phaeo,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Phaeo,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Phaeo,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Phaeo,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Phaeo,EX_cpd00099_e0,Exchange for Cl- [e0]
+Phaeo,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Phaeo,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Phaeo,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Phaeo,rxn03150_c0,R04594 [c0]
+Phaeo,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Phaeo,rxn01213_c0,GPPSYN-RXN [c0]
+Phaeo,rxn00738_c0,1-aminocyclopropane-1-carboxylate aminohydrolase (isomerizing) [c0]
+Phaeo,EX_cpd00254_e0,Exchange for Mg [e0]
+Phaeo,rxn01508_c0,ATP:deoxyadenosine 5'-phosphotransferase [c0]
+Phaeo,rxn03891_c0,R05612 [c0]
+Phaeo,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Phaeo,rxn03394_c0,R04987 [c0]
+Phaeo,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Phaeo,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Phaeo,rxn05616_c0,TRANS-RXN-141.ce [c0]
+Putida,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Putida,rxn01513_c0,ATP:dTMP phosphotransferase [c0]
+Putida,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Putida,rxn01258_c0,chorismate hydroxymutase [c0]
+Putida,rxn05039_c0,R07280 [c0]
+Putida,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+Putida,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Putida,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+Putida,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+Putida,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Putida,rxn12008_c0,R05611 [c0]
+Putida,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Putida,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Putida,rxn09310_c0,thiazole phosphate synthesis [c0]
+Putida,rxn08233_c0,Chloride/proton antiport [c0]
+Putida,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Putida,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Putida,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+Putida,rxn09427_c0,fatty-acyl-CoA synthase (n-C18:0CoA) [c0]
+Putida,rxn05618_c0,manganese transport in via proton symport [c0]
+Putida,EX_cpd00099_e0,Exchange for Cl- [e0]
+Putida,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Putida,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Putida,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Putida,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Putida,rxn01213_c0,GPPSYN-RXN [c0]
+Putida,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Putida,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+Putida,rxn03891_c0,R05612 [c0]
+Putida,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Putida,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Putida,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Putida,rxn03167_c0,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum) [c0]"
+SB2B,rxn00467_c0,L-Ornithine:2-oxo-acid aminotransferase [c0]
+SB2B,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+SB2B,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+SB2B,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+SB2B,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+SB2B,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+SB2B,rxn05618_c0,manganese transport in via proton symport [c0]
+SB2B,rxn05039_c0,R07280 [c0]
+SB2B,EX_cpd00099_e0,Exchange for Cl- [e0]
+SB2B,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+SB2B,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+SB2B,rxn00141_c0,S-Adenosyl-L-homocysteine hydrolase [c0]
+SB2B,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+SB2B,rxn08233_c0,Chloride/proton antiport [c0]
+SB2B,rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase [c0]
+SB2B,rxn01213_c0,GPPSYN-RXN [c0]
+SB2B,rxn09429_c0,fatty acid synthase (n-C18:0) [c0]
+Smeli,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+Smeli,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Smeli,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+Smeli,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+Smeli,rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase [c0]
+Smeli,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Smeli,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Smeli,rxn01258_c0,chorismate hydroxymutase [c0]
+Smeli,rxn05235_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase [c0]
+Smeli,rxn05039_c0,R07280 [c0]
+Smeli,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Smeli,rxn01539_c0,thiamin monophosphate phosphohydrolase [c0]
+Smeli,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Smeli,rxn12008_c0,R05611 [c0]
+Smeli,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+Smeli,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Smeli,rxn09310_c0,thiazole phosphate synthesis [c0]
+Smeli,rxn08233_c0,Chloride/proton antiport [c0]
+Smeli,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Smeli,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Smeli,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+Smeli,rxn09128_c0,"Phospholipase A1 (phosphatidate, n-C18:0) (periplasm) [c0]"
+Smeli,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Smeli,EX_cpd00099_e0,Exchange for Cl- [e0]
+Smeli,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Smeli,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Smeli,rxn03150_c0,R04594 [c0]
+Smeli,rxn01213_c0,GPPSYN-RXN [c0]
+Smeli,rxn01508_c0,ATP:deoxyadenosine 5'-phosphotransferase [c0]
+Smeli,rxn03891_c0,R05612 [c0]
+Smeli,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+Smeli,rxn03394_c0,R04987 [c0]
+Smeli,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+Smeli,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Smeli,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Variovorax_OAS795,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+Variovorax_OAS795,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+Variovorax_OAS795,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+Variovorax_OAS795,rxn02939_c0,4-phospho-D-erythronate:NAD+ 2-oxidoreductase [c0]
+Variovorax_OAS795,rxn00800_c0,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) [c0]"
+Variovorax_OAS795,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+Variovorax_OAS795,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Variovorax_OAS795,rxn01258_c0,chorismate hydroxymutase [c0]
+Variovorax_OAS795,rxn05039_c0,R07280 [c0]
+Variovorax_OAS795,rxn03841_c0,4-amino-4-deoxychorismate pyruvate-lyase [c0]
+Variovorax_OAS795,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+Variovorax_OAS795,rxn03182_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Variovorax_OAS795,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+Variovorax_OAS795,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+Variovorax_OAS795,rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase [c0]"
+Variovorax_OAS795,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+Variovorax_OAS795,rxn11946_c0,R05614 [c0]
+Variovorax_OAS795,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+Variovorax_OAS795,rxn03439_c0,CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase [c0]
+Variovorax_OAS795,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+Variovorax_OAS795,rxn09310_c0,thiazole phosphate synthesis [c0]
+Variovorax_OAS795,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+Variovorax_OAS795,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+Variovorax_OAS795,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+Variovorax_OAS795,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+Variovorax_OAS795,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+Variovorax_OAS795,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+Variovorax_OAS795,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+Variovorax_OAS795,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+Variovorax_OAS795,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+Variovorax_OAS795,rxn01213_c0,GPPSYN-RXN [c0]
+Variovorax_OAS795,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+Variovorax_OAS795,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+Variovorax_OAS795,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+Variovorax_OAS795,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+Variovorax_OAS795,rxn01331_c0,D-erythrose 4-phosphate:NAD+ oxidoreductase [c0]
+Variovorax_OAS795,rxn03394_c0,R04987 [c0]
+Variovorax_OAS795,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+Variovorax_OAS795,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+Variovorax_OAS795,rxn03136_c0,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase [c0]
+WCS417,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+WCS417,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+WCS417,rxn05039_c0,R07280 [c0]
+WCS417,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+WCS417,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+WCS417,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+WCS417,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+WCS417,rxn12008_c0,R05611 [c0]
+WCS417,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+WCS417,rxn09310_c0,thiazole phosphate synthesis [c0]
+WCS417,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+WCS417,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+WCS417,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+WCS417,rxn09427_c0,fatty-acyl-CoA synthase (n-C18:0CoA) [c0]
+WCS417,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+WCS417,rxn09149_c0,"Phospholipase A2 (phosphatidate, n-C18:0) (periplasm) [c0]"
+WCS417,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+WCS417,rxn01213_c0,GPPSYN-RXN [c0]
+WCS417,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+WCS417,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+WCS417,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+WCS417,rxn03891_c0,R05612 [c0]
+WCS417,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+WCS417,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+WCS417,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+acidovorax_3H11,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+acidovorax_3H11,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+acidovorax_3H11,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+acidovorax_3H11,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+acidovorax_3H11,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+acidovorax_3H11,rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+acidovorax_3H11,rxn01258_c0,chorismate hydroxymutase [c0]
+acidovorax_3H11,rxn05039_c0,R07280 [c0]
+acidovorax_3H11,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+acidovorax_3H11,rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0]
+acidovorax_3H11,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+acidovorax_3H11,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+acidovorax_3H11,rxn12224_c0,2-octaprenyl-6-methoxyphenol hydroxylase [c0]
+acidovorax_3H11,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+acidovorax_3H11,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+acidovorax_3H11,rxn09310_c0,thiazole phosphate synthesis [c0]
+acidovorax_3H11,rxn08233_c0,Chloride/proton antiport [c0]
+acidovorax_3H11,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+acidovorax_3H11,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+acidovorax_3H11,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+acidovorax_3H11,rxn05618_c0,manganese transport in via proton symport [c0]
+acidovorax_3H11,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+acidovorax_3H11,EX_cpd00099_e0,Exchange for Cl- [e0]
+acidovorax_3H11,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+acidovorax_3H11,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+acidovorax_3H11,rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase [c0]"
+acidovorax_3H11,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+acidovorax_3H11,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+acidovorax_3H11,rxn01213_c0,GPPSYN-RXN [c0]
+acidovorax_3H11,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+acidovorax_3H11,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+acidovorax_3H11,EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0]
+acidovorax_3H11,rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0]
+acidovorax_3H11,rxn03394_c0,R04987 [c0]
+acidovorax_3H11,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+acidovorax_3H11,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+azobra,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+azobra,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+azobra,rxn00958_c0,4-Hydroxybenzaldehyde:NADP+ oxidoreductase [c0]
+azobra,rxn02159_c0,L-Histidinol:NAD+ oxidoreductase [c0]
+azobra,rxn02404_c0,3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase [c0]
+azobra,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+azobra,rxn04786_c0,"L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase [c0]"
+azobra,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+azobra,rxn00742_c0,L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming) [c0]
+azobra,rxn12510_c0,ATP:pantothenate 4'-phosphotransferase [c0]
+azobra,rxn01258_c0,chorismate hydroxymutase [c0]
+azobra,rxn05039_c0,R07280 [c0]
+azobra,rxn09210_c0,Phosphatidylserine syntase (n-C18:0) [c0]
+azobra,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+azobra,rxn07465_c0,"L-2,4-diaminobutanoate carboxy-lyase [c0]"
+azobra,rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0) [c0]
+azobra,rxn04113_c0,isopentenyl-diphosphate:NAD(P)+ oxidoreductase [c0]
+azobra,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+azobra,rxn03408_c0,"UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase [c0]"
+azobra,rxn00272_c0,L-Alanine:glyoxylate aminotransferase [c0]
+azobra,rxn03146_c0,UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase [c0]
+azobra,rxn12008_c0,R05611 [c0]
+azobra,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+azobra,rxn10204_c0,acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase [c0]
+azobra,rxn09310_c0,thiazole phosphate synthesis [c0]
+azobra,rxn08233_c0,Chloride/proton antiport [c0]
+azobra,rxn10336_c0,stearoyl-cardiolipin synthase [c0]
+azobra,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+azobra,rxn00693_c0,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase [c0]
+azobra,rxn01739_c0,ATP:shikimate 3-phosphotransferase [c0]
+azobra,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+azobra,rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0) [c0]"
+azobra,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+azobra,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+azobra,EX_cpd00099_e0,Exchange for Cl- [e0]
+azobra,rxn00224_c0,protoheme ferro-lyase (protoporphyrin-forming) [c0]
+azobra,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+azobra,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+azobra,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+azobra,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+azobra,rxn01213_c0,GPPSYN-RXN [c0]
+azobra,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+azobra,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+azobra,rxn00863_c0,L-histidinal:NAD+ oxidoreductase [c0]
+azobra,rxn08352_c0,R08210 [c0]
+azobra,rxn03901_c0,undecaprenyl-diphosphate phosphohydrolase [c0]
+azobra,rxn03891_c0,R05612 [c0]
+azobra,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+azobra,rxn03394_c0,R04987 [c0]
+azobra,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+azobra,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+azobra,rxn03167_c0,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate phosphohydrolase (alkaline optimum) [c0]"
+azobra,rxn02402_c0,Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating) [c0]
+azobra,rxn02914_c0,3-Phosphoserine:2-oxoglutarate aminotransferase [c0]
+azobra,rxn00737_c0,L-threonine ammonia-lyase (2-oxobutanoate-forming) [c0]
+psRCH2,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+psRCH2,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+psRCH2,rxn01258_c0,chorismate hydroxymutase [c0]
+psRCH2,rxn05039_c0,R07280 [c0]
+psRCH2,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+psRCH2,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+psRCH2,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+psRCH2,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+psRCH2,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+psRCH2,rxn12008_c0,R05611 [c0]
+psRCH2,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+psRCH2,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+psRCH2,rxn09310_c0,thiazole phosphate synthesis [c0]
+psRCH2,rxn08233_c0,Chloride/proton antiport [c0]
+psRCH2,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+psRCH2,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+psRCH2,rxn05618_c0,manganese transport in via proton symport [c0]
+psRCH2,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+psRCH2,EX_cpd00099_e0,Exchange for Cl- [e0]
+psRCH2,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+psRCH2,rxn09149_c0,"Phospholipase A2 (phosphatidate, n-C18:0) (periplasm) [c0]"
+psRCH2,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+psRCH2,rxn01213_c0,GPPSYN-RXN [c0]
+psRCH2,rxn01637_c0,N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase [c0]
+psRCH2,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+psRCH2,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+psRCH2,rxn03891_c0,R05612 [c0]
+psRCH2,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+psRCH2,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+psRCH2,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+pseudo13_GW456_L13,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+pseudo13_GW456_L13,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+pseudo13_GW456_L13,rxn01258_c0,chorismate hydroxymutase [c0]
+pseudo13_GW456_L13,rxn05039_c0,R07280 [c0]
+pseudo13_GW456_L13,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+pseudo13_GW456_L13,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+pseudo13_GW456_L13,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+pseudo13_GW456_L13,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+pseudo13_GW456_L13,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+pseudo13_GW456_L13,rxn12008_c0,R05611 [c0]
+pseudo13_GW456_L13,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+pseudo13_GW456_L13,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+pseudo13_GW456_L13,rxn09310_c0,thiazole phosphate synthesis [c0]
+pseudo13_GW456_L13,rxn08233_c0,Chloride/proton antiport [c0]
+pseudo13_GW456_L13,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+pseudo13_GW456_L13,rxn05149_c0,ABC-type manganese permease complex [c0]
+pseudo13_GW456_L13,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+pseudo13_GW456_L13,EX_cpd00099_e0,Exchange for Cl- [e0]
+pseudo13_GW456_L13,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+pseudo13_GW456_L13,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+pseudo13_GW456_L13,rxn01022_c0,S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase [c0]
+pseudo13_GW456_L13,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+pseudo13_GW456_L13,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+pseudo13_GW456_L13,rxn09149_c0,"Phospholipase A2 (phosphatidate, n-C18:0) (periplasm) [c0]"
+pseudo13_GW456_L13,rxn01213_c0,GPPSYN-RXN [c0]
+pseudo13_GW456_L13,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+pseudo13_GW456_L13,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+pseudo13_GW456_L13,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+pseudo13_GW456_L13,rxn03891_c0,R05612 [c0]
+pseudo13_GW456_L13,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+pseudo13_GW456_L13,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+pseudo13_GW456_L13,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+pseudo1_N1B4,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+pseudo1_N1B4,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+pseudo1_N1B4,rxn12510_c0,ATP:pantothenate 4'-phosphotransferase [c0]
+pseudo1_N1B4,rxn01258_c0,chorismate hydroxymutase [c0]
+pseudo1_N1B4,rxn00770_c0,ATP:D-ribose-5-phosphate diphosphotransferase [c0]
+pseudo1_N1B4,rxn05039_c0,R07280 [c0]
+pseudo1_N1B4,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+pseudo1_N1B4,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+pseudo1_N1B4,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+pseudo1_N1B4,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+pseudo1_N1B4,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+pseudo1_N1B4,rxn12008_c0,R05611 [c0]
+pseudo1_N1B4,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+pseudo1_N1B4,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+pseudo1_N1B4,rxn09310_c0,thiazole phosphate synthesis [c0]
+pseudo1_N1B4,rxn08233_c0,Chloride/proton antiport [c0]
+pseudo1_N1B4,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+pseudo1_N1B4,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+pseudo1_N1B4,rxn05618_c0,manganese transport in via proton symport [c0]
+pseudo1_N1B4,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+pseudo1_N1B4,EX_cpd00099_e0,Exchange for Cl- [e0]
+pseudo1_N1B4,rxn00774_c0,Ribose-5-phosphate:ammonia ligase (ADP-forming) [c0]
+pseudo1_N1B4,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+pseudo1_N1B4,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+pseudo1_N1B4,rxn00952_c0,O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase [c0]
+pseudo1_N1B4,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+pseudo1_N1B4,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+pseudo1_N1B4,rxn01213_c0,GPPSYN-RXN [c0]
+pseudo1_N1B4,rxn00134_c0,ATP:adenosine 5'-phosphotransferase [c0]
+pseudo1_N1B4,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+pseudo1_N1B4,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+pseudo1_N1B4,rxn03891_c0,R05612 [c0]
+pseudo1_N1B4,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+pseudo1_N1B4,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+pseudo1_N1B4,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+pseudo3_N2E3,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+pseudo3_N2E3,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+pseudo3_N2E3,rxn05039_c0,R07280 [c0]
+pseudo3_N2E3,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+pseudo3_N2E3,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+pseudo3_N2E3,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+pseudo3_N2E3,rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0]
+pseudo3_N2E3,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+pseudo3_N2E3,rxn12008_c0,R05611 [c0]
+pseudo3_N2E3,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+pseudo3_N2E3,rxn09310_c0,thiazole phosphate synthesis [c0]
+pseudo3_N2E3,rxn08233_c0,Chloride/proton antiport [c0]
+pseudo3_N2E3,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+pseudo3_N2E3,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+pseudo3_N2E3,rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0]
+pseudo3_N2E3,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+pseudo3_N2E3,EX_cpd00099_e0,Exchange for Cl- [e0]
+pseudo3_N2E3,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+pseudo3_N2E3,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+pseudo3_N2E3,rxn01022_c0,S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase [c0]
+pseudo3_N2E3,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+pseudo3_N2E3,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+pseudo3_N2E3,rxn01213_c0,GPPSYN-RXN [c0]
+pseudo3_N2E3,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+pseudo3_N2E3,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+pseudo3_N2E3,rxn03891_c0,R05612 [c0]
+pseudo3_N2E3,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+pseudo3_N2E3,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+pseudo3_N2E3,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+pseudo5_N2C3_1,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+pseudo5_N2C3_1,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+pseudo5_N2C3_1,rxn01258_c0,chorismate hydroxymutase [c0]
+pseudo5_N2C3_1,rxn05039_c0,R07280 [c0]
+pseudo5_N2C3_1,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+pseudo5_N2C3_1,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+pseudo5_N2C3_1,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+pseudo5_N2C3_1,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+pseudo5_N2C3_1,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+pseudo5_N2C3_1,rxn12008_c0,R05611 [c0]
+pseudo5_N2C3_1,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+pseudo5_N2C3_1,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+pseudo5_N2C3_1,rxn09310_c0,thiazole phosphate synthesis [c0]
+pseudo5_N2C3_1,rxn08233_c0,Chloride/proton antiport [c0]
+pseudo5_N2C3_1,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+pseudo5_N2C3_1,rxn09128_c0,"Phospholipase A1 (phosphatidate, n-C18:0) (periplasm) [c0]"
+pseudo5_N2C3_1,rxn02264_c0,Hydroxymethylbilane hydro-lyase(cyclizing) [c0]
+pseudo5_N2C3_1,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+pseudo5_N2C3_1,EX_cpd00099_e0,Exchange for Cl- [e0]
+pseudo5_N2C3_1,rxn05618_c0,manganese transport in via proton symport [c0]
+pseudo5_N2C3_1,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+pseudo5_N2C3_1,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+pseudo5_N2C3_1,rxn01213_c0,GPPSYN-RXN [c0]
+pseudo5_N2C3_1,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+pseudo5_N2C3_1,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+pseudo5_N2C3_1,rxn03891_c0,R05612 [c0]
+pseudo5_N2C3_1,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+pseudo5_N2C3_1,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+pseudo5_N2C3_1,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+pseudo6_N2E2,rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0]
+pseudo6_N2E2,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+pseudo6_N2E2,rxn01258_c0,chorismate hydroxymutase [c0]
+pseudo6_N2E2,rxn05039_c0,R07280 [c0]
+pseudo6_N2E2,rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0]
+pseudo6_N2E2,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+pseudo6_N2E2,EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0]
+pseudo6_N2E2,EX_cpd00030_e0,Exchange for Mn2+ [e0]
+pseudo6_N2E2,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+pseudo6_N2E2,rxn12008_c0,R05611 [c0]
+pseudo6_N2E2,rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0]
+pseudo6_N2E2,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+pseudo6_N2E2,rxn09310_c0,thiazole phosphate synthesis [c0]
+pseudo6_N2E2,rxn08233_c0,Chloride/proton antiport [c0]
+pseudo6_N2E2,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+pseudo6_N2E2,rxn09128_c0,"Phospholipase A1 (phosphatidate, n-C18:0) (periplasm) [c0]"
+pseudo6_N2E2,rxn02264_c0,Hydroxymethylbilane hydro-lyase(cyclizing) [c0]
+pseudo6_N2E2,rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0]
+pseudo6_N2E2,EX_cpd00099_e0,Exchange for Cl- [e0]
+pseudo6_N2E2,rxn05618_c0,manganese transport in via proton symport [c0]
+pseudo6_N2E2,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+pseudo6_N2E2,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+pseudo6_N2E2,rxn01213_c0,GPPSYN-RXN [c0]
+pseudo6_N2E2,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+pseudo6_N2E2,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+pseudo6_N2E2,rxn03891_c0,R05612 [c0]
+pseudo6_N2E2,rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]"
+pseudo6_N2E2,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+pseudo6_N2E2,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+rhodanobacter_10B01,rxn03536_c0,R05221 [c0]
+rhodanobacter_10B01,rxn05144_c0,Pyridoxal 5-phosphate synthase [c0]
+rhodanobacter_10B01,rxn00957_c0,4-hydroxybenzaldehyde:NAD+ oxidoreductase [c0]
+rhodanobacter_10B01,EX_cpd00034_e0,Exchange for Zn2+ [e0]
+rhodanobacter_10B01,rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0]
+rhodanobacter_10B01,rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0]
+rhodanobacter_10B01,rxn01258_c0,chorismate hydroxymutase [c0]
+rhodanobacter_10B01,rxn05039_c0,R07280 [c0]
+rhodanobacter_10B01,rxn00420_c0,O-phospho-L-serine phosphohydrolase [c0]
+rhodanobacter_10B01,rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]"
+rhodanobacter_10B01,rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]"
+rhodanobacter_10B01,rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0]
+rhodanobacter_10B01,rxn09310_c0,thiazole phosphate synthesis [c0]
+rhodanobacter_10B01,rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase [c0]
+rhodanobacter_10B01,rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase [c0]
+rhodanobacter_10B01,rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]"
+rhodanobacter_10B01,rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase [c0]
+rhodanobacter_10B01,rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0]
+rhodanobacter_10B01,rxn03108_c0,ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase [c0]
+rhodanobacter_10B01,rxn00193_c0,glutamate racemase [c0]
+rhodanobacter_10B01,rxn03538_c0,R05223 [c0]
+rhodanobacter_10B01,rxn05108_c0,R07396 [c0]
+rhodanobacter_10B01,rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]"
+rhodanobacter_10B01,EX_cpd00063_e0,Exchange for Ca2+ [e0]
+rhodanobacter_10B01,rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0]
+rhodanobacter_10B01,rxn03150_c0,R04594 [c0]
+rhodanobacter_10B01,rxn05150_c0,zinc transport via ABC system [c0]
+rhodanobacter_10B01,rxn05514_c0,calcium transport in/out via proton antiporter [c0]
+rhodanobacter_10B01,rxn01213_c0,GPPSYN-RXN [c0]
+rhodanobacter_10B01,rxn09429_c0,fatty acid synthase (n-C18:0) [c0]
+rhodanobacter_10B01,rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0]
+rhodanobacter_10B01,rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]"
+rhodanobacter_10B01,rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0]
+rhodanobacter_10B01,EX_cpd00048_e0,Exchange for Sulfate [e0]
+rhodanobacter_10B01,rxn03087_c0,"N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase [c0]"
+rhodanobacter_10B01,rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0]
+rhodanobacter_10B01,rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0]
+rhodanobacter_10B01,rxn03537_c0,R05222 [c0]
+rhodanobacter_10B01,rxn05153_c0,sulfate-transporting ATPase [c0]
+rhodanobacter_10B01,rxn08131_c0,4-amino-2-methyl-5-phosphomethylpyrimidine synthetase [c0]

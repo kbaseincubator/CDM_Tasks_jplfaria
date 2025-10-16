@@ -1,21 +1,41 @@
-Reaction_ID,Model_Count
-rxn02185_c0,44
-rxn05039_c0,39
-rxn01213_c0,39
-rxn00599_c0,36
-rxn00979_c0,35
-rxn09310_c0,35
-rxn11703_c0,35
-rxn02304_c0,32
-rxn02898_c0,31
-rxn02832_c0,31
-rxn02831_c0,31
-rxn05459_c0,31
-rxn11702_c0,31
-rxn10094_c0,30
-rxn08333_c0,30
-rxn03397_c0,30
-rxn01258_c0,29
-rxn04139_c0,26
-rxn08233_c0,25
-EX_cpd00099_e0,25
+Reaction_ID,Reaction_Name,Model_Count,Frequency_Percent
+rxn02185_c0,2-Acetolactate pyruvate-lyase (carboxylating) [c0],44,100.0
+rxn05039_c0,R07280 [c0],39,88.63636363636364
+rxn01213_c0,GPPSYN-RXN [c0],39,88.63636363636364
+rxn00599_c0,succinyl-CoA:glycine C-succinyltransferase (decarboxylating) [c0],36,81.81818181818181
+rxn00979_c0,glycolaldehyde:NAD+ oxidoreductase [c0],35,79.54545454545455
+rxn09310_c0,thiazole phosphate synthesis [c0],35,79.54545454545455
+rxn11703_c0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [c0]",35,79.54545454545455
+rxn02304_c0,protoporphyrinogen-IX:oxygen oxidoreductase [c0],32,72.72727272727273
+rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase [c0]",31,70.45454545454545
+rxn11702_c0,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [c0],31,70.45454545454545
+rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase [c0],31,70.45454545454545
+rxn02832_c0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming) [c0]",31,70.45454545454545
+rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming) [c0],31,70.45454545454545
+rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [c0]",30,68.18181818181819
+rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase [c0],30,68.18181818181819
+rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase [c0],30,68.18181818181819
+rxn01258_c0,chorismate hydroxymutase [c0],29,65.9090909090909
+rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase [c0]",26,59.09090909090909
+EX_cpd00099_e0,Exchange for Cl- [e0],25,56.81818181818182
+rxn08233_c0,Chloride/proton antiport [c0],25,56.81818181818182
+rxn12008_c0,R05611 [c0],23,52.27272727272727
+rxn03891_c0,R05612 [c0],23,52.27272727272727
+rxn05514_c0,calcium transport in/out via proton antiporter [c0],22,50.0
+EX_cpd00063_e0,Exchange for Ca2+ [e0],22,50.0
+rxn10213_c0,stearoyl-1-acylglycerol-3-phosphate O-acyltransferase [c0],21,47.72727272727273
+rxn05144_c0,Pyridoxal 5-phosphate synthase [c0],19,43.18181818181818
+rxn00333_c0,Glycolate:oxygen 2-oxidoreductase [c0],18,40.90909090909091
+EX_cpd00030_e0,Exchange for Mn2+ [e0],18,40.90909090909091
+rxn12376_c0,transport of 4-hydroxybenzyl alcohol [extraorganism-cytosol](passive) [c0],18,40.90909090909091
+EX_cpd15378_e0,Exchange for 4-Hydroxy-benzylalcohol [e0],18,40.90909090909091
+rxn12239_c0,4-hydroxy-benzyl-alcohol dehydrogenase [c0],17,38.63636363636363
+rxn03394_c0,R04987 [c0],16,36.36363636363637
+rxn13477_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units) [c0]",16,36.36363636363637
+EX_cpd01981_e0,Exchange for 5-Methylthio-D-ribose [e0],14,31.818181818181817
+rxn05481_c0,5-Methylthio-D-ribose transport in/out via proton symport [c0],14,31.818181818181817
+rxn05618_c0,manganese transport in via proton symport [c0],14,31.818181818181817
+rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0],14,31.818181818181817
+rxn02056_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase [c0],14,31.818181818181817
+rxn00340_c0,L-aspartate:ammonia ligase (AMP-forming) [c0],14,31.818181818181817
+rxn00068_c0,Fe2+:NAD+ oxidoreductase [c0],14,31.818181818181817
