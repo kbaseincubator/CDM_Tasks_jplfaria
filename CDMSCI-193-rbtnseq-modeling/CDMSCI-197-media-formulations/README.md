@@ -62,34 +62,93 @@ Uses the filtered growth matrix from CDMSCI-196:
 
 ## Results Summary
 
-**Mapping Success Rate**: 92.9% (131/141)
+**Status**: COMPLETE (with manual corrections applied)
 
-**Round 1 (Automated)**: 87 mapped
-- Template matches: 52
-- ModelSEED local database: 35
+**Final Mapping Statistics** (after 4 rounds + manual review):
+- **Total carbon sources**: 140 (reduced from 141 after Sucrose exclusion)
+- **Successfully mapped**: 122 (87.1%)
+- **Unmapped**: 18 (12.9%)
 
-**Round 2 (GPT-4o)**: 44 mapped
-- Verified in template: 44
-- LLM suggestions: 54 (10 unverified)
+### Mapping Rounds
 
-**Unmapped (10 compounds)**:
+**Round 1 (Automated)**: 86 mapped
+- Template matches + ModelSEED local database
+- All reliable and verified
+
+**Round 2 (GPT-4o)**: 44 mapped (initially)
+- AI-assisted suggestions
+- **CRITICAL**: 16 incorrect mappings flagged in Round 3
+
+**Round 3 (GPT-5 Validation)**: Identified errors
+- Validated all Round 2 duplicate mappings
+- Flagged 16 incorrect mappings (LLM hallucinations)
+- Prevented ~750 bogus FBA comparisons
+
+**Round 4 (GPT-5 Deep Dive)**: 3 additional mapped
+- Deep analysis of remaining unmapped compounds
+- Final 8 confirmed as UNMAPPED
+
+**Manual Review (2025-10-16)**: 16 corrections applied
+- 8 successfully remapped to correct ModelSEED IDs
+- 8 marked UNMAPPED (not in template GramNegModelTemplateV6.json)
+
+### Key Corrections from Manual Review
+
+**Successfully Corrected**:
+1. Sodium octanoate: cpd00211 (Butyrate, C4) → cpd03846 (octanoate, C8)
+2. Sodium adipate: cpd00751 (L-Fucose) → cpd03642 (Adipate)
+3. D-(-)-tagatose: cpd00751 (L-Fucose) → cpd00589 (D-Tagatose)
+4. D-Glucosamine Hydrochloride: cpd00122 → cpd00276 (GLUM)
+5. D-Raffinose pentahydrate: cpd00795 → cpd00382 (Melitose)
+6. palatinose hydrate: cpd19020 → cpd01200 (Palatinose)
+7. 3-methyl-2-oxopentanoic acid: cpd11493 → cpd00508 (3MOP)
+8. 4-Methyl-2-oxovaleric acid: cpd11493 → cpd00200 (4MOP)
+
+**Template Validation**: All 122 mapped compounds verified to exist in GramNegModelTemplateV6.json
+
+### Final Unmapped Compounds (18 total)
+
+**Not in template** (7):
+- 1,4-Butanediol
 - 1,5-Pentanediol
 - 4-Hydroxyvalerate
+- 5-Keto-D-Gluconic Acid potassium salt
+- Azelaic acid
+- D-Maltose monohydrate
+- Lactitol
+- Suberic acid
+
+**No valid mapping found** (11):
 - 6-O-Acetyl-D-glucose
-- D-Gluconic Acid sodium salt (unverified: cpd00257)
-- D-Glucuronic Acid (unverified: cpd00257)
-- Dodecandioic acid (unverified: cpd29696)
-- L-Rhamnose monohydrate (unverified: cpd08395)
+- D-Gluconic Acid sodium salt
+- D-Glucuronic Acid
+- Dodecandioic acid
+- Gly-DL-Asp
+- L-(-)-sorbose
+- L-Rhamnose monohydrate
 - Lacto-N-neotetraose
 - Maltitol
 - Methyl-B-D-galactopyranoside
 
+### Documentation
+
+- **MANUAL_CORRECTIONS_SUMMARY.md**: Detailed explanation of all corrections
+- **verify_final_mappings.py**: Verification script confirming CDMSCI-199 readiness
+
+## Ready for CDMSCI-199
+
+All systems verified:
+- All mapped compounds exist in ModelSEED template
+- 122 media JSON files generated and verified
+- Total FBA simulations possible: 5,368 (44 organisms × 122 sources)
+- Lost to unmapping: 792 simulations (44 organisms × 18 sources)
+
 ## Next Steps
 
-1. Optional: Run Round 3 (GPT-5 deep dive) for 10 unmapped compounds
-2. Manual curation for any remaining unmapped compounds
-3. Proceed to CDMSCI-198: Build metabolic models using mapped carbon sources
-4. Proceed to CDMSCI-199: Run FBA simulations with media formulations
+1. ~~Optional: Run Round 3 (GPT-5 deep dive) for unmapped compounds~~ COMPLETE
+2. ~~Manual curation for incorrect mappings~~ COMPLETE
+3. CDMSCI-198: Build metabolic models COMPLETE
+4. CDMSCI-199: Run FBA simulations with validated media formulations READY
 
 ## Prerequisites
 
