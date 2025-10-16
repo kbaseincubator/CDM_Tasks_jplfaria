@@ -305,24 +305,22 @@ html_parts.append('</div>')
 # Figure 5: Top 20 Gap-filled Reactions Across All Models
 print("\nAnalyzing gap-filled reactions across all models...")
 
-# Parse gapfill report to count reaction frequency
-from collections import Counter
-gapfilled_reactions = Counter()
+# Load the actual gap-filled reactions
+try:
+    top_reactions_df = pd.read_csv('results/top_gapfilled_reactions.csv')
+    print(f"Loaded {len(top_reactions_df)} reactions from top_gapfilled_reactions.csv")
 
-for _, row in gapfill_df.iterrows():
-    if pd.notna(row['Reactions_Added']) and row['Reactions_Added']:
-        # Split reaction IDs (assuming comma-separated or semicolon-separated)
-        reactions = str(row['Reactions_Added']).replace(';', ',').split(',')
-        for rxn in reactions:
-            rxn = rxn.strip()
-            if rxn:
-                gapfilled_reactions[rxn] += 1
+    # Convert to list of tuples for compatibility
+    gapfilled_reactions = list(zip(top_reactions_df['Reaction_ID'], top_reactions_df['Model_Count']))
 
-print(f"Total unique gap-filled reactions: {len(gapfilled_reactions)}")
-print(f"Total gap-fill additions: {sum(gapfilled_reactions.values())}")
+    print(f"Total unique gap-filled reactions in top 20: {min(20, len(gapfilled_reactions))}")
+    print(f"Most common reaction: {gapfilled_reactions[0][0]} ({gapfilled_reactions[0][1]} models)")
+except FileNotFoundError:
+    print("ERROR: top_gapfilled_reactions.csv not found")
+    gapfilled_reactions = []
 
-# Get top 20
-top_20_reactions = gapfilled_reactions.most_common(20)
+# Get top 20 (already sorted by frequency in CSV)
+top_20_reactions = gapfilled_reactions[:20]
 
 if top_20_reactions:
     reaction_ids = [rxn[0] for rxn in top_20_reactions]
