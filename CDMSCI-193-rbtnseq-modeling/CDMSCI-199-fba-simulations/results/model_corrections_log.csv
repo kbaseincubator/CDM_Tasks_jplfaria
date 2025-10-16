@@ -1,0 +1,29 @@
+orgId,genome_id,exchanges_added,num_exchanges_added,original_reactions,corrected_reactions
+ANA3,ANA3,Ni2+,1,1348,1349
+BFirm,BFirm,Fe2+,1,1568,1569
+Bifido,Bifido,"Fe2+, Molybdate",2,886,888
+Brev2,Brev2,"Ni2+, Molybdate",2,1117,1119
+Btheta,Btheta,"Ni2+, Molybdate",2,1107,1109
+Burk376,Burk376,Fe2+,1,1528,1529
+Burkholderia_OAS925,Burkholderia_OAS925,Fe2+,1,1549,1550
+Bvulgatus_CL09T03C04,Bvulgatus_CL09T03C04,"Ni2+, Molybdate",2,1081,1083
+Caulo,Caulo,Ni2+,1,1218,1219
+Cola,Cola,Ni2+,1,1181,1182
+Dino,Dino,Fe2+,1,1334,1335
+Dyella79,Dyella79,Ni2+,1,1276,1277
+Korea,Korea,Ni2+,1,1079,1080
+Lysobacter_OAE881,Lysobacter_OAE881,Ni2+,1,1161,1162
+MR1,MR1,Ni2+,1,1318,1319
+Marino,Marino,Fe2+,1,1298,1299
+PV4,PV4,Ni2+,1,1341,1342
+Pedo557,Pedo557,"Ni2+, Molybdate",2,1156,1158
+Phaeo,Phaeo,Fe2+,1,1314,1315
+Putida,Putida,Fe2+,1,1536,1537
+SB2B,SB2B,Ni2+,1,1310,1311
+Smeli,Smeli,Fe2+,1,1427,1428
+psRCH2,psRCH2,Fe2+,1,1408,1409
+pseudo13_GW456_L13,pseudo13_GW456_L13,Fe2+,1,1535,1536
+pseudo1_N1B4,pseudo1_N1B4,Fe2+,1,1562,1563
+pseudo5_N2C3_1,pseudo5_N2C3_1,Fe2+,1,1589,1590
+pseudo6_N2E2,pseudo6_N2E2,Fe2+,1,1580,1581
+rhodanobacter_10B01,rhodanobacter_10B01,Ni2+,1,1272,1273

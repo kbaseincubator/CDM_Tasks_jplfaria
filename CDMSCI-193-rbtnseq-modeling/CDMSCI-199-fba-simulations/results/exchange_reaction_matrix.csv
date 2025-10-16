@@ -1,0 +1,45 @@
+orgId,organism,cpd10515,cpd00244,cpd11574,cpd10516,cpd00149,cpd00063,cpd00058,cpd00034,cpd00030,cpd00009,cpd00013,cpd00048,cpd00007,cpd00001,cpd00099,cpd00067,cpd00205,cpd00254,cpd00971
+ANA3,Shewanella sp. ANA-3,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+BFirm,Burkholderia phytofirmans PsJN,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Bifido,Bifidobacterium breve UCC2003,False,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Btheta,Bacteroides thetaiotaomicron VPI-5482,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Burk376,Paraburkholderia bryophila 376MFSha3.1,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Burkholderia_OAS925,Paraburkholderia graminis OAS925,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+CL21,Ralstonia sp. UNC404CL21Col,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Caulo,Caulobacter crescentus NA1000,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Cola,"Echinicola vietnamensis KMM 6221, DSM 17526",True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Cup4G11,Cupriavidus basilensis FW507-4G11,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Dda3937,Dickeya dadantii 3937,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Ddia6719,Dickeya dianthicola 67-19,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+DdiaME23,Dickeya dianthicola ME23,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Dino,Dinoroseobacter shibae DFL-12,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Dyella79,Dyella japonica UNC79MFTsu3.2,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+HerbieS,Herbaspirillum seropedicae SmR1,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Keio,Escherichia coli BW25113,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Korea,Sphingomonas koreensis DSMZ 15582,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Koxy,Klebsiella michiganensis M5al,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Lysobacter_OAE881,Lysobacter sp. OAE881,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+MR1,Shewanella oneidensis MR-1,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Magneto,Magnetospirillum magneticum AMB-1,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Marino,Marinobacter adhaerens HP15,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Miya,Desulfovibrio vulgaris Miyazaki F,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+PS,Dechlorosoma suillum PS,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+PV4,Shewanella loihica PV-4,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Phaeo,Phaeobacter inhibens DSM 17395,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Putida,Pseudomonas putida KT2440,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+SB2B,Shewanella amazonensis SB2B,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Smeli,Sinorhizobium meliloti 1021,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Variovorax_OAS795,Variovorax sp. OAS795,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+WCS417,Pseudomonas simiae WCS417,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+acidovorax_3H11,Acidovorax sp. GW101-3H11,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+azobra,Azospirillum brasilense Sp245,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+psRCH2,Pseudomonas stutzeri RCH2,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+rhodanobacter_10B01,Rhodanobacter denitrificans FW104-10B01,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True

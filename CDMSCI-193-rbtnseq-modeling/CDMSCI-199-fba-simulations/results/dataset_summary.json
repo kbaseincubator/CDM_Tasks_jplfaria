@@ -1,0 +1,18 @@
+{
+  "experimental_carbon_sources": 140,
+  "available_media_files": 122,
+  "simulatable_sources": 121,
+  "experimental_only": 19,
+  "media_only": 0,
+  "organisms": 44,
+  "total_experimental_cells": 6160,
+  "valid_experimental_data": 2200,
+  "missing_experimental_data": 3960,
+  "growth_calls": 1085,
+  "no_growth_calls": 1115,
+  "total_possible_simulations": 5324,
+  "valid_comparisons": 2020,
+  "cannot_compare_nan": 3304,
+  "growth_in_simulatable": 1003,
+  "no_growth_in_simulatable": 1017
+}

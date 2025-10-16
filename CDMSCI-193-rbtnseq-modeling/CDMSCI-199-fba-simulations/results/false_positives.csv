@@ -1,0 +1,171 @@
+organism,carbon_source,experimental,predicted,biomass_flux,missing_compounds,num_missing
+Shewanella sp. ANA-3,"D,L-Malic Acid",0,1,0.3842239785754711,cpd00244,1
+Shewanella sp. ANA-3,D-Alanine,0,1,0.3842239785754684,cpd00244,1
+Shewanella sp. ANA-3,D-Glucose,0,1,0.7684479571509385,cpd00244,1
+Shewanella sp. ANA-3,Ethanol,0,1,0.281436438371818,cpd00244,1
+Shewanella sp. ANA-3,L-Aspartic Acid,0,1,0.3842239785754689,cpd00244,1
+Shewanella sp. ANA-3,L-Proline,0,1,0.7035910959295235,cpd00244,1
+Shewanella sp. ANA-3,L-tyrosine disodium salt,0,1,0.9663259284503724,cpd00244,1
+Shewanella sp. ANA-3,Sodium Formate,0,1,0.0640373297625775,cpd00244,1
+Shewanella sp. ANA-3,Sodium pyruvate,0,1,0.3201866488128925,cpd00244,1
+Burkholderia phytofirmans PsJN,Citric Acid,0,1,0.8440432584820701,cpd10515,1
+Burkholderia phytofirmans PsJN,Ethanol,0,1,0.2813477528273765,cpd10515,1
+Burkholderia phytofirmans PsJN,Glycerol,0,1,0.4220216292410746,cpd10515,1
+Burkholderia phytofirmans PsJN,L-Aspartic Acid,0,1,0.5626955056547582,cpd10515,1
+Burkholderia phytofirmans PsJN,L-tyrosine disodium salt,0,1,1.2660648877230634,cpd10515,1
+Burkholderia phytofirmans PsJN,Sodium Formate,0,1,0.1406738764136861,cpd10515,1
+Burkholderia phytofirmans PsJN,a-Ketoglutaric acid disodium salt hydrate,0,1,0.7033693820684527,cpd10515,1
+Caulobacter crescentus NA1000,Ethanol,0,1,0.2814364383718228,cpd00244,1
+Caulobacter crescentus NA1000,Potassium acetate,0,1,0.281436438371822,cpd00244,1
+Caulobacter crescentus NA1000,Sodium Fumarate dibasic,0,1,0.3742467181330803,cpd00244,1
+Caulobacter crescentus NA1000,Sodium pyruvate,0,1,0.3742467181330767,cpd00244,1
+Caulobacter crescentus NA1000,Sodium succinate dibasic hexahydrate,0,1,0.3742467181330883,cpd00244,1
+Dinoroseobacter shibae DFL-12,D-Alanine,0,1,0.4222687485973037,cpd10515,1
+Dinoroseobacter shibae DFL-12,D-Xylose,0,1,0.7037812476621753,cpd10515,1
+Dinoroseobacter shibae DFL-12,Ethanol,0,1,0.2815124990648674,cpd10515,1
+Dinoroseobacter shibae DFL-12,L-Alanine,0,1,0.4222687485973084,cpd10515,1
+Dinoroseobacter shibae DFL-12,L-Arginine,0,1,0.8445374971946201,cpd10515,1
+Dinoroseobacter shibae DFL-12,L-Aspartic Acid,0,1,0.563024998129737,cpd10515,1
+Dinoroseobacter shibae DFL-12,L-Proline,0,1,0.7037812476621248,cpd10515,1
+Dinoroseobacter shibae DFL-12,Sodium Formate,0,1,0.1407562495324286,cpd10515,1
+Herbaspirillum seropedicae SmR1,Ethanol,0,1,0.3730468093630558,,0
+Herbaspirillum seropedicae SmR1,L-Aspartic Acid,0,1,0.3730468093630364,,0
+Escherichia coli BW25113,Adenosine,0,1,0.7296357365873873,,0
+Escherichia coli BW25113,Citric Acid,0,1,0.5763359678632007,,0
+Escherichia coli BW25113,Ethanol,0,1,0.2814364383718156,,0
+Escherichia coli BW25113,Glycine,0,1,0.192111989287782,,0
+Escherichia coli BW25113,Inosine,0,1,0.7296357365874014,,0
+Escherichia coli BW25113,L-Arabinose,0,1,0.6403732976257842,,0
+Escherichia coli BW25113,L-Arginine,0,1,0.7044106273858354,,0
+Escherichia coli BW25113,L-Asparagine,0,1,0.3842239785754711,,0
+Escherichia coli BW25113,L-Aspartic Acid,0,1,0.3842239785754694,,0
+Escherichia coli BW25113,L-Glutamic acid monopotassium salt monohydrate,0,1,0.5763359678632036,,0
+Escherichia coli BW25113,L-Glutamine,0,1,0.5763359678632065,,0
+Escherichia coli BW25113,L-Proline,0,1,0.7035910959295524,,0
+Escherichia coli BW25113,L-Serine,0,1,0.3201866488127561,,0
+Escherichia coli BW25113,L-Threonine,0,1,0.5122986381006411,,0
+Escherichia coli BW25113,Putrescine Dihydrochloride,0,1,0.5628728767436447,,0
+Escherichia coli BW25113,Sodium Formate,0,1,0.0640373297625778,,0
+Escherichia coli BW25113,Sodium propionate,0,1,0.4221546575577232,,0
+Escherichia coli BW25113,Trisodium citrate dihydrate,0,1,0.5763359678627885,,0
+Sphingomonas koreensis DSMZ 15582,Ethanol,0,1,0.2815124990648662,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,L-Aspartic Acid,0,1,0.3833583750968202,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Potassium acetate,0,1,0.2815124990648713,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Sodium D-Lactate,0,1,0.3833583750968173,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Sodium Formate,0,1,0.1407562495324394,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Sodium Fumarate dibasic,0,1,0.3833583750968213,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Sodium pyruvate,0,1,0.3833583750968167,cpd00244,1
+Sphingomonas koreensis DSMZ 15582,Sodium succinate dibasic hexahydrate,0,1,0.3833583750968172,cpd00244,1
+Shewanella oneidensis MR-1,"D,L-Malic Acid",0,1,0.5628728767436488,cpd00244,1
+Shewanella oneidensis MR-1,D-Alanine,0,1,0.4221546575577288,cpd00244,1
+Shewanella oneidensis MR-1,D-Glucose,0,1,0.8443093151154565,cpd00244,1
+Shewanella oneidensis MR-1,Ethanol,0,1,0.2814364383718248,cpd00244,1
+Shewanella oneidensis MR-1,L-Alanine,0,1,0.4221546575577273,cpd00244,1
+Shewanella oneidensis MR-1,L-Aspartic Acid,0,1,0.562872876743652,cpd00244,1
+Shewanella oneidensis MR-1,L-Glutamic acid monopotassium salt monohydrate,0,1,0.7035910959295545,cpd00244,1
+Shewanella oneidensis MR-1,L-Malic acid disodium salt monohydrate,0,1,0.5628728767436542,cpd00244,1
+Shewanella oneidensis MR-1,L-Proline,0,1,0.703591095929511,cpd00244,1
+Shewanella oneidensis MR-1,L-Serine,0,1,0.4221546575578823,cpd00244,1
+Shewanella oneidensis MR-1,L-tyrosine disodium salt,0,1,1.2664639726731963,cpd00244,1
+Shewanella oneidensis MR-1,Sodium Formate,0,1,0.1407182191859146,cpd00244,1
+Shewanella oneidensis MR-1,Sodium Fumarate dibasic,0,1,0.5628728767436397,cpd00244,1
+Shewanella oneidensis MR-1,Sodium succinate dibasic hexahydrate,0,1,0.5628728767436291,cpd00244,1
+Marinobacter adhaerens HP15,D-Fructose,0,1,0.7316175856212866,cpd10515,1
+Marinobacter adhaerens HP15,D-Glucose,0,1,0.7684085906830531,cpd10515,1
+Marinobacter adhaerens HP15,L-Glutamine,0,1,0.391098243775148,cpd10515,1
+Marinobacter adhaerens HP15,Sodium Formate,0,1,0.0640340492235878,cpd10515,1
+Marinobacter adhaerens HP15,Sodium Fumarate dibasic,0,1,0.3658087928106419,cpd10515,1
+Dechlorosoma suillum PS,Ethanol,0,1,0.3704552574448003,,0
+Dechlorosoma suillum PS,L-Aspartic Acid,0,1,0.3704552574448036,,0
+Shewanella loihica PV-4,Cytidine,0,1,0.6474151712273504,cpd00244,1
+Shewanella loihica PV-4,D-Alanine,0,1,0.3841767422017955,cpd00244,1
+Shewanella loihica PV-4,D-Glucose,0,1,0.7683534844035947,cpd00244,1
+Shewanella loihica PV-4,Ethanol,0,1,0.281436438371819,cpd00244,1
+Shewanella loihica PV-4,L-Alanine,0,1,0.384176742201799,cpd00244,1
+Shewanella loihica PV-4,L-Aspartic Acid,0,1,0.3841767422017963,cpd00244,1
+Shewanella loihica PV-4,L-Glutamic acid monopotassium salt monohydrate,0,1,0.5762651133026898,cpd00244,1
+Shewanella loihica PV-4,L-Proline,0,1,0.7035910959295533,cpd00244,1
+Shewanella loihica PV-4,L-Serine,0,1,0.3201472851680972,cpd00244,1
+Shewanella loihica PV-4,L-tyrosine disodium salt,0,1,0.9662064156132611,cpd00244,1
+Shewanella loihica PV-4,Putrescine Dihydrochloride,0,1,0.5628728767436404,cpd00244,1
+Shewanella loihica PV-4,Sodium D-Lactate,0,1,0.3841767422017958,cpd00244,1
+Shewanella loihica PV-4,Sodium Formate,0,1,0.0640294570336328,cpd00244,1
+Shewanella loihica PV-4,Uridine,0,1,0.647415171227347,cpd00244,1
+Pedobacter sp. GW460-11-11-14-LB5,Adenosine,0,1,0.6536171416703742,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Ethanol,0,1,0.2530555192352234,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Glycerol,0,1,0.3795832788528306,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Inosine,0,1,0.653617141670419,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Potassium acetate,0,1,0.2530555192352295,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Sodium D-Lactate,0,1,0.3795832788528289,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Sodium Fumarate dibasic,0,1,0.506111038470443,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Sodium pyruvate,0,1,0.3795832788528198,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,Sodium succinate dibasic hexahydrate,0,1,0.5061110384704202,"cpd11574,cpd00244",2
+Pedobacter sp. GW460-11-11-14-LB5,a-Ketoglutaric acid disodium salt hydrate,0,1,0.6326387980880791,"cpd11574,cpd00244",2
+Shewanella amazonensis SB2B,D-Alanine,0,1,0.3841767422017995,cpd00244,1
+Shewanella amazonensis SB2B,Ethanol,0,1,0.2814364383718258,cpd00244,1
+Shewanella amazonensis SB2B,Glycine,0,1,0.1920883711008968,cpd00244,1
+Shewanella amazonensis SB2B,L-Arginine,0,1,0.7043240273699658,cpd00244,1
+Shewanella amazonensis SB2B,L-Proline,0,1,0.7035910959296232,cpd00244,1
+Shewanella amazonensis SB2B,L-tyrosine disodium salt,0,1,0.9662064156132608,cpd00244,1
+Shewanella amazonensis SB2B,Sodium D-Lactate,0,1,0.3841767422017973,cpd00244,1
+Shewanella amazonensis SB2B,Sodium Formate,0,1,0.0640294570336335,cpd00244,1
+Sinorhizobium meliloti 1021,Ethanol,0,1,0.2815124990648747,cpd10515,1
+Sinorhizobium meliloti 1021,Potassium acetate,0,1,0.2815124990648716,cpd10515,1
+Sinorhizobium meliloti 1021,Sodium D-Lactate,0,1,0.4222687485973061,cpd10515,1
+Sinorhizobium meliloti 1021,Sodium Formate,0,1,0.1407562495324361,cpd10515,1
+Pseudomonas simiae WCS417,Citric Acid,0,1,0.8442712967562052,,0
+Pseudomonas simiae WCS417,"D,L-Malic Acid",0,1,0.5628475311708055,,0
+Pseudomonas simiae WCS417,D-Serine,0,1,0.4221356483781208,,0
+Pseudomonas simiae WCS417,Glycine,0,1,0.2814237655854033,,0
+Pseudomonas simiae WCS417,L-Aspartic Acid,0,1,0.5628475311708055,,0
+Pseudomonas simiae WCS417,L-Serine,0,1,0.4221356483780976,,0
+Pseudomonas simiae WCS417,L-tyrosine disodium salt,0,1,1.266406945134254,,0
+Pseudomonas simiae WCS417,Sodium Formate,0,1,0.1407118827927016,,0
+Acidovorax sp. GW101-3H11,"D,L-Malic Acid",0,1,0.5628728767443874,,0
+Acidovorax sp. GW101-3H11,Ethanol,0,1,0.2814364383718231,,0
+Acidovorax sp. GW101-3H11,L-Aspartic Acid,0,1,0.5628728767436633,,0
+Acidovorax sp. GW101-3H11,L-Histidine,0,1,0.844309315115479,,0
+Acidovorax sp. GW101-3H11,Potassium acetate,0,1,0.2814364383718319,,0
+Acidovorax sp. GW101-3H11,Sodium Formate,0,1,0.140718219185912,,0
+Pseudomonas stutzeri RCH2,Citric Acid,0,1,0.575269092098113,cpd10515,1
+Pseudomonas stutzeri RCH2,"D,L-Malic Acid",0,1,0.383512728065411,cpd10515,1
+Pseudomonas stutzeri RCH2,L-Aspartic Acid,0,1,0.3835127280654103,cpd10515,1
+Pseudomonas stutzeri RCH2,L-Phenylalanine,0,1,0.63299835924892,cpd10515,1
+Pseudomonas stutzeri RCH2,Sodium Formate,0,1,0.0639187880109011,cpd10515,1
+Pseudomonas fluorescens GW456-L13,Citric Acid,0,1,0.8442712967562216,cpd10515,1
+Pseudomonas fluorescens GW456-L13,"D,L-Malic Acid",0,1,0.5628475311708088,cpd10515,1
+Pseudomonas fluorescens GW456-L13,Ethanol,0,1,0.2814237655854018,cpd10515,1
+Pseudomonas fluorescens GW456-L13,L-Aspartic Acid,0,1,0.5628475311707976,cpd10515,1
+Pseudomonas fluorescens GW456-L13,L-tyrosine disodium salt,0,1,1.2664069451342892,cpd10515,1
+Pseudomonas fluorescens GW456-L13,Sodium Formate,0,1,0.140711882792721,cpd10515,1
+Pseudomonas fluorescens GW456-L13,Sodium pyruvate,0,1,0.4221356483780882,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,Citric Acid,0,1,0.8442712967562156,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,"D,L-Malic Acid",0,1,0.5628475311708034,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,D-Serine,0,1,0.4221356483781061,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,Glycine,0,1,0.2814237655850194,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,L-Serine,0,1,0.4221356483780717,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,L-tyrosine disodium salt,0,1,1.266406945134288,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,Sodium Formate,0,1,0.140711882792681,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,Trisodium citrate dihydrate,0,1,0.8442712967562087,cpd10515,1
+Pseudomonas fluorescens FW300-N2E3,Citric Acid,0,1,0.8442712967562127,,0
+Pseudomonas fluorescens FW300-N2E3,"D,L-Malic Acid",0,1,0.5628475311708107,,0
+Pseudomonas fluorescens FW300-N2E3,Glycine,0,1,0.2814237655853963,,0
+Pseudomonas fluorescens FW300-N2E3,L-tyrosine disodium salt,0,1,1.266406945134608,,0
+Pseudomonas fluorescens FW300-N2E3,Sodium Formate,0,1,0.1407118827927029,,0
+Pseudomonas fluorescens FW300-N2C3,Citric Acid,0,1,0.8442712967561966,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,"D,L-Malic Acid",0,1,0.5628475311707836,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,D-Serine,0,1,0.4221356483780977,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,Glycine,0,1,0.2814237655853915,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,L-Serine,0,1,0.4221356483780929,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,L-tyrosine disodium salt,0,1,1.2664069451342754,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,Sodium Formate,0,1,0.1407118827926902,cpd10515,1
+Pseudomonas fluorescens FW300-N2C3,Trisodium citrate dihydrate,0,1,0.8442712967562022,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,Citric Acid,0,1,0.8442712967561966,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,D-Ribose,0,1,0.7035594139634933,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,Ethanol,0,1,0.2814237655853999,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,Inosine,0,1,0.7296016657407907,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,L-Aspartic Acid,0,1,0.5628475311708012,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,L-Serine,0,1,0.4221356483781037,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,L-tyrosine disodium salt,0,1,1.2664069451341986,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,Potassium acetate,0,1,0.2814237655853814,cpd10515,1
+Pseudomonas fluorescens FW300-N2E2,Sodium Formate,0,1,0.1407118827927067,cpd10515,1

@@ -1,0 +1,122 @@
+experimental_name,media_name,media_filename,standardized
+"1,2-Propanediol",12-Propanediol,12-Propanediol.json,12propanediol
+"1,3-Butandiol",13-Butandiol,13-Butandiol.json,13butandiol
+1-Pentanol,1-Pentanol,1-Pentanol.json,1pentanol
+2-Deoxy-D-Ribose,2-Deoxy-D-Ribose,2-Deoxy-D-Ribose.json,2deoxydribose
+2-methyl-1-butanol,2-methyl-1-butanol,2-methyl-1-butanol.json,2methyl1butanol
+3-Methyl-2-Oxobutanoic Acid,3-Methyl-2-Oxobutanoic Acid,3-Methyl-2-Oxobutanoic_Acid.json,3methyl2oxobutanoicacid
+3-methyl-1-butanol,3-methyl-1-butanol,3-methyl-1-butanol.json,3methyl1butanol
+3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,3methyl2oxopentanoicacid
+4-Aminobutyric acid,4-Aminobutyric acid,4-Aminobutyric_acid.json,4aminobutyricacid
+4-Hydroxybenzoic Acid,4-Hydroxybenzoic Acid,4-Hydroxybenzoic_Acid.json,4hydroxybenzoicacid
+4-Methyl-2-oxovaleric acid,4-Methyl-2-oxovaleric acid,4-Methyl-2-oxovaleric_acid.json,4methyl2oxovalericacid
+5-Aminovaleric acid,5-Aminovaleric acid,5-Aminovaleric_acid.json,5aminovalericacid
+Adenosine,Adenosine,Adenosine.json,adenosine
+Agro_defined_trehalose,Agro defined trehalose,Agro_defined_trehalose.json,agrodefinedtrehalose
+Beta-Lactose,Beta-Lactose,Beta-Lactose.json,betalactose
+Butanol,Butanol,Butanol.json,butanol
+Citric Acid,Citric Acid,Citric_Acid.json,citricacid
+Cytidine,Cytidine,Cytidine.json,cytidine
+"D,L-Malic Acid",DL-Malic Acid,DL-Malic_Acid.json,dlmalicacid
+D-Alanine,D-Alanine,D-Alanine.json,dalanine
+D-Arabinose,D-Arabinose,D-Arabinose.json,darabinose
+D-Fructose,D-Fructose,D-Fructose.json,dfructose
+D-Galactose,D-Galactose,D-Galactose.json,dgalactose
+D-Galacturonic Acid monohydrate,D-Galacturonic Acid monohydrate,D-Galacturonic_Acid_monohydrate.json,dgalacturonicacidmonohydrate
+D-Glucosamine Hydrochloride,D-Glucosamine Hydrochloride,D-Glucosamine_Hydrochloride.json,dglucosaminehydrochloride
+D-Glucose,D-Glucose,D-Glucose.json,dglucose
+D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate_sodium_salt.json,dglucose6phosphatesodiumsalt
+D-Lysine,D-Lysine,D-Lysine.json,dlysine
+D-Mannitol,D-Mannitol,D-Mannitol.json,dmannitol
+D-Mannose,D-Mannose,D-Mannose.json,dmannose
+D-Raffinose pentahydrate,D-Raffinose pentahydrate,D-Raffinose_pentahydrate.json,draffinosepentahydrate
+D-Ribose,D-Ribose,D-Ribose.json,dribose
+D-Salicin,D-Salicin,D-Salicin.json,dsalicin
+D-Serine,D-Serine,D-Serine.json,dserine
+D-Sorbitol,D-Sorbitol,D-Sorbitol.json,dsorbitol
+D-Tagatose,D---tagatose,D---tagatose.json,dtagatose
+D-Trehalose dihydrate,D-Trehalose dihydrate,D-Trehalose_dihydrate.json,dtrehalosedihydrate
+D-Xylose,D-Xylose,D-Xylose.json,dxylose
+Decanoic acid,Decanoic acid,Decanoic_acid.json,decanoicacid
+Disodium Glutarate,Disodium Glutarate,Disodium_Glutarate.json,disodiumglutarate
+Ethanol,Ethanol,Ethanol.json,ethanol
+Ferulic Acid,Ferulic Acid,Ferulic_Acid.json,ferulicacid
+Fumaric acid,Fumaric acid,Fumaric_acid.json,fumaricacid
+Gly-Glu,Gly-Glu,Gly-Glu.json,glyglu
+Glycerol,Glycerol,Glycerol.json,glycerol
+Glycine,Glycine,Glycine.json,glycine
+Glycolic Acid,Glycolic Acid,Glycolic_Acid.json,glycolicacid
+Heptanoic acid,Heptanoic acid,Heptanoic_acid.json,heptanoicacid
+Hexanoic acid,Hexanoic acid,Hexanoic_acid.json,hexanoicacid
+Hydroxy-L-Proline,Hydroxy-L-Proline,Hydroxy-L-Proline.json,hydroxylproline
+Inosine,Inosine,Inosine.json,inosine
+Isomaltose,Isomaltose,Isomaltose.json,isomaltose
+Itaconic Acid,Itaconic Acid,Itaconic_Acid.json,itaconicacid
+L-Alanine,L-Alanine,L-Alanine.json,lalanine
+L-Arabinose,L-Arabinose,L-Arabinose.json,larabinose
+L-Arginine,L-Arginine,L-Arginine.json,larginine
+L-Asparagine,L-Asparagine,L-Asparagine.json,lasparagine
+L-Aspartic Acid,L-Aspartic Acid,L-Aspartic_Acid.json,lasparticacid
+L-Citrulline,L-Citrulline,L-Citrulline.json,lcitrulline
+L-Cysteine hydrochloride monohydrate,L-Cysteine hydrochloride monohydrate,L-Cysteine_hydrochloride_monohydrate.json,lcysteinehydrochloridemonohydrate
+L-Fucose,L-Fucose,L-Fucose.json,lfucose
+L-Glutamic acid monopotassium salt monohydrate,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,lglutamicacidmonopotassiumsaltmonohydrate
+L-Glutamine,L-Glutamine,L-Glutamine.json,lglutamine
+L-Histidine,L-Histidine,L-Histidine.json,lhistidine
+L-Isoleucine,L-Isoleucine,L-Isoleucine.json,lisoleucine
+L-Leucine,L-Leucine,L-Leucine.json,lleucine
+L-Lysine,L-Lysine,L-Lysine.json,llysine
+L-Malic acid disodium salt monohydrate,L-Malic acid disodium salt monohydrate,L-Malic_acid_disodium_salt_monohydrate.json,lmalicaciddisodiumsaltmonohydrate
+L-Methionine,L-Methionine,L-Methionine.json,lmethionine
+L-Ornithine,L-Ornithine,L-Ornithine.json,lornithine
+L-Phenylalanine,L-Phenylalanine,L-Phenylalanine.json,lphenylalanine
+L-Proline,L-Proline,L-Proline.json,lproline
+L-Serine,L-Serine,L-Serine.json,lserine
+L-Sorbose,L-Sorbose,L-Sorbose.json,lsorbose
+L-Threonine,L-Threonine,L-Threonine.json,lthreonine
+L-Tryptophan,L-Tryptophan,L-Tryptophan.json,ltryptophan
+L-Valine,L-Valine,L-Valine.json,lvaline
+L-tyrosine disodium salt,L-tyrosine disodium salt,L-tyrosine_disodium_salt.json,ltyrosinedisodiumsalt
+Lacto-N-tetraose,Lacto-N-tetraose,Lacto-N-tetraose.json,lactontetraose
+Lactulose,Lactulose,Lactulose.json,lactulose
+Lauric acid,Lauric acid,Lauric_acid.json,lauricacid
+Levulinic Acid,Levulinic Acid,Levulinic_Acid.json,levulinicacid
+Malonic acid,Malonic acid,Malonic_acid.json,malonicacid
+Melibiose,Melibiose,Melibiose.json,melibiose
+Myristic acid,Myristic acid,Myristic_acid.json,myristicacid
+N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine.json,nacetyldglucosamine
+Nonanoic acid,Nonanoic acid,Nonanoic_acid.json,nonanoicacid
+Octanoic acid,Octanoic acid,Octanoic_acid.json,octanoicacid
+Oleic acid,Oleic acid,Oleic_acid.json,oleicacid
+Phenylacetic acid,Phenylacetic acid,Phenylacetic_acid.json,phenylaceticacid
+Pimelic acid,Pimelic acid,Pimelic_acid.json,pimelicacid
+Potassium acetate,Potassium acetate,Potassium_acetate.json,potassiumacetate
+Protocatechuic Acid,Protocatechuic Acid,Protocatechuic_Acid.json,protocatechuicacid
+Putrescine Dihydrochloride,Putrescine Dihydrochloride,Putrescine_Dihydrochloride.json,putrescinedihydrochloride
+Sebacic acid,Sebacic acid,Sebacic_acid.json,sebacicacid
+Shikimic Acid,Shikimic Acid,Shikimic_Acid.json,shikimicacid
+"Sodium D,L-Lactate",Sodium DL-Lactate,Sodium_DL-Lactate.json,sodiumdllactate
+Sodium D-Lactate,Sodium D-Lactate,Sodium_D-Lactate.json,sodiumdlactate
+Sodium Formate,Sodium Formate,Sodium_Formate.json,sodiumformate
+Sodium Fumarate dibasic,Sodium Fumarate dibasic,Sodium_Fumarate_dibasic.json,sodiumfumaratedibasic
+Sodium L-Lactate,Sodium L-Lactate,Sodium_L-Lactate.json,sodiumllactate
+Sodium acetate,Sodium acetate,Sodium_acetate.json,sodiumacetate
+Sodium adipate,Sodium adipate,Sodium_adipate.json,sodiumadipate
+Sodium butyrate,Sodium butyrate,Sodium_butyrate.json,sodiumbutyrate
+Sodium octanoate,Sodium octanoate,Sodium_octanoate.json,sodiumoctanoate
+Sodium propionate,Sodium propionate,Sodium_propionate.json,sodiumpropionate
+Sodium pyruvate,Sodium pyruvate,Sodium_pyruvate.json,sodiumpyruvate
+Sodium succinate dibasic hexahydrate,Sodium succinate dibasic hexahydrate,Sodium_succinate_dibasic_hexahydrate.json,sodiumsuccinatedibasichexahydrate
+Succinic Acid,Succinic Acid,Succinic_Acid.json,succinicacid
+Thymidine,Thymidine,Thymidine.json,thymidine
+Trisodium citrate dihydrate,Trisodium citrate dihydrate,Trisodium_citrate_dihydrate.json,trisodiumcitratedihydrate
+Uridine,Uridine,Uridine.json,uridine
+Valeric acid,Valeric acid,Valeric_acid.json,valericacid
+Vanillic Acid,Vanillic Acid,Vanillic_Acid.json,vanillicacid
+Vanillin,Vanillin,Vanillin.json,vanillin
+Xylitol,Xylitol,Xylitol.json,xylitol
+a-Ketoglutaric acid disodium salt hydrate,a-Ketoglutaric acid disodium salt hydrate,a-Ketoglutaric_acid_disodium_salt_hydrate.json,aketoglutaricaciddisodiumsalthydrate
+benzoic acid,benzoic acid,benzoic_acid.json,benzoicacid
+m-Inositol,m-Inositol,m-Inositol.json,minositol
+p-Coumaric acid,p-Coumaric acid,p-Coumaric_acid.json,pcoumaricacid
+palatinose hydrate,palatinose hydrate,palatinose_hydrate.json,palatinosehydrate

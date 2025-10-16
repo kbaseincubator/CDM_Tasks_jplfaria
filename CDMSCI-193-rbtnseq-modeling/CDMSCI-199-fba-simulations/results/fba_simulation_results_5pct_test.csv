@@ -1,0 +1,267 @@
+organism,orgId,carbon_source,media_filename,biomass_flux,status,prediction,missing_compounds,num_missing
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,D-Tagatose,D---tagatose.json,0.0,optimal,0,"cpd00244,cpd00589",2
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,L-Leucine,L-Leucine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00107",3
+Burkholderia phytofirmans PsJN,BFirm,Melibiose,Melibiose.json,0.0,optimal,0,"cpd10515,cpd03198",2
+Escherichia coli BW25113,Keio,L-Tryptophan,L-Tryptophan.json,0.0,optimal,0,,0
+Dyella japonica UNC79MFTsu3.2,Dyella79,L-Phenylalanine,L-Phenylalanine.json,0.0,optimal,0,"cpd00244,cpd00066",2
+Dinoroseobacter shibae DFL-12,Dino,Agro_defined_trehalose,Agro_defined_trehalose.json,0.0,optimal,0,"cpd10515,cpd00794",2
+Caulobacter crescentus NA1000,Caulo,L-Arabinose,L-Arabinose.json,0.0,optimal,0,"cpd00244,cpd00224",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Vanillic Acid,Vanillic_Acid.json,0.0,optimal,0,"cpd10515,cpd04073",2
+Azospirillum brasilense Sp245,azobra,Uridine,Uridine.json,0.0,optimal,0,cpd00249,1
+Paraburkholderia bryophila 376MFSha3.1,Burk376,Sodium succinate dibasic hexahydrate,Sodium_succinate_dibasic_hexahydrate.json,0.5626955056547673,optimal,1,cpd10515,1
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,m-Inositol,m-Inositol.json,0.0,optimal,0,"cpd10515,cpd00121",2
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,L-Methionine,L-Methionine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00060",3
+Bifidobacterium breve UCC2003,Bifido,"D,L-Malic Acid",DL-Malic_Acid.json,0.0,optimal,0,"cpd10515,cpd11574,cpd00130",3
+Bifidobacterium breve UCC2003,Bifido,1-Pentanol,1-Pentanol.json,0.0,optimal,0,"cpd10515,cpd11574,cpd16586",3
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Ferulic Acid,Ferulic_Acid.json,0.0,optimal,0,"cpd10515,cpd01059",2
+Dickeya dianthicola ME23,DdiaME23,Sodium D-Lactate,Sodium_D-Lactate.json,0.0,optimal,0,,0
+Dinoroseobacter shibae DFL-12,Dino,Pimelic acid,Pimelic_acid.json,0.0,optimal,0,"cpd10515,cpd01727",2
+Pseudomonas simiae WCS417,WCS417,D-Glucose,D-Glucose.json,0.844271296756192,optimal,1,,0
+Pseudomonas fluorescens FW300-N2E3,pseudo3_N2E3,Potassium acetate,Potassium_acetate.json,0.28142376558519866,optimal,1,,0
+Burkholderia phytofirmans PsJN,BFirm,"Sodium D,L-Lactate",Sodium_DL-Lactate.json,0.42202162924107345,optimal,1,cpd10515,1
+Pseudomonas stutzeri RCH2,psRCH2,palatinose hydrate,palatinose_hydrate.json,0.0,optimal,0,"cpd10515,cpd01200",2
+Dickeya dianthicola 67-19,Ddia6719,L-Arginine,L-Arginine.json,0.7045405673529084,optimal,1,,0
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,palatinose hydrate,palatinose_hydrate.json,0.0,optimal,0,"cpd00244,cpd01200",2
+Azospirillum brasilense Sp245,azobra,Succinic Acid,Succinic_Acid.json,0.36246960984936144,optimal,1,,0
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,Hexanoic acid,Hexanoic_acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd01113",3
+Dickeya dianthicola ME23,DdiaME23,Uridine,Uridine.json,0.0,optimal,0,cpd00249,1
+Pseudomonas putida KT2440,Putida,Hydroxy-L-Proline,Hydroxy-L-Proline.json,0.0,optimal,0,"cpd10515,cpd00345",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,Succinic Acid,Succinic_Acid.json,0.5628475311707846,optimal,1,cpd10515,1
+Escherichia coli BW25113,Keio,Sodium L-Lactate,Sodium_L-Lactate.json,0.3842239785754441,optimal,1,,0
+Shewanella sp. ANA-3,ANA3,L-Alanine,L-Alanine.json,0.3842239785754727,optimal,1,cpd00244,1
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,Sodium D-Lactate,Sodium_D-Lactate.json,0.37245397182954815,optimal,1,cpd00244,1
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,L-Threonine,L-Threonine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00161",3
+Magnetospirillum magneticum AMB-1,Magneto,2-methyl-1-butanol,2-methyl-1-butanol.json,0.0,optimal,0,cpd16873,1
+Escherichia coli BW25113,Keio,Sodium Formate,Sodium_Formate.json,0.06403732976257785,optimal,1,,0
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,L-Histidine,L-Histidine.json,0.0,optimal,0,"cpd00244,cpd00119",2
+Dickeya dianthicola ME23,DdiaME23,L-Ornithine,L-Ornithine.json,0.7037812476600664,optimal,1,,0
+Shewanella oneidensis MR-1,MR1,Shikimic Acid,Shikimic_Acid.json,0.0,optimal,0,"cpd00244,cpd00383",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Uridine,Uridine.json,0.0,optimal,0,"cpd10515,cpd00249",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,D-Serine,D-Serine.json,0.0,optimal,0,"cpd10515,cpd00550",2
+Desulfovibrio vulgaris Miyazaki F,Miya,Octanoic acid,Octanoic_acid.json,0.0,optimal,0,cpd03846,1
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,L-Lysine,L-Lysine.json,0.0,optimal,0,cpd10515,1
+Marinobacter adhaerens HP15,Marino,D-Trehalose dihydrate,D-Trehalose_dihydrate.json,0.0,optimal,0,cpd10515,1
+Magnetospirillum magneticum AMB-1,Magneto,D-Sorbitol,D-Sorbitol.json,0.0,optimal,0,cpd00588,1
+Pseudomonas fluorescens FW300-N2E3,pseudo3_N2E3,Sodium propionate,Sodium_propionate.json,0.0,optimal,0,,0
+Herbaspirillum seropedicae SmR1,HerbieS,Thymidine,Thymidine.json,0.0,optimal,0,cpd00184,1
+Bifidobacterium breve UCC2003,Bifido,Vanillic Acid,Vanillic_Acid.json,0.0,optimal,0,"cpd10515,cpd11574,cpd04073",3
+Shewanella amazonensis SB2B,SB2B,Adenosine,Adenosine.json,0.0,optimal,0,"cpd00244,cpd00182",2
+Azospirillum brasilense Sp245,azobra,D-Trehalose dihydrate,D-Trehalose_dihydrate.json,0.0,optimal,0,,0
+Ralstonia sp. UNC404CL21Col,CL21,L-Arabinose,L-Arabinose.json,0.0,optimal,0,,0
+Desulfovibrio vulgaris Miyazaki F,Miya,L-Tryptophan,L-Tryptophan.json,0.0,optimal,0,cpd00065,1
+Paraburkholderia bryophila 376MFSha3.1,Burk376,Ethanol,Ethanol.json,0.2813477528273885,optimal,1,cpd10515,1
+Pseudomonas stutzeri RCH2,psRCH2,Glycine,Glycine.json,0.0,optimal,0,"cpd10515,cpd00033",2
+Sphingomonas koreensis DSMZ 15582,Korea,Sodium adipate,Sodium_adipate.json,0.0,optimal,0,"cpd00244,cpd03642",2
+Pseudomonas fluorescens FW300-N2E2,pseudo6_N2E2,L-Malic acid disodium salt monohydrate,L-Malic_acid_disodium_salt_monohydrate.json,0.0,optimal,0,"cpd10515,cpd00130",2
+Pseudomonas fluorescens FW300-N2C3,pseudo5_N2C3_1,Sodium propionate,Sodium_propionate.json,0.0,optimal,0,cpd10515,1
+Marinobacter adhaerens HP15,Marino,L-Citrulline,L-Citrulline.json,0.0,optimal,0,"cpd10515,cpd00274",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,4-Methyl-2-oxovaleric acid,4-Methyl-2-oxovaleric_acid.json,0.0,optimal,0,"cpd10515,cpd00200",2
+Dickeya dianthicola 67-19,Ddia6719,1-Pentanol,1-Pentanol.json,0.0,optimal,0,cpd16586,1
+Bacteroides thetaiotaomicron VPI-5482,Btheta,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00122",3
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,Adenosine,Adenosine.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Dinoroseobacter shibae DFL-12,Dino,Isomaltose,Isomaltose.json,0.0,optimal,0,"cpd10515,cpd00217",2
+Sphingomonas koreensis DSMZ 15582,Korea,L-Proline,L-Proline.json,0.0,optimal,0,"cpd00244,cpd00129",2
+Paraburkholderia bryophila 376MFSha3.1,Burk376,Hexanoic acid,Hexanoic_acid.json,0.0,optimal,0,"cpd10515,cpd01113",2
+Dinoroseobacter shibae DFL-12,Dino,Protocatechuic Acid,Protocatechuic_Acid.json,0.0,optimal,0,"cpd10515,cpd00197",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Sodium acetate,Sodium_acetate.json,0.2813477528273807,optimal,1,cpd10515,1
+Desulfovibrio vulgaris Miyazaki F,Miya,Oleic acid,Oleic_acid.json,0.0,optimal,0,cpd00536,1
+Escherichia coli BW25113,Keio,Sodium Fumarate dibasic,Sodium_Fumarate_dibasic.json,0.3842239785754749,optimal,1,,0
+Pseudomonas putida KT2440,Putida,Myristic acid,Myristic_acid.json,0.0,optimal,0,cpd10515,1
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,2-methyl-1-butanol,2-methyl-1-butanol.json,0.0,optimal,0,"cpd00244,cpd16873",2
+Marinobacter adhaerens HP15,Marino,Myristic acid,Myristic_acid.json,0.0,optimal,0,cpd10515,1
+Cupriavidus basilensis FW507-4G11,Cup4G11,"1,3-Butandiol",13-Butandiol.json,0.6674937507297366,optimal,1,cpd00738,1
+Desulfovibrio vulgaris Miyazaki F,Miya,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,0.0,optimal,0,cpd00508,1
+Marinobacter adhaerens HP15,Marino,3-methyl-1-butanol,3-methyl-1-butanol.json,0.0,optimal,0,"cpd10515,cpd04533",2
+Dickeya dianthicola ME23,DdiaME23,D-Galactose,D-Galactose.json,0.7685897098395357,optimal,1,,0
+Escherichia coli BW25113,Keio,4-Hydroxybenzoic Acid,4-Hydroxybenzoic_Acid.json,0.0,optimal,0,,0
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,Sodium propionate,Sodium_propionate.json,0.0,optimal,0,"cpd00244,cpd00141",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Pseudomonas fluorescens FW300-N2C3,pseudo5_N2C3_1,D-Mannose,D-Mannose.json,0.0,optimal,0,"cpd10515,cpd00138",2
+Pseudomonas fluorescens FW300-N2E2,pseudo6_N2E2,p-Coumaric acid,p-Coumaric_acid.json,0.0,optimal,0,"cpd10515,cpd00604",2
+Cupriavidus basilensis FW507-4G11,Cup4G11,L-Phenylalanine,L-Phenylalanine.json,0.6944551641567055,optimal,1,,0
+Azospirillum brasilense Sp245,azobra,D-Alanine,D-Alanine.json,0.0,optimal,0,cpd00117,1
+Dyella japonica UNC79MFTsu3.2,Dyella79,L-Ornithine,L-Ornithine.json,0.0,optimal,0,"cpd00244,cpd00064",2
+Cupriavidus basilensis FW507-4G11,Cup4G11,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,0.6674937507297366,optimal,1,cpd00508,1
+Shewanella amazonensis SB2B,SB2B,D-Tagatose,D---tagatose.json,0.0,optimal,0,"cpd00244,cpd00589",2
+Desulfovibrio vulgaris Miyazaki F,Miya,Melibiose,Melibiose.json,0.0,optimal,0,cpd03198,1
+Escherichia coli BW25113,Keio,D-Serine,D-Serine.json,0.3201866488128924,optimal,1,,0
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,Disodium Glutarate,Disodium_Glutarate.json,0.0,optimal,0,"cpd00244,cpd00264",2
+Pseudomonas stutzeri RCH2,psRCH2,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine.json,0.0,optimal,0,"cpd10515,cpd00122",2
+Dickeya dianthicola ME23,DdiaME23,Sodium propionate,Sodium_propionate.json,0.0,optimal,0,,0
+Lysobacter sp. OAE881,Lysobacter_OAE881,Xylitol,Xylitol.json,0.0,optimal,0,"cpd00244,cpd00306",2
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,Shikimic Acid,Shikimic_Acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00383",3
+Dinoroseobacter shibae DFL-12,Dino,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,0.7037812476621753,optimal,1,cpd10515,1
+Bifidobacterium breve UCC2003,Bifido,D-Arabinose,D-Arabinose.json,0.0,optimal,0,"cpd10515,cpd11574,cpd00185",3
+Lysobacter sp. OAE881,Lysobacter_OAE881,Gly-Glu,Gly-Glu.json,0.0,optimal,0,"cpd00244,cpd11592",2
+Shewanella loihica PV-4,PV4,D-Alanine,D-Alanine.json,0.38417674220179554,optimal,1,cpd00244,1
+Escherichia coli BW25113,Keio,Butanol,Butanol.json,0.0,optimal,0,cpd03662,1
+Bacteroides thetaiotaomicron VPI-5482,Btheta,L-Citrulline,L-Citrulline.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00274",3
+Dickeya dianthicola ME23,DdiaME23,D-Sorbitol,D-Sorbitol.json,0.0,optimal,0,cpd00588,1
+Pseudomonas fluorescens GW456-L13,pseudo13_GW456_L13,Hexanoic acid,Hexanoic_acid.json,0.0,optimal,0,"cpd10515,cpd01113",2
+Lysobacter sp. OAE881,Lysobacter_OAE881,D-Trehalose dihydrate,D-Trehalose_dihydrate.json,0.0,optimal,0,"cpd00244,cpd00166",2
+Dickeya dianthicola ME23,DdiaME23,Heptanoic acid,Heptanoic_acid.json,0.0,optimal,0,cpd15608,1
+Variovorax sp. OAS795,Variovorax_OAS795,"Sodium D,L-Lactate",Sodium_DL-Lactate.json,0.0,optimal,0,cpd00159,1
+Dechlorosoma suillum PS,PS,Shikimic Acid,Shikimic_Acid.json,0.0,optimal,0,cpd00383,1
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,L-Histidine,L-Histidine.json,0.0,optimal,0,"cpd00244,cpd00119",2
+Shewanella amazonensis SB2B,SB2B,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,0.0,optimal,0,"cpd00244,cpd00508",2
+Caulobacter crescentus NA1000,Caulo,Levulinic Acid,Levulinic_Acid.json,0.0,optimal,0,"cpd00244,cpd00219",2
+Herbaspirillum seropedicae SmR1,HerbieS,Valeric acid,Valeric_acid.json,0.0,optimal,0,cpd00597,1
+Dyella japonica UNC79MFTsu3.2,Dyella79,Myristic acid,Myristic_acid.json,0.0,optimal,0,cpd00244,1
+Pseudomonas fluorescens GW456-L13,pseudo13_GW456_L13,"1,2-Propanediol",12-Propanediol.json,0.0,optimal,0,"cpd10515,cpd00453",2
+Azospirillum brasilense Sp245,azobra,L-Cysteine hydrochloride monohydrate,L-Cysteine_hydrochloride_monohydrate.json,0.0,optimal,0,cpd00084,1
+Herbaspirillum seropedicae SmR1,HerbieS,Shikimic Acid,Shikimic_Acid.json,0.0,optimal,0,cpd00383,1
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,L-Ornithine,L-Ornithine.json,0.7035594139637262,optimal,1,cpd10515,1
+Phaeobacter inhibens DSM 17395,Phaeo,"1,2-Propanediol",12-Propanediol.json,0.0,optimal,0,"cpd10515,cpd00453",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,0.7035594139634951,optimal,1,cpd10515,1
+Shewanella loihica PV-4,PV4,2-methyl-1-butanol,2-methyl-1-butanol.json,0.0,optimal,0,"cpd00244,cpd16873",2
+Marinobacter adhaerens HP15,Marino,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,0.39109824377515,optimal,1,cpd10515,1
+Dickeya dianthicola ME23,DdiaME23,Sodium adipate,Sodium_adipate.json,0.0,optimal,0,cpd03642,1
+Caulobacter crescentus NA1000,Caulo,Glycerol,Glycerol.json,0.0,optimal,0,"cpd00244,cpd00100",2
+Pseudomonas simiae WCS417,WCS417,L-Fucose,L-Fucose.json,0.0,optimal,0,cpd00751,1
+Variovorax sp. OAS795,Variovorax_OAS795,Hydroxy-L-Proline,Hydroxy-L-Proline.json,0.0,optimal,0,cpd00345,1
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,"D,L-Malic Acid",DL-Malic_Acid.json,0.5626955056560282,optimal,1,cpd10515,1
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,D-Galactose,D-Galactose.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,Isomaltose,Isomaltose.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00217",3
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,Fumaric acid,Fumaric_acid.json,0.37245397182951906,optimal,1,cpd00244,1
+Pseudomonas fluorescens FW300-N2E2,pseudo6_N2E2,L-Citrulline,L-Citrulline.json,0.0,optimal,0,"cpd10515,cpd00274",2
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,"cpd00244,cpd00159",2
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,L-Phenylalanine,L-Phenylalanine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00066",3
+Pseudomonas fluorescens FW300-N2E3,pseudo3_N2E3,Glycine,Glycine.json,0.2814237655853963,optimal,1,,0
+Bacteroides thetaiotaomicron VPI-5482,Btheta,D-Trehalose dihydrate,D-Trehalose_dihydrate.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Dechlorosoma suillum PS,PS,3-methyl-1-butanol,3-methyl-1-butanol.json,0.0,optimal,0,cpd04533,1
+Desulfovibrio vulgaris Miyazaki F,Miya,Sodium acetate,Sodium_acetate.json,0.25767296007103874,optimal,1,,0
+Pseudomonas fluorescens FW300-N2E3,pseudo3_N2E3,Ferulic Acid,Ferulic_Acid.json,0.0,optimal,0,cpd01059,1
+Shewanella amazonensis SB2B,SB2B,Melibiose,Melibiose.json,0.0,optimal,0,"cpd00244,cpd03198",2
+Acidovorax sp. GW101-3H11,acidovorax_3H11,Sodium Fumarate dibasic,Sodium_Fumarate_dibasic.json,0.5628728767436546,optimal,1,,0
+Herbaspirillum seropedicae SmR1,HerbieS,1-Pentanol,1-Pentanol.json,0.0,optimal,0,cpd16586,1
+Pseudomonas stutzeri RCH2,psRCH2,L-Arginine,L-Arginine.json,0.0,optimal,0,cpd10515,1
+Shewanella sp. ANA-3,ANA3,Sebacic acid,Sebacic_acid.json,0.0,optimal,0,"cpd00244,cpd05192",2
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,Potassium acetate,Potassium_acetate.json,0.25559760340705745,optimal,1,"cpd11574,cpd00244",2
+Azospirillum brasilense Sp245,azobra,Fumaric acid,Fumaric_acid.json,0.36246960984936155,optimal,1,,0
+Escherichia coli BW25113,Keio,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,0.0,optimal,0,cpd00508,1
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,Heptanoic acid,Heptanoic_acid.json,0.0,optimal,0,"cpd00244,cpd15608",2
+Magnetospirillum magneticum AMB-1,Magneto,2-Deoxy-D-Ribose,2-Deoxy-D-Ribose.json,0.0,optimal,0,cpd01242,1
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,L-Lysine,L-Lysine.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Sphingomonas koreensis DSMZ 15582,Korea,Sodium propionate,Sodium_propionate.json,0.0,optimal,0,"cpd00244,cpd00141",2
+Phaeobacter inhibens DSM 17395,Phaeo,Itaconic Acid,Itaconic_Acid.json,0.0,optimal,0,"cpd10515,cpd00380",2
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine.json,0.0,optimal,0,"cpd00244,cpd00122",2
+Pseudomonas putida KT2440,Putida,Nonanoic acid,Nonanoic_acid.json,0.0,optimal,0,"cpd10515,cpd01126",2
+Shewanella sp. ANA-3,ANA3,D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate_sodium_salt.json,0.0,optimal,0,"cpd00244,cpd00083",2
+Herbaspirillum seropedicae SmR1,HerbieS,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,cpd00159,1
+Variovorax sp. OAS795,Variovorax_OAS795,Sodium succinate dibasic hexahydrate,Sodium_succinate_dibasic_hexahydrate.json,0.5628728767436529,optimal,1,,0
+Dickeya dadantii 3937,Dda3937,5-Aminovaleric acid,5-Aminovaleric_acid.json,0.0,optimal,0,cpd00339,1
+Pseudomonas simiae WCS417,WCS417,Glycerol,Glycerol.json,0.4221356483780987,optimal,1,,0
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,D-Glucosamine Hydrochloride,D-Glucosamine_Hydrochloride.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00276",3
+Pseudomonas fluorescens FW300-N2E2,pseudo6_N2E2,Ethanol,Ethanol.json,0.2814237655853999,optimal,1,cpd10515,1
+Klebsiella michiganensis M5al,Koxy,D-Glucosamine Hydrochloride,D-Glucosamine_Hydrochloride.json,0.0,optimal,0,cpd00276,1
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,D-Ribose,D-Ribose.json,0.0,optimal,0,"cpd00244,cpd00105",2
+Pseudomonas fluorescens FW300-N2C3,pseudo5_N2C3_1,D-Lysine,D-Lysine.json,0.0,optimal,0,"cpd10515,cpd00549",2
+Dickeya dianthicola 67-19,Ddia6719,L-Asparagine,L-Asparagine.json,0.38429485491974125,optimal,1,,0
+Desulfovibrio vulgaris Miyazaki F,Miya,Decanoic acid,Decanoic_acid.json,0.0,optimal,0,cpd01107,1
+"Echinicola vietnamensis KMM 6221, DSM 17526",Cola,Vanillic Acid,Vanillic_Acid.json,0.0,optimal,0,"cpd00244,cpd04073",2
+Azospirillum brasilense Sp245,azobra,L-Glutamine,L-Glutamine.json,0.38728381344639823,optimal,1,,0
+Acidovorax sp. GW101-3H11,acidovorax_3H11,Thymidine,Thymidine.json,0.0,optimal,0,cpd00184,1
+Shewanella sp. ANA-3,ANA3,2-methyl-1-butanol,2-methyl-1-butanol.json,0.0,optimal,0,"cpd00244,cpd16873",2
+Pseudomonas fluorescens FW300-N2E3,pseudo3_N2E3,L-Lysine,L-Lysine.json,0.0,optimal,0,,0
+Lysobacter sp. OAE881,Lysobacter_OAE881,Vanillin,Vanillin.json,0.0,optimal,0,"cpd00244,cpd00561",2
+Variovorax sp. OAS795,Variovorax_OAS795,4-Hydroxybenzoic Acid,4-Hydroxybenzoic_Acid.json,0.0,optimal,0,,0
+Burkholderia phytofirmans PsJN,BFirm,Decanoic acid,Decanoic_acid.json,0.0,optimal,0,"cpd10515,cpd01107",2
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,L-Ornithine,L-Ornithine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00064",3
+Marinobacter adhaerens HP15,Marino,L-Ornithine,L-Ornithine.json,0.39109824377515573,optimal,1,cpd10515,1
+Klebsiella michiganensis M5al,Koxy,Sodium Fumarate dibasic,Sodium_Fumarate_dibasic.json,0.3842948549197655,optimal,1,,0
+Dyella japonica UNC79MFTsu3.2,Dyella79,D-Glucose,D-Glucose.json,0.8445374971946282,optimal,1,cpd00244,1
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,Uridine,Uridine.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Dyella japonica UNC79MFTsu3.2,Dyella79,D-Xylose,D-Xylose.json,0.7037812476621853,optimal,1,cpd00244,1
+Pseudomonas fluorescens GW456-L13,pseudo13_GW456_L13,Hydroxy-L-Proline,Hydroxy-L-Proline.json,0.0,optimal,0,"cpd10515,cpd00345",2
+Paraburkholderia bryophila 376MFSha3.1,Burk376,"Sodium D,L-Lactate",Sodium_DL-Lactate.json,0.0,optimal,0,cpd10515,1
+Sinorhizobium meliloti 1021,Smeli,Thymidine,Thymidine.json,0.0,optimal,0,"cpd10515,cpd00184",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,Malonic acid,Malonic_acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00308",3
+Azospirillum brasilense Sp245,azobra,3-methyl-2-oxopentanoic acid,3-methyl-2-oxopentanoic_acid.json,0.0,optimal,0,cpd00508,1
+Ralstonia sp. UNC404CL21Col,CL21,L-Glutamine,L-Glutamine.json,0.7033693820684643,optimal,1,,0
+Ralstonia sp. UNC404CL21Col,CL21,Melibiose,Melibiose.json,0.0,optimal,0,cpd03198,1
+Sinorhizobium meliloti 1021,Smeli,D-Fructose,D-Fructose.json,0.0,optimal,0,"cpd10515,cpd00082",2
+Pseudomonas stutzeri RCH2,psRCH2,D-Glucose-6-Phosphate sodium salt,D-Glucose-6-Phosphate_sodium_salt.json,0.0,optimal,0,"cpd10515,cpd00083",2
+Cupriavidus basilensis FW507-4G11,Cup4G11,D-Fructose,D-Fructose.json,0.6674937507297366,optimal,1,cpd00082,1
+Herbaspirillum seropedicae SmR1,HerbieS,Vanillin,Vanillin.json,0.0,optimal,0,cpd00561,1
+Acidovorax sp. GW101-3H11,acidovorax_3H11,Octanoic acid,Octanoic_acid.json,0.0,optimal,0,cpd03846,1
+Pseudomonas fluorescens FW300-N2C3,pseudo5_N2C3_1,4-Aminobutyric acid,4-Aminobutyric_acid.json,0.5628475311707977,optimal,1,cpd10515,1
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,Lacto-N-tetraose,Lacto-N-tetraose.json,0.0,optimal,0,"cpd11574,cpd00244,cpd03807",3
+Dickeya dianthicola ME23,DdiaME23,Ferulic Acid,Ferulic_Acid.json,0.0,optimal,0,cpd01059,1
+Azospirillum brasilense Sp245,azobra,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,0.0,optimal,0,cpd00023,1
+Dickeya dianthicola 67-19,Ddia6719,L-Threonine,L-Threonine.json,0.0,optimal,0,,0
+Lysobacter sp. OAE881,Lysobacter_OAE881,Adenosine,Adenosine.json,0.0,optimal,0,"cpd00244,cpd00182",2
+Shewanella loihica PV-4,PV4,"1,3-Butandiol",13-Butandiol.json,0.0,optimal,0,"cpd00244,cpd00738",2
+Desulfovibrio vulgaris Miyazaki F,Miya,D-Sorbitol,D-Sorbitol.json,0.0,optimal,0,cpd00588,1
+Phaeobacter inhibens DSM 17395,Phaeo,Lactulose,Lactulose.json,0.0,optimal,0,"cpd10515,cpd04349",2
+Acidovorax sp. GW101-3H11,acidovorax_3H11,2-methyl-1-butanol,2-methyl-1-butanol.json,0.0,optimal,0,cpd16873,1
+Pseudomonas putida KT2440,Putida,L-Methionine,L-Methionine.json,0.0,optimal,0,cpd10515,1
+Ralstonia sp. UNC404CL21Col,CL21,D-Galacturonic Acid monohydrate,D-Galacturonic_Acid_monohydrate.json,0.0,optimal,0,,0
+Dyella japonica UNC79MFTsu3.2,Dyella79,Sebacic acid,Sebacic_acid.json,0.0,optimal,0,"cpd00244,cpd05192",2
+Dinoroseobacter shibae DFL-12,Dino,D-Glucose,D-Glucose.json,0.0,optimal,0,"cpd10515,cpd00027",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,Ethanol,Ethanol.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00363",3
+Shewanella oneidensis MR-1,MR1,Sodium succinate dibasic hexahydrate,Sodium_succinate_dibasic_hexahydrate.json,0.5628728767436291,optimal,1,cpd00244,1
+Burkholderia phytofirmans PsJN,BFirm,Isomaltose,Isomaltose.json,0.0,optimal,0,"cpd10515,cpd00217",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,cpd10515,1
+Pseudomonas stutzeri RCH2,psRCH2,L-Fucose,L-Fucose.json,0.0,optimal,0,"cpd10515,cpd00751",2
+Dinoroseobacter shibae DFL-12,Dino,L-Phenylalanine,L-Phenylalanine.json,0.0,optimal,0,"cpd10515,cpd00066",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,Sodium acetate,Sodium_acetate.json,0.28142376558539867,optimal,1,cpd10515,1
+Dickeya dianthicola ME23,DdiaME23,Trisodium citrate dihydrate,Trisodium_citrate_dihydrate.json,0.5764422823796794,optimal,1,,0
+Shewanella sp. ANA-3,ANA3,L-Citrulline,L-Citrulline.json,0.0,optimal,0,"cpd00244,cpd00274",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,Sodium D-Lactate,Sodium_D-Lactate.json,0.36760567317651205,optimal,1,"cpd11574,cpd00244",2
+Pseudomonas fluorescens FW300-N2E2,pseudo6_N2E2,Octanoic acid,Octanoic_acid.json,0.0,optimal,0,"cpd10515,cpd03846",2
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,p-Coumaric acid,p-Coumaric_acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00604",3
+Dinoroseobacter shibae DFL-12,Dino,L-Fucose,L-Fucose.json,0.0,optimal,0,"cpd10515,cpd00751",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,L-Methionine,L-Methionine.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00060",3
+Bifidobacterium breve UCC2003,Bifido,Butanol,Butanol.json,0.0,optimal,0,"cpd10515,cpd11574",2
+Shewanella oneidensis MR-1,MR1,Glycerol,Glycerol.json,0.0,optimal,0,"cpd00244,cpd00100",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,"Sodium D,L-Lactate",Sodium_DL-Lactate.json,0.0,optimal,0,"cpd11574,cpd00244",2
+Pseudomonas simiae WCS417,WCS417,Sodium D-Lactate,Sodium_D-Lactate.json,0.4221356483781031,optimal,1,,0
+Dyella japonica UNC79MFTsu3.2,Dyella79,Agro_defined_trehalose,Agro_defined_trehalose.json,0.0,optimal,0,"cpd00244,cpd00794",2
+Escherichia coli BW25113,Keio,Sodium butyrate,Sodium_butyrate.json,0.0,optimal,0,,0
+Sinorhizobium meliloti 1021,Smeli,Sodium octanoate,Sodium_octanoate.json,0.0,optimal,0,"cpd10515,cpd03846",2
+Dickeya dianthicola ME23,DdiaME23,L-Glutamic acid monopotassium salt monohydrate,L-Glutamic_acid_monopotassium_salt_monohydrate.json,0.5764422823796547,optimal,1,,0
+Ralstonia sp. UNC404CL21Col,CL21,Xylitol,Xylitol.json,0.0,optimal,0,cpd00306,1
+Pseudomonas fluorescens GW456-L13,pseudo13_GW456_L13,Lactulose,Lactulose.json,0.0,optimal,0,"cpd10515,cpd04349",2
+Pseudomonas fluorescens FW300-N1B4,pseudo1_N1B4,"1,3-Butandiol",13-Butandiol.json,0.0,optimal,0,"cpd10515,cpd00738",2
+Sinorhizobium meliloti 1021,Smeli,"1,2-Propanediol",12-Propanediol.json,0.0,optimal,0,"cpd10515,cpd00453",2
+Dyella japonica UNC79MFTsu3.2,Dyella79,L-Arabinose,L-Arabinose.json,0.0,optimal,0,cpd00244,1
+Sinorhizobium meliloti 1021,Smeli,1-Pentanol,1-Pentanol.json,0.0,optimal,0,"cpd10515,cpd16586",2
+Shewanella loihica PV-4,PV4,L-Malic acid disodium salt monohydrate,L-Malic_acid_disodium_salt_monohydrate.json,0.0,optimal,0,"cpd00244,cpd00130",2
+Dickeya dadantii 3937,Dda3937,Sodium succinate dibasic hexahydrate,Sodium_succinate_dibasic_hexahydrate.json,0.44834399740639447,optimal,1,,0
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Glycolic Acid,Glycolic_Acid.json,0.0,optimal,0,"cpd10515,cpd00139",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,L-Methionine,L-Methionine.json,0.0,optimal,0,cpd10515,1
+Phaeobacter inhibens DSM 17395,Phaeo,D-Galactose,D-Galactose.json,0.0,optimal,0,"cpd10515,cpd00108",2
+Magnetospirillum magneticum AMB-1,Magneto,p-Coumaric acid,p-Coumaric_acid.json,0.0,optimal,0,cpd00604,1
+Pedobacter sp. GW460-11-11-14-LB5,Pedo557,Levulinic Acid,Levulinic_Acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00219",3
+Shewanella loihica PV-4,PV4,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,cpd00244,1
+Shewanella amazonensis SB2B,SB2B,L-Threonine,L-Threonine.json,0.0,optimal,0,"cpd00244,cpd00161",2
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,Lauric acid,Lauric_acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd01741",3
+Rhodanobacter denitrificans FW104-10B01,rhodanobacter_10B01,Pimelic acid,Pimelic_acid.json,0.0,optimal,0,"cpd00244,cpd01727",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Lauric acid,Lauric_acid.json,0.0,optimal,0,"cpd10515,cpd01741",2
+Bacteroides thetaiotaomicron VPI-5482,Btheta,Adenosine,Adenosine.json,0.6243195558580404,optimal,1,"cpd11574,cpd00244",2
+Shewanella loihica PV-4,PV4,D-Ribose,D-Ribose.json,0.0,optimal,0,"cpd00244,cpd00105",2
+Shewanella oneidensis MR-1,MR1,benzoic acid,benzoic_acid.json,0.0,optimal,0,"cpd00244,cpd00153",2
+Phocaeicola vulgatus CL09T03C04,Bvulgatus_CL09T03C04,Hexanoic acid,Hexanoic_acid.json,0.0,optimal,0,"cpd11574,cpd00244,cpd01113",3
+Dyella japonica UNC79MFTsu3.2,Dyella79,Sodium L-Lactate,Sodium_L-Lactate.json,0.0,optimal,0,"cpd00244,cpd00159",2
+Dickeya dadantii 3937,Dda3937,benzoic acid,benzoic_acid.json,0.0,optimal,0,cpd00153,1
+Dickeya dadantii 3937,Dda3937,Sodium pyruvate,Sodium_pyruvate.json,0.32024571243313793,optimal,1,,0
+Azospirillum brasilense Sp245,azobra,D-Xylose,D-Xylose.json,0.0,optimal,0,cpd00154,1
+Pseudomonas putida KT2440,Putida,Glycine,Glycine.json,0.2814237655851611,optimal,1,cpd10515,1
+Caulobacter crescentus NA1000,Caulo,L-Cysteine hydrochloride monohydrate,L-Cysteine_hydrochloride_monohydrate.json,0.0,optimal,0,"cpd00244,cpd00084",2
+Dickeya dadantii 3937,Dda3937,Isomaltose,Isomaltose.json,0.0,optimal,0,cpd00217,1
+Shewanella amazonensis SB2B,SB2B,Decanoic acid,Decanoic_acid.json,0.0,optimal,0,"cpd00244,cpd01107",2
+Dyella japonica UNC79MFTsu3.2,Dyella79,Trisodium citrate dihydrate,Trisodium_citrate_dihydrate.json,0.0,optimal,0,"cpd00244,cpd00137",2
+Paraburkholderia bryophila 376MFSha3.1,Burk376,Adenosine,Adenosine.json,0.0,optimal,0,"cpd10515,cpd00182",2
+Pseudomonas putida KT2440,Putida,"1,2-Propanediol",12-Propanediol.json,0.0,optimal,0,"cpd10515,cpd00453",2
+Pseudomonas stutzeri RCH2,psRCH2,D-Ribose,D-Ribose.json,0.0,optimal,0,"cpd10515,cpd00105",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,L-Valine,L-Valine.json,0.0,optimal,0,cpd10515,1
+Brevundimonas sp. GW460-12-10-14-LB2,Brev2,Isomaltose,Isomaltose.json,0.0,optimal,0,"cpd11574,cpd00244,cpd00217",3
+Azospirillum brasilense Sp245,azobra,L-Serine,L-Serine.json,0.0,optimal,0,cpd00054,1
+Shewanella sp. ANA-3,ANA3,palatinose hydrate,palatinose_hydrate.json,0.0,optimal,0,"cpd00244,cpd01200",2
+Paraburkholderia graminis OAS925,Burkholderia_OAS925,Decanoic acid,Decanoic_acid.json,0.0,optimal,0,"cpd10515,cpd01107",2
+Dyella japonica UNC79MFTsu3.2,Dyella79,"1,2-Propanediol",12-Propanediol.json,0.0,optimal,0,"cpd00244,cpd00453",2
+Cupriavidus basilensis FW507-4G11,Cup4G11,D-Ribose,D-Ribose.json,0.6674937507297366,optimal,1,cpd00105,1
+Shewanella loihica PV-4,PV4,L-Glutamine,L-Glutamine.json,0.5762651133026949,optimal,1,cpd00244,1
+Sinorhizobium meliloti 1021,Smeli,Sodium pyruvate,Sodium_pyruvate.json,0.42226874859807356,optimal,1,cpd10515,1
+Sinorhizobium meliloti 1021,Smeli,L-Proline,L-Proline.json,0.703781247662098,optimal,1,cpd10515,1
+Dickeya dianthicola ME23,DdiaME23,L-Aspartic Acid,L-Aspartic_Acid.json,0.3842948549197657,optimal,1,,0

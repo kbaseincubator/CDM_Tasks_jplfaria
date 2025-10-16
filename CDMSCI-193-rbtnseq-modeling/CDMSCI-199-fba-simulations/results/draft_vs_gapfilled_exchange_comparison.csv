@@ -1,0 +1,133 @@
+orgId,organism,compound_id,compound_name,in_draft,in_gapfilled,added_by_gapfilling,removed_by_gapfilling,missing_in_both
+ANA3,Shewanella sp. ANA-3,cpd10515,Fe2+,True,True,False,False,False
+ANA3,Shewanella sp. ANA-3,cpd00244,Ni2+,False,False,False,False,True
+ANA3,Shewanella sp. ANA-3,cpd11574,Molybdate,True,True,False,False,False
+BFirm,Burkholderia phytofirmans PsJN,cpd10515,Fe2+,False,False,False,False,True
+BFirm,Burkholderia phytofirmans PsJN,cpd00244,Ni2+,True,True,False,False,False
+BFirm,Burkholderia phytofirmans PsJN,cpd11574,Molybdate,True,True,False,False,False
+Bifido,Bifidobacterium breve UCC2003,cpd10515,Fe2+,False,False,False,False,True
+Bifido,Bifidobacterium breve UCC2003,cpd00244,Ni2+,True,True,False,False,False
+Bifido,Bifidobacterium breve UCC2003,cpd11574,Molybdate,False,False,False,False,True
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,cpd10515,Fe2+,True,True,False,False,False
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,cpd00244,Ni2+,False,False,False,False,True
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,cpd11574,Molybdate,False,False,False,False,True
+Btheta,Bacteroides thetaiotaomicron VPI-5482,cpd10515,Fe2+,True,True,False,False,False
+Btheta,Bacteroides thetaiotaomicron VPI-5482,cpd00244,Ni2+,False,False,False,False,True
+Btheta,Bacteroides thetaiotaomicron VPI-5482,cpd11574,Molybdate,False,False,False,False,True
+Burk376,Paraburkholderia bryophila 376MFSha3.1,cpd10515,Fe2+,False,False,False,False,True
+Burk376,Paraburkholderia bryophila 376MFSha3.1,cpd00244,Ni2+,True,True,False,False,False
+Burk376,Paraburkholderia bryophila 376MFSha3.1,cpd11574,Molybdate,True,True,False,False,False
+Burkholderia_OAS925,Paraburkholderia graminis OAS925,cpd10515,Fe2+,False,False,False,False,True
+Burkholderia_OAS925,Paraburkholderia graminis OAS925,cpd00244,Ni2+,True,True,False,False,False
+Burkholderia_OAS925,Paraburkholderia graminis OAS925,cpd11574,Molybdate,True,True,False,False,False
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,cpd10515,Fe2+,True,True,False,False,False
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,cpd00244,Ni2+,False,False,False,False,True
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,cpd11574,Molybdate,False,False,False,False,True
+CL21,Ralstonia sp. UNC404CL21Col,cpd10515,Fe2+,True,True,False,False,False
+CL21,Ralstonia sp. UNC404CL21Col,cpd00244,Ni2+,True,True,False,False,False
+CL21,Ralstonia sp. UNC404CL21Col,cpd11574,Molybdate,True,True,False,False,False
+Caulo,Caulobacter crescentus NA1000,cpd10515,Fe2+,True,True,False,False,False
+Caulo,Caulobacter crescentus NA1000,cpd00244,Ni2+,False,False,False,False,True
+Caulo,Caulobacter crescentus NA1000,cpd11574,Molybdate,True,True,False,False,False
+Cola,"Echinicola vietnamensis KMM 6221, DSM 17526",cpd10515,Fe2+,True,True,False,False,False
+Cola,"Echinicola vietnamensis KMM 6221, DSM 17526",cpd00244,Ni2+,False,False,False,False,True
+Cola,"Echinicola vietnamensis KMM 6221, DSM 17526",cpd11574,Molybdate,True,True,False,False,False
+Cup4G11,Cupriavidus basilensis FW507-4G11,cpd10515,Fe2+,True,True,False,False,False
+Cup4G11,Cupriavidus basilensis FW507-4G11,cpd00244,Ni2+,True,True,False,False,False
+Cup4G11,Cupriavidus basilensis FW507-4G11,cpd11574,Molybdate,True,True,False,False,False
+Dda3937,Dickeya dadantii 3937,cpd10515,Fe2+,True,True,False,False,False
+Dda3937,Dickeya dadantii 3937,cpd00244,Ni2+,True,True,False,False,False
+Dda3937,Dickeya dadantii 3937,cpd11574,Molybdate,True,True,False,False,False
+Ddia6719,Dickeya dianthicola 67-19,cpd10515,Fe2+,True,True,False,False,False
+Ddia6719,Dickeya dianthicola 67-19,cpd00244,Ni2+,True,True,False,False,False
+Ddia6719,Dickeya dianthicola 67-19,cpd11574,Molybdate,True,True,False,False,False
+DdiaME23,Dickeya dianthicola ME23,cpd10515,Fe2+,True,True,False,False,False
+DdiaME23,Dickeya dianthicola ME23,cpd00244,Ni2+,True,True,False,False,False
+DdiaME23,Dickeya dianthicola ME23,cpd11574,Molybdate,True,True,False,False,False
+Dino,Dinoroseobacter shibae DFL-12,cpd10515,Fe2+,False,False,False,False,True
+Dino,Dinoroseobacter shibae DFL-12,cpd00244,Ni2+,True,True,False,False,False
+Dino,Dinoroseobacter shibae DFL-12,cpd11574,Molybdate,True,True,False,False,False
+Dyella79,Dyella japonica UNC79MFTsu3.2,cpd10515,Fe2+,True,True,False,False,False
+Dyella79,Dyella japonica UNC79MFTsu3.2,cpd00244,Ni2+,False,False,False,False,True
+Dyella79,Dyella japonica UNC79MFTsu3.2,cpd11574,Molybdate,True,True,False,False,False
+HerbieS,Herbaspirillum seropedicae SmR1,cpd10515,Fe2+,True,True,False,False,False
+HerbieS,Herbaspirillum seropedicae SmR1,cpd00244,Ni2+,True,True,False,False,False
+HerbieS,Herbaspirillum seropedicae SmR1,cpd11574,Molybdate,True,True,False,False,False
+Keio,Escherichia coli BW25113,cpd10515,Fe2+,True,True,False,False,False
+Keio,Escherichia coli BW25113,cpd00244,Ni2+,True,True,False,False,False
+Keio,Escherichia coli BW25113,cpd11574,Molybdate,True,True,False,False,False
+Korea,Sphingomonas koreensis DSMZ 15582,cpd10515,Fe2+,True,True,False,False,False
+Korea,Sphingomonas koreensis DSMZ 15582,cpd00244,Ni2+,False,False,False,False,True
+Korea,Sphingomonas koreensis DSMZ 15582,cpd11574,Molybdate,True,True,False,False,False
+Koxy,Klebsiella michiganensis M5al,cpd10515,Fe2+,True,True,False,False,False
+Koxy,Klebsiella michiganensis M5al,cpd00244,Ni2+,True,True,False,False,False
+Koxy,Klebsiella michiganensis M5al,cpd11574,Molybdate,True,True,False,False,False
+Lysobacter_OAE881,Lysobacter sp. OAE881,cpd10515,Fe2+,True,True,False,False,False
+Lysobacter_OAE881,Lysobacter sp. OAE881,cpd00244,Ni2+,False,False,False,False,True
+Lysobacter_OAE881,Lysobacter sp. OAE881,cpd11574,Molybdate,True,True,False,False,False
+MR1,Shewanella oneidensis MR-1,cpd10515,Fe2+,True,True,False,False,False
+MR1,Shewanella oneidensis MR-1,cpd00244,Ni2+,False,False,False,False,True
+MR1,Shewanella oneidensis MR-1,cpd11574,Molybdate,True,True,False,False,False
+Magneto,Magnetospirillum magneticum AMB-1,cpd10515,Fe2+,True,True,False,False,False
+Magneto,Magnetospirillum magneticum AMB-1,cpd00244,Ni2+,True,True,False,False,False
+Magneto,Magnetospirillum magneticum AMB-1,cpd11574,Molybdate,True,True,False,False,False
+Marino,Marinobacter adhaerens HP15,cpd10515,Fe2+,False,False,False,False,True
+Marino,Marinobacter adhaerens HP15,cpd00244,Ni2+,True,True,False,False,False
+Marino,Marinobacter adhaerens HP15,cpd11574,Molybdate,True,True,False,False,False
+Miya,Desulfovibrio vulgaris Miyazaki F,cpd10515,Fe2+,True,True,False,False,False
+Miya,Desulfovibrio vulgaris Miyazaki F,cpd00244,Ni2+,True,True,False,False,False
+Miya,Desulfovibrio vulgaris Miyazaki F,cpd11574,Molybdate,True,True,False,False,False
+PS,Dechlorosoma suillum PS,cpd10515,Fe2+,True,True,False,False,False
+PS,Dechlorosoma suillum PS,cpd00244,Ni2+,True,True,False,False,False
+PS,Dechlorosoma suillum PS,cpd11574,Molybdate,True,True,False,False,False
+PV4,Shewanella loihica PV-4,cpd10515,Fe2+,True,True,False,False,False
+PV4,Shewanella loihica PV-4,cpd00244,Ni2+,False,False,False,False,True
+PV4,Shewanella loihica PV-4,cpd11574,Molybdate,True,True,False,False,False
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,cpd10515,Fe2+,True,True,False,False,False
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,cpd00244,Ni2+,False,False,False,False,True
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,cpd11574,Molybdate,False,False,False,False,True
+Phaeo,Phaeobacter inhibens DSM 17395,cpd10515,Fe2+,False,False,False,False,True
+Phaeo,Phaeobacter inhibens DSM 17395,cpd00244,Ni2+,True,True,False,False,False
+Phaeo,Phaeobacter inhibens DSM 17395,cpd11574,Molybdate,True,True,False,False,False
+Putida,Pseudomonas putida KT2440,cpd10515,Fe2+,False,False,False,False,True
+Putida,Pseudomonas putida KT2440,cpd00244,Ni2+,True,True,False,False,False
+Putida,Pseudomonas putida KT2440,cpd11574,Molybdate,True,True,False,False,False
+SB2B,Shewanella amazonensis SB2B,cpd10515,Fe2+,True,True,False,False,False
+SB2B,Shewanella amazonensis SB2B,cpd00244,Ni2+,False,False,False,False,True
+SB2B,Shewanella amazonensis SB2B,cpd11574,Molybdate,True,True,False,False,False
+Smeli,Sinorhizobium meliloti 1021,cpd10515,Fe2+,False,False,False,False,True
+Smeli,Sinorhizobium meliloti 1021,cpd00244,Ni2+,True,True,False,False,False
+Smeli,Sinorhizobium meliloti 1021,cpd11574,Molybdate,True,True,False,False,False
+Variovorax_OAS795,Variovorax sp. OAS795,cpd10515,Fe2+,True,True,False,False,False
+Variovorax_OAS795,Variovorax sp. OAS795,cpd00244,Ni2+,True,True,False,False,False
+Variovorax_OAS795,Variovorax sp. OAS795,cpd11574,Molybdate,True,True,False,False,False
+WCS417,Pseudomonas simiae WCS417,cpd10515,Fe2+,True,True,False,False,False
+WCS417,Pseudomonas simiae WCS417,cpd00244,Ni2+,True,True,False,False,False
+WCS417,Pseudomonas simiae WCS417,cpd11574,Molybdate,True,True,False,False,False
+acidovorax_3H11,Acidovorax sp. GW101-3H11,cpd10515,Fe2+,True,True,False,False,False
+acidovorax_3H11,Acidovorax sp. GW101-3H11,cpd00244,Ni2+,True,True,False,False,False
+acidovorax_3H11,Acidovorax sp. GW101-3H11,cpd11574,Molybdate,True,True,False,False,False
+azobra,Azospirillum brasilense Sp245,cpd10515,Fe2+,True,True,False,False,False
+azobra,Azospirillum brasilense Sp245,cpd00244,Ni2+,True,True,False,False,False
+azobra,Azospirillum brasilense Sp245,cpd11574,Molybdate,True,True,False,False,False
+psRCH2,Pseudomonas stutzeri RCH2,cpd10515,Fe2+,False,False,False,False,True
+psRCH2,Pseudomonas stutzeri RCH2,cpd00244,Ni2+,True,True,False,False,False
+psRCH2,Pseudomonas stutzeri RCH2,cpd11574,Molybdate,True,True,False,False,False
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,cpd10515,Fe2+,False,False,False,False,True
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,cpd00244,Ni2+,True,True,False,False,False
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,cpd11574,Molybdate,True,True,False,False,False
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,cpd10515,Fe2+,False,False,False,False,True
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,cpd00244,Ni2+,True,True,False,False,False
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,cpd11574,Molybdate,True,True,False,False,False
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,cpd10515,Fe2+,True,True,False,False,False
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,cpd00244,Ni2+,True,True,False,False,False
+pseudo3_N2E3,Pseudomonas fluorescens FW300-N2E3,cpd11574,Molybdate,True,True,False,False,False
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,cpd10515,Fe2+,False,False,False,False,True
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,cpd00244,Ni2+,True,True,False,False,False
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,cpd11574,Molybdate,True,True,False,False,False
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,cpd10515,Fe2+,False,False,False,False,True
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,cpd00244,Ni2+,True,True,False,False,False
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,cpd11574,Molybdate,True,True,False,False,False
+rhodanobacter_10B01,Rhodanobacter denitrificans FW104-10B01,cpd10515,Fe2+,True,True,False,False,False
+rhodanobacter_10B01,Rhodanobacter denitrificans FW104-10B01,cpd00244,Ni2+,False,False,False,False,True
+rhodanobacter_10B01,Rhodanobacter denitrificans FW104-10B01,cpd11574,Molybdate,True,True,False,False,False

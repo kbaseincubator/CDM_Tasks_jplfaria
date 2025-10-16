@@ -1,0 +1,34 @@
+orgId,organism,compound_id,compound_name
+ANA3,Shewanella sp. ANA-3,cpd00244,Ni2+
+BFirm,Burkholderia phytofirmans PsJN,cpd10515,Fe2+
+Bifido,Bifidobacterium breve UCC2003,cpd10515,Fe2+
+Bifido,Bifidobacterium breve UCC2003,cpd11574,Molybdate
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,cpd00244,Ni2+
+Brev2,Brevundimonas sp. GW460-12-10-14-LB2,cpd11574,Molybdate
+Btheta,Bacteroides thetaiotaomicron VPI-5482,cpd00244,Ni2+
+Btheta,Bacteroides thetaiotaomicron VPI-5482,cpd11574,Molybdate
+Burk376,Paraburkholderia bryophila 376MFSha3.1,cpd10515,Fe2+
+Burkholderia_OAS925,Paraburkholderia graminis OAS925,cpd10515,Fe2+
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,cpd00244,Ni2+
+Bvulgatus_CL09T03C04,Phocaeicola vulgatus CL09T03C04,cpd11574,Molybdate
+Caulo,Caulobacter crescentus NA1000,cpd00244,Ni2+
+Cola,"Echinicola vietnamensis KMM 6221, DSM 17526",cpd00244,Ni2+
+Dino,Dinoroseobacter shibae DFL-12,cpd10515,Fe2+
+Dyella79,Dyella japonica UNC79MFTsu3.2,cpd00244,Ni2+
+Korea,Sphingomonas koreensis DSMZ 15582,cpd00244,Ni2+
+Lysobacter_OAE881,Lysobacter sp. OAE881,cpd00244,Ni2+
+MR1,Shewanella oneidensis MR-1,cpd00244,Ni2+
+Marino,Marinobacter adhaerens HP15,cpd10515,Fe2+
+PV4,Shewanella loihica PV-4,cpd00244,Ni2+
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,cpd00244,Ni2+
+Pedo557,Pedobacter sp. GW460-11-11-14-LB5,cpd11574,Molybdate
+Phaeo,Phaeobacter inhibens DSM 17395,cpd10515,Fe2+
+Putida,Pseudomonas putida KT2440,cpd10515,Fe2+
+SB2B,Shewanella amazonensis SB2B,cpd00244,Ni2+
+Smeli,Sinorhizobium meliloti 1021,cpd10515,Fe2+
+psRCH2,Pseudomonas stutzeri RCH2,cpd10515,Fe2+
+pseudo13_GW456_L13,Pseudomonas fluorescens GW456-L13,cpd10515,Fe2+
+pseudo1_N1B4,Pseudomonas fluorescens FW300-N1B4,cpd10515,Fe2+
+pseudo5_N2C3_1,Pseudomonas fluorescens FW300-N2C3,cpd10515,Fe2+
+pseudo6_N2E2,Pseudomonas fluorescens FW300-N2E2,cpd10515,Fe2+
+rhodanobacter_10B01,Rhodanobacter denitrificans FW104-10B01,cpd00244,Ni2+

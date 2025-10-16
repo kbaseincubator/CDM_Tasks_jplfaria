@@ -302,6 +302,81 @@ html_parts.append('<div class="plot-container">')
 html_parts.append(fig4.to_html(include_plotlyjs=False, div_id="fig4"))
 html_parts.append('</div>')
 
+# Figure 5: Top 20 Gap-filled Reactions Across All Models
+print("\nAnalyzing gap-filled reactions across all models...")
+
+# Parse gapfill report to count reaction frequency
+from collections import Counter
+gapfilled_reactions = Counter()
+
+for _, row in gapfill_df.iterrows():
+    if pd.notna(row['Reactions_Added']) and row['Reactions_Added']:
+        # Split reaction IDs (assuming comma-separated or semicolon-separated)
+        reactions = str(row['Reactions_Added']).replace(';', ',').split(',')
+        for rxn in reactions:
+            rxn = rxn.strip()
+            if rxn:
+                gapfilled_reactions[rxn] += 1
+
+print(f"Total unique gap-filled reactions: {len(gapfilled_reactions)}")
+print(f"Total gap-fill additions: {sum(gapfilled_reactions.values())}")
+
+# Get top 20
+top_20_reactions = gapfilled_reactions.most_common(20)
+
+if top_20_reactions:
+    reaction_ids = [rxn[0] for rxn in top_20_reactions]
+    reaction_counts = [rxn[1] for rxn in top_20_reactions]
+
+    fig5 = go.Figure()
+
+    fig5.add_trace(go.Bar(
+        y=reaction_ids[::-1],  # Reverse for better display (highest at top)
+        x=reaction_counts[::-1],
+        orientation='h',
+        marker_color='#11998e',
+        hovertemplate='<b>%{y}</b><br>Added to %{x} models<extra></extra>'
+    ))
+
+    fig5.update_layout(
+        title="Top 20 Most Frequently Gap-filled Reactions",
+        xaxis_title="Number of Models",
+        yaxis_title="Reaction ID",
+        height=600,
+        hovermode='closest',
+        yaxis={'tickfont': {'size': 10}}
+    )
+
+    html_parts.append('<div class="section-title">Gap-filled Reactions Analysis</div>')
+    html_parts.append('<div class="plot-container">')
+    html_parts.append(f'<p style="color: #7f8c8d; margin-bottom: 15px;">These are the reactions most commonly added during gap-filling across all {len(successful)} models. High-frequency reactions indicate common metabolic gaps in draft reconstructions.</p>')
+    html_parts.append(fig5.to_html(include_plotlyjs=False, div_id="fig5"))
+    html_parts.append('</div>')
+
+    # Add top 20 table
+    html_parts.append('<div class="plot-title">Top 20 Gap-filled Reactions (Detailed)</div>')
+    html_parts.append('<table style="max-width: 800px;">')
+    html_parts.append('<thead><tr>')
+    html_parts.append('<th>Rank</th>')
+    html_parts.append('<th>Reaction ID</th>')
+    html_parts.append('<th>Models</th>')
+    html_parts.append('<th>Frequency</th>')
+    html_parts.append('</tr></thead>')
+    html_parts.append('<tbody>')
+
+    for i, (rxn_id, count) in enumerate(top_20_reactions, 1):
+        freq_pct = 100 * count / len(successful)
+        html_parts.append('<tr>')
+        html_parts.append(f'<td><strong>{i}</strong></td>')
+        html_parts.append(f'<td><code>{rxn_id}</code></td>')
+        html_parts.append(f'<td>{count} / {len(successful)}</td>')
+        html_parts.append(f'<td>{freq_pct:.1f}%</td>')
+        html_parts.append('</tr>')
+
+    html_parts.append('</tbody></table>')
+else:
+    print("WARNING: Could not parse gap-filled reactions from gapfill_report.csv")
+
 # Detailed table
 html_parts.append('<div class="section-title">Detailed Statistics</div>')
 html_parts.append('<table>')
