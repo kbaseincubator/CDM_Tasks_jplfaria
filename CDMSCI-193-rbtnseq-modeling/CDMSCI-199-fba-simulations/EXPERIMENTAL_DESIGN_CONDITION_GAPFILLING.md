@@ -17,15 +17,22 @@
 
 ## Experimental Design
 
-### Approach: Condition-Specific Gap-Filling
+### Approach: Condition-Specific Gap-Filling with Core-V5.2
 
 For each of the 571 false negative cases (organism × carbon source where experimental=1, predicted=0):
 
 1. Load the **draft model** (pre-gap-filling)
-2. Apply the specific carbon source media
-3. Run gap-filling with universal template model
-4. Track comprehensive metrics (see below)
-5. Compare to pyruvate gap-filling results
+2. Apply the specific carbon source media as **MSMedia** object
+3. Run gap-filling with **Core-V5.2 template** using **MSGapfill**
+4. Integrate gap-fill solution into model
+5. Track comprehensive metrics (see below)
+6. Compare to pyruvate gap-filling results
+
+**Key Difference from Original Approach:**
+- Use **Core-V5.2** template (proper gap-filling template per reference workflow)
+- Use **ModelSEEDpy's MSGapfill** (not COBRApy's basic gapfill function)
+- Use **MSMedia** for media definitions (not raw dictionaries)
+- Follow the same protocol used in CDMSCI-198 but for each carbon source
 
 ### Data Collection
 
@@ -115,12 +122,23 @@ This experiment will provide data-driven evidence to answer:
 
 ## How to Run
 
+**Option 1: Interactive Notebook (Recommended)**
+```bash
+cd /Users/jplfaria/Projects/CDM_Tasks_jplfaria/CDMSCI-193-rbtnseq-modeling/CDMSCI-199-fba-simulations
+
+# Open the corrected notebook with Core-V5.2 template
+jupyter notebook 05-condition-specific-gapfilling-corrected.ipynb
+```
+
+**Option 2: Standalone Script**
 ```bash
 cd /Users/jplfaria/Projects/CDM_Tasks_jplfaria/CDMSCI-193-rbtnseq-modeling/CDMSCI-199-fba-simulations
 
 # Run the experiment (will take 5-10 hours)
 /Users/jplfaria/miniconda3/bin/python3 run_condition_specific_gapfilling.py
 ```
+
+**Note**: The notebook `05-condition-specific-gapfilling-corrected.ipynb` uses the proper ModelSEEDpy protocol with Core-V5.2 template, following the reference workflow from `references/build_metabolic_model/build_model.ipynb`.
 
 ## Contact
 
