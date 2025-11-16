@@ -4,11 +4,13 @@
 feba.db
 
 # Large data files
-*.fasta
 *.faa
 *.fna
-data/raw/protein_sequences/
 data/raw/experiment_metadata/
+
+# Allow specific FASTA directories
+!data/raw/protein_sequences/*.fasta
+!CDMSCI-198-build-models/results/fasta_annotated/*.fasta
 
 # Processed data
 data/processed/
